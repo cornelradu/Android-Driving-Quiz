@@ -1,0 +1,452 @@
+75
+Autoturismul din imagine a oprit regulamentar?
+a.	da, deoarece semnul aditional indica sfarsitul zonei unde oprirea este interzisa;
+b.	nu, deoarece indicatorul "Oprirea interzisa" nu permite oprirea la o distanta mai mica de 100 m de acesta;
+c.	nu, deoarece se afla in zona de actiune a indicatorului "Oprirea interzisa".	 
+1001
+y
+Ce interdictie aveti in intersectia din imagine?
+a.	sa circulati cu o viteza mai mica de 30 km/h;
+b.	sa acordati prioritate de trecere vehiculelor care intra in intersectie;
+c.	sa opriti autovehiculul.	
+1001
+y
+Autovehiculul din imagine a executat corect oprirea?
+a.	nu, pentru ca acest spatiu este rezervat doar opririi autobuzului;
+b.	da, pentru ca autobuzul nu se afla in acel moment in statie;
+c.	da, deoarece semnalizeaza acest lucru cu lumina galbena intermitenta.	
+1100
+y
+Unde veti parca autovehiculul la intalnirea acestui indicator?
+a.	pe trotuar, in lungul acestuia;
+b.	pe trotuar, perpendicular pe acesta;
+c.	pe directia indicata, in parcarea special amenajata.	
+1001
+y
+Este permisa oprirea in situatia data?
+a.	da, daca in statie nu se afla niciun tramvai;
+b.	da, deoarece statia de tramvai este prevazuta cu refugiu pentru pietoni;
+c.	nu.	 
+1001
+y
+Este interzisa stationarea pe un drum public prevazut cu marcaj longitudinal continuu, aplicat intre sensurile de circulatie?
+a.	da, deoarece este interzis prin lege;
+b.	nu, daca nu obliga celelalte vehicule sa treaca peste marcajul continuu;
+c.	nu exista prevedere legala.	
+1010
+y
+Autoturismul din imaginea alaturata a parcat regulamentar?
+a.	da, deoarece respecta atat semnificatia indicatorului, cat si a semnului aditional;
+b.	da, deoarece este parcat in intregime pe trotuar;
+c.	nu, deoarece se afla in afara zonei in care parcarea este permisa.	
+1001
+y
+Care dintre autoturisme stationeaza neregulamentar?
+a.	autoturismul rosu;
+b.	autoturismul alb;
+c.	ambele autoturisme.	
+1001
+y
+Care dintre autovehicule este parcat regulamentar?
+a.	autobuzul;
+b.	autoturismul si autocamionul;
+c.	toate cele trei autovehicule.	
+1010
+y
+Care dintre cele trei autoturisme sunt parcate regulamentar?
+a.	autoturismul galben si autoturismul rosu, deoarece respecta semnificatia indicatorului;
+b.	autoturismul albastru;
+c.	autoturismul rosu si autoturismul albastru, deoarece nu depasesc zona marcata de indicator.	 
+1100
+y
+Care dintre cele trei autovehicule a parcat regulamentar?
+a.	autoturismul albastru;
+b.	autoturismele galben si rosu;
+c.	niciunul.	
+1001
+y
+Autoturismul a parcat regulamentar?
+a.	da, deoarece spatiul ramas este suficient pentru depasire;
+b.	da, deoarece drumul nu este intens circulat;
+c.	nu, deoarece pe acest drum sunt interzise oprirea si stationarea.	
+1001
+y
+Autoturismul stationeaza regulamentar?
+a.	nu, deoarece obliga camionul la depasire;
+b.	da, deoarece in zona nu sunt restrictii de circulatie;
+c.	nu, deoarece se afla pe un drum national.	
+1010
+y
+Autobuzul este stationat. Care dintre cei doi conducatori procedeaza neregulamentar?
+a.	conducatorul autoturismului;
+b.	conducatorul autobuzului;
+c.	ambii conducatori procedeaza regulamentar.	
+1010
+y
+Care dintre autoturisme stationeaza regulamentar?
+a.	autoturismul rosu;
+b.	autoturismul galben;
+c.	ambele autoturisme.	 
+1100
+y
+Unde este interzisa oprirea voluntara a unui vehicul?
+a.	pe drumurile cu un singur sens de circulatie;
+b.	pe drumurile cu o latime mai mica de 6 m;
+c.	in locurile unde s-ar putea impiedica observarea unui indicator sau a unui semnal luminos.
+1001
+n
+In ce situatii oprirea vehiculelor pe drumurile publice este interzisa?
+a.	pe arterele cu un singur sens de circulatie;
+b.	in intersectiile cu sens giratoriu;
+c.	in zona de actiune a indicatorului "Stationarea interzisa".
+1010
+n
+In ce situatii oprirea vehiculelor pe drumurile publice este interzisa?
+a.	pe partea carosabila a drumurilor nationale;
+b.	la mai putin de 50 m de cel mai apropiat colt al intersectiei;
+c.	la o distanta mai mica de 25 m inainte si dupa indicatorul statiei pentru mijloacele de transport public de persoane.
+1001
+n
+Stationarea unui autoturism pe un drum public cu o latime mai mica de 6 m este interzisa?
+a.	da;
+b.	nu;
+c.	legal, nu este prevazut.
+1100
+n
+Intr-o intersectie in care circulatia se desfasoara in sens giratoriu va este interzis:
+a.	sa intoarceti, prin ocolirea sensului giratoriu;
+b.	sa opriti autovehiculul, in afara situatiilor impuse de trafic;
+c.	sa reduceti viteza, intrucat exista pericolul de blocare?
+1010
+n
+Va este permis sa stationati pe timpul noptii pe partea carosabila a unui drum comunal neiluminat?
+a.	da, daca aprindeti luminile de pozitie sau de stationare;
+b.	da, daca prezenta autovehiculului este semnalizata, in afara  luminilor de pozitie, si cu ajutorul triunghiurilor reflectorizante;
+c.	nu, intrucat in toate cazurile se interzice pe timpul noptii stationarea pe partea carosabila.
+1100
+n
+Pe ce drumuri sunt permise oprirea si stationarea vehiculelor si pe partea stanga, in sensul de mers?
+a.	pe drumurile cu sens unic, daca ramane libera cel putin o banda de circulatie;
+b.	pe orice drum;
+c.	pe drumurile cu trafic redus.
+1100
+n
+Este permisa stationarea in dreptul cailor de acces care deservesc proprietatile alaturate drumurilor publice?
+a.	da, dar numai a autovehiculelor avand o masa totala autorizata de pana la 1,5 t;
+b.	legal nu este prevazut;
+c.	nu, deoarece stationarea in astfel de locuri este interzisa.
+1001
+n
+Puteti lasa noaptea, pe un drum public, remorca autoturismului pe care il conduceti?
+a.	da, daca luminile de pozitie sunt aprinse;
+b.	nu, intrucat in acest caz stationarea este interzisa;
+c.	da, deoarece remorca nu face parte din categoria autovehiculelor.
+1010
+n
+Ce autovehicule pot opri in randul doi, langa alte autovehicule stationate pe partea dreapta a carosabilului?
+a.	taximetrele, la urcarea sau coborarea pasagerilor, atunci cand circulatia permite acest lucru;
+b.	toti care au ceva urgent de rezolvat;
+c.	orice autoturism.
+1100
+n
+In ce consta deosebirea dintre oprire si stationare?
+a.	in modul de asezare si asigurare a autovehiculului pe drum;
+b.	nu exista nicio deosebire;
+c.	in durata de imobilizare a vehiculului.
+1001
+n
+Este permisa parcarea autoturismelor pe trotuar, daca se asigura spatiu de cel putin 1 m pentru circulatia pietonilor?
+a.	da, dar numai in acele zone unde exista reglementari in acest sens;
+b.	da, cand vehiculul trebuie scos de pe partea carosabila pentru a nu stanjeni autovehiculele aflate in miscare;
+c.	nu, intrucat trotuarul este rezervat in exclusivitate deplasarii pietonilor.
+1100
+n
+Unde este interzisa oprirea?
+a.	in zona de actiune a indicatorului "Stationarea interzisa";
+b.	pe sectoarele de drum unde depasirea este interzisa;
+c.	in dreptul cailor de acces care deservesc proprietatile alaturate drumurilor publice.
+1010
+n
+Oprirea este interzisa:
+a.	in zona de actiune a indicatorului "Stationarea interzisa";
+b.	in curbe si pe sectoarele de drum cu vizibilitate redusa sub 50 m;
+c.	la mai putin de 50 m de cel mai apropiat colt al intersectiei.
+1010
+n
+Unde este interzisa oprirea?
+a.	pe drumul cu sens unic;
+b.	la o distanta mai mica de 25 m de coltul intersectiei;
+c.	la o distanta de 5 m in spatele ultimului vagon de tramvai oprit in statia fara refugiu pentru pietoni.
+1010
+n
+In ce situatii este interzisa oprirea?
+a.	la o distanta de 5 m in spatele ultimului vagon de tramvai oprit intr-o statie fara refugiu pentru pietoni;
+b.	la o distanta mai mica de 25 m de coltul intersectiei;
+c.	la o distanta mai mica de 25 m inainte si dupa indicatorul statiei pentru mijloacele de transport public de persoane.
+1011
+n
+Unde este interzisa oprirea?
+a.	pe sectoarele de drum unde se afla indicatorul "Drum ingustat";
+b.	pe sectoarele de drum la inceputul carora se afla indicatorul "Drum cu prioritate";
+c.	pe sectoarele de drum neiluminate.
+1100
+n
+Este permisa oprirea in dreptul unei statii de tramvai prevazute cu refugiu pentru pietoni?
+a.	da, cand tramvaiul nu se afla in statie;
+b.	da, deoarece in astfel de statii este permisa depasirea;
+c.	nu.
+1001
+n
+Oprirea este interzisa in urmatoarele situatii:
+a.	pe strazile unde circulatia se desfasoara in sens unic;
+b.	in dreptul altui vehicul care se afla oprit, daca prin aceasta se stanjeneste circulatia a doua vehicule venind din sensuri opuse;
+c.	in zona de actiune a indicatorului care interzice depasirea.
+1011
+n
+Stationarea este interzisa in urmatoarele situatii:
+a.	pe partea carosabila a drumurilor nationale;
+b.	pe sectoarele de drum unde depasirea este interzisa;
+c.	in dreptul cailor de acces care deservesc proprietatile alaturate drumurilor.
+1011
+n
+Unde este permisa parcarea?
+a.	numai in locurile special destinate, semnalizate prin indicatoare sau marcaje;
+b.	numai pe strazile cu o latime de cel putin 6 m;
+c.	pe orice drum public, unde stationarea nu este interzisa, cu conditia sa nu se stanjeneasca circulatia celorlalte vehicule.
+1100
+n
+Este interzisa stationarea in dreptul marcajului longitudinal continuu, aplicat intre sensurile de circulatie?
+a.	nu;
+b.	legal nu este prevazut;
+c.	da, atunci cand conducatorii celorlalte vehicule ar fi obligati astfel sa treaca peste marcajul respectiv.
+1001
+n
+Unde este interzisa oprirea vehiculelor?
+a.	in zona de actiune a indicatorului "Oprirea interzisa", pana la prima intersectie;
+b.	in dreptul cailor de acces care deservesc proprietatile alaturate drumurilor publice;
+c.	pe partea carosabila a drumurilor nationale.
+1100
+n
+In care dintre situatii este interzisa stationarea voluntara a vehiculelor?
+a.	in zona aglomerata a pietelor;
+b.	in pante si in rampe;
+c.	in dreptul cailor de acces care deservesc proprietatile alaturate drumurilor publice.
+1011
+n
+Cum procedati daca ramaneti in pana intr-un tunel?
+a.	motorul trebuie sa functioneze, pentru a putea folosi luminile de avarie;
+b.	opriti functionarea motorului;
+c.	inchideti autovehiculul si va indepartati de acesta.
+1010
+n
+Unde va este permis sa parcati autovehiculul pe drumurile publice?
+a.	in locurile special amenajate si semnalizate prin indicatoare si marcaje rutiere;
+b.	acolo unde circulatia in ambele sensuri se desfasoara fara dificultate;
+c.	acolo unde nu exista parcari amenajate.
+1100
+n
+Cand circulati pe un drum national european va este interzis:
+a.	sa folositi mijloacele de avertizare sonora;
+b.	sa remorcati alt autovehicul;
+c.	sa stationati voluntar pe partea carosabila?
+1001
+n
+Unde este interzisa oprirea voluntara a vehiculelor.
+a.	pe drumurile cu sens unic;
+b.	in zonele rezidentiale semnalizate ca atare;
+c.	la mai putin de 25 m inainte si dupa statiile mijloacelor de transport public de persoane.
+1001
+n
+Este permisa oprirea voluntara a unui vehicul pe trotuar?
+a.	nu;
+b.	da, daca se asigura un spatiu de 1 m latime pentru circulatia pietonilor, iar semnalizarea rutiera permite aceasta manevra;
+c.	legal, nu este prevazut.
+1010
+n
+Este permisa stationarea vehiculelor in zona de actiune a indicatorului "Drum ingustat"?
+a.	nu;
+b.	da;
+c.	legea nu prevede nimic cu privire la acest aspect.
+1100
+n
+Ce va este interzis daca circulati pe un drum national european (E)?
+a.	sa opriti pe partea carosabila;
+b.	sa folositi pe timpul zilei luminile de intalnire;
+c.	sa depasiti.
+1100
+n
+Oprirea este interzisa:
+a.	pe sectoarele de drum neiluminate;
+b.	la o distanta mai mica de 5 m de spatele unui tramvai;
+c.	pe drumurile national europene.
+1001
+n
+Stationarea este interzisa:
+a.	pe sectoarele de drum unde este interzisa depasirea prin indicator;
+b.	pe partea carosabila a drumurilor nationale;
+c.	in zona de actiune a indicatorului "Circulatie in ambele sensuri".
+1100
+n
+In ce situatii este interzisa oprirea?
+a.	in dreptul altui vehicul stationat, daca prin aceasta se stanjeneste circulatia a doua vehicule venind din sensuri opuse;
+b.	in zona de actiune a indicatoarelor care interzic depasirea;
+c.	in zona de actiune a indicatorului "Drum ingustat".
+1111
+n
+In ce situatii nu este permisa oprirea voluntara a vehiculelor?
+a.	pe platforma caii ferate sau de tramvai, daca prin aceasta este stanjenita circulatia vehiculelor pe sine;
+b.	pe pistele obligatorii pentru pietoni;
+c.	la o distanta mai mica de 50 m de trecerea la nivel cu calea ferata.
+1111
+n
+Unde este interzisa oprirea?
+a.	in zona de actiune a indicatorului "Stationarea interzisa";
+b.	in curbe si pe sectoarele de drum cu vizibilitate redusa sub 50 m;
+c.	la mai putin de 25 m de coltul unei intersectii.
+1011
+n
+Unde este interzisa oprirea?
+a.	in zona de stationare cu durata limitata;
+b.	la o distanta mai mica de 25 m fata de trecerea pentru pietoni;
+c.	pe drumurile publice unde circula troleibuze si tramvaie.
+1010
+n
+Cum veti parca regulamentar intr-o piata cu sens giratoriu?
+a.	paralel cu bordura trotuarului si cat mai aproape de aceasta;
+b.	partial pe trotuar;
+c.	in acest loc nu este permisa parcarea.
+1001
+n
+Unde este interzisa stationarea voluntara a vehiculelor?
+a.	in dreptul cailor de acces care deservesc proprietatile alaturate drumurilor publice;
+b.	pe drumurile judetene;
+c.	in zona rezidentiala semnalizata corespunzator.
+1100
+n
+Remorca unui autoturism poate stationa noaptea pe un drum public?
+a.	da, daca aceasta este semnalizata cu triunghiuri reflectorizante;
+b.	da, daca drumul este iluminat;
+c.	nu.
+1001
+n
+Unde se interzice stationarea voluntara?
+a.	pe drumurile cu mai putin de doua benzi pe sensul de mers;
+b.	in zona indicatorului "Circulatie in ambele sensuri";
+c.	in dreptul cailor de acces care deservesc proprietati alaturate drumurilor publice.
+1001
+n
+In ce situatie va este permis sa opriti autovehiculul sau sa stationati pe partea stanga a sensului de mers?
+a.	pe drumurile cu cel putin doua benzi pe sens;
+b.	pe drumurile cu sens unic, daca ramane libera cel putin o banda de circulatie;
+c.	pe drumurile secundare.
+1010
+n
+Este permisa stationarea vehiculelor pe partea carosabila a unui drum public neiluminat?
+a.	nu;
+b.	da, daca sunt aprinse luminile de pozitie sau de stationare;
+c.	da, dar numai in interiorul localitatilor.
+1010
+n
+Oprirea este interzisa:
+a.	in zona indicatorului "Depasirea interzisa";
+b.	in zona in care este instalat indicatorul "Stationarea interzisa";
+c.	in dreptul cailor de acces care deservesc proprietatile alaturate drumurilor publice.
+1100
+n
+Ce obligatii va revin la stationarea autovehiculului pe partea carosabila a unui drum public in interiorul localitatilor?
+a.	sa lasati o distanta de cel putin un metru fata de celelalte vehicule;
+b.	sa-i semnalizati prezenta pe timp de noapte cu luminile de pozitie;
+c.	sa-l asigurati cu frana de ajutor, sa scoateti cheia din contact si sa introduceti maneta schimbatorului intr-una dintre viteze sau in marsarier, apoi sa incuiati usa.
+1001
+n
+Unde este interzisa oprirea voluntara a vehiculelor?
+a.	la o distanta mai mica de 150 m de trecerea la nivel cu calea ferata;
+b.	pe platforma caii ferate sau de tramvai, daca prin aceasta este stanjenita circulatia vehiculelor pe sine;
+c.	la mai putin de 50 m de trecerile pentru pietoni.
+1010
+n
+Cum asigurati un autoturism cu schimbator de viteza, pentru ca acesta sa nu se deplaseze din panta?
+a.	actionati frana de serviciu;
+b.	introduceti maneta intr-o treapta inferioara si actionati frana de ajutor sau de stationare;
+c.	aduceti maneta in "punctul mort".
+1010
+n
+Va este permisa stationarea pe partea stanga in directia de mers?
+a.	nu, in nicio situatie;
+b.	da, pe soselele cu banda laterala consolidata;
+c.	da, pe strazile cu sens unic.
+1001
+n
+In ce situatie este interzisa oprirea?
+a.	in intersectiile cu sens giratoriu;
+b.	in dreptul indicatorului "Stationarea interzisa";
+c.	pe strazile cu sens unic.
+1100
+n
+Unde este interzisa oprirea voluntara a unui vehicul?
+a.	in zona de actiune a indicatorului "Stationarea interzisa";
+b.	in curbe si in alte locuri unde vizibilitatea este redusa sub 100 m;
+c.	in intersectiile cu sens giratoriu.
+1001
+n
+Cand se considera oprire, imobilizarea voluntara a unui vehicul?
+a.	cand vehiculele de pana la 3,5 t executa operatiunea de aprovizionare cu marfuri alimentare;
+b.	cand dureaza cel mult 5 minute;
+c.	cand vehiculul a fost oprit pentru imbarcarea sau debarcarea unor persoane, fara ca prin aceasta sa fie perturbata circulatia.
+1010
+n
+Este permisa oprirea voluntara a autovehiculului in tuneluri?
+a.	nu;
+b.	da;
+c.	numai daca lungimea tunelului depaseste 1000 m.
+1100
+n
+Unde este interzisa oprirea voluntara?
+a.	la o distanta mai mica de 50 m, inainte si dupa statiile mijloacelor de transport in comun;
+b.	pe trecerile pentru pietoni sau la mai putin de 25 m, inainte si dupa acestea;
+c.	la o distanta mai mica de 100 m, inainte si dupa trecerea la nivel cu calea ferata.
+1010
+n
+Unde este interzisa oprirea voluntara?
+a.	in zona de actiune a indicatorului "Prioritate fata de circulatia din sens invers";
+b.	pe trotuar;
+c.	la mai putin de 100 m de calea ferata industriala.
+1100
+n
+Oprirea este interzisa:
+a.	in curbe cu vizibilitatea sub 100 m;
+b.	in locul in care se impiedica vizibilitatea unui semnal luminos;
+c.	la mai putin de 50 m de coltul intersectiei.
+1010
+n
+Unde este interzisa oprirea voluntara?
+a.	in intersectiile dirijate;
+b.	pe sectoarele de drum nemodernizate;
+c.	pe drumurile cu prioritate.
+1100
+n
+Ce obligatii aveti atunci cand doriti sa intrati sau sa iesiti dintr-un rand de vehicule stationate?
+a.	sa semnalizati si sa va asigurati ca puteti executa manevra;
+b.	sa nu executati manevra in zona da actiune a indicatorului "Stationarea interzisa";
+c.	sa va asigurati ca distanta dintre vehicule este suficienta pentru parcarea vehiculului.
+1100
+n
+Autoturismul din imagine a parcat regulamentar?
+a.      da, deoarece este parcat in intregime pe trotuar;
+b.      da, deoarece respecta atat semnificatia indicatorului, cat si a panoului aditional;
+c.      nu, deoarece se afla in afara zonei in care parcarea este permisa.
+1001
+y
+Care dintre autovehicule stationeaza gresit?
+a.      autocamionul;
+b.      autoutilitara;
+c.      ambele autovehicule.
+1001
+y
+Autoturismul alb din dreapta dvs. a oprit regulamentar?
+a.     da, deoarece semnul aditional indica sfarsitul zonei unde oprirea este interzisa;
+b.     nu, deoarece se afla in zona de actiune a indicatorului "Oprirea interzisa";
+c.     nu, deoarece indicatorul  "Oprirea interzisa" nu permite oprirea la o distanta mai mica de 100 m de acesta.
+1010
+y
+

@@ -1,0 +1,193 @@
+32
+Cum veti proceda corect la trecerea de pe o banda pe alta?
+a.	va asigurati din spate;
+b.	va asigurati, semnalizati intentia de a schimba banda si respectati semnificatia marcajului rutier;
+c.	va asigurati atat din fata, cat si din spate.
+1010
+y
+Daca virati la stanga:
+a.	ati selectat bine banda de circulatie si va continuati deplasarea;
+b.	ati selectat bine banda de circulatie, dar opriti pentru ca semaforul este pe culoarea rosie;
+c.	manevra nu este permisa.	
+1010
+y
+Pentru a vira la stanga in intersectia care urmeaza, ati selectat corect banda de circulatie?
+a.	sunteti obligat sa circulati numai inainte;
+b.	da;
+c.	nu.	
+1010
+y
+Daca ati selectat banda de circulatie conform imaginii prezentate, va este permis:
+a.	sa virati numai la dreapta;
+b.	sa circulati numai inainte;
+c.	sa circulati inainte sau la dreapta.	
+1001
+y
+Va incadrati pe banda din dreapta, desi intentionati sa virati la stanga. Cum procedati?
+a.	intrucat din sens opus nu circula alte vehicule, virati accelerat la stanga;
+b.	circulati pe directia inainte sau virati la dreapta;
+c.	semnalizati, claxonati si virati la stanga.	 
+1010
+y
+in sensul giratoriu din imagine sunteti bine incadrat pentru:
+a.	a vira la stanga sau pentru a circula inainte;
+b.	a circula pe directia inainte;
+c.	a vira la dreapta.	
+1100
+y
+Care este traseul de urmat pentru autoturismul din imagine?
+a.	traseul 1;
+b.	traseul 2;
+c.	oricare dintre cele doua, daca respecta toate prevederile legii.	
+1001
+y
+Care autoturisme s-au incadrat corect pentru a traversa intersectia prezentata?
+a.	autoturismul verde si cel rosu;
+b.	autoturismul albastru si cel galben;
+c.	toate.	
+1001
+y
+Care este traseul optim pentru a intoarce in intersectia prezentata?
+a.	traseul 1;
+b.	traseul 2;
+c.	traseul 3.	
+1010
+y
+Pentru a vira la stanga:
+a.	masina rosie va ceda trecerea;
+b.	masina rosie va trece prin spatele celei albastre;
+c.	autoturismele vor folosi traiectoriile care ocolesc prin stanga centrul imaginar al intersectiei.	 
+1001
+y
+In aceasta situatie doriti sa virati pe prima strada la dreapta. Ce obligatii aveti?
+a.	opriti, va asigurati, apoi executati schimbarea directiei de mers spre dreapta;
+b.	semnalizati intentia de a executa manevra, va asigurati, va angajati cat mai aproape de marginea din dreapta, apoi virati  la dreapta;
+c.	ocoliti sensul giratoriu, apoi schimbati directia de mers spre dreapta.	
+1010
+y
+Ce traseu trebuie sa urmati pentru a vira la stanga in intersectie?
+a.	traseul 3;
+b.	traseul 2;
+c.	traseul 1.	
+1001
+y
+Care este traseul recomandat pentru a vira la stanga?
+a.	virajul la stanga este interzis;
+b.	traseul 1;
+c.	traseul 2.	
+1001
+y
+Care dintre autoturisme s-a incadrat corect pentru a schimba directia de mers?
+a.	autoturismul rosu;
+b.	autoturismul albastru;
+c.	ambele autoturisme.	
+1100
+y
+Care dintre autoturismele din imagine circula corect prin intersectie?
+a.	autoturismul verde si cel rosu;
+b.	autoturismul albastru si cel rosu;
+c.	toate cele patru autoturisme.	 
+1001
+y
+Cum trebuie sa procedeze conducatorul autoturismului galben in situatia data?
+a.	depaseste prin partea dreapta autobuzul, dupa ce a trecut autoturismul verde;
+b.	trece printre autobuz si autoturismul verde, deoarece se deplaseaza inainte;
+c.	semnalizeaza autobuzul sa elibereze banda.	
+1100
+y
+Cum trebuie sa procedati corect la trecerea de pe o banda pe alta?
+a.	va asigurați din spate;
+b.	va asigurați atat din fata, cat si din spate;
+c.	va asigurati, semnalizați  intentia (manevra) de a schimba directia si respectati semnificatia marcajului rutier.
+1001
+y
+La intersectiile fara marcaje, conducatorii auto care vor sa circule pe directia inainte vor ocupa:
+a.	randul din stanga;
+b.	randul din dreapta;
+c.	oricare dintre randuri.
+1001
+n
+Ce rand trebuie sa ocupati si de la ce distanta, pentru a putea executa virajul la stanga   intr-o intersectie nedirijata?
+a.	randul din mijloc, de la o distanta de cel putin 100 m;
+b.	randul de langa axul drumului, de la o distanta de cel putin 50 m;
+c.	randul de langa bordura, de la o distanta de cel putin 50 m.
+1010
+n
+In care din situatiile de mai jos puteti folosi banda de langa axul drumului pe o autostrada?
+a.	cand conduceti autoturismul cu viteza maxima admisa;
+b.	cand efectuati depasirea altor autovehicule, daca celelalte benzi in directia de mers sunt ocupate;
+c.	cand nu sunteti precedat de alte autovehicule.
+1010
+n
+Prin selectarea benzii de circulatie in apropierea unei intersectii se intelege:
+a.	reducerea vitezei si semnalizarea schimbarii pozitiei vehiculului;
+b.	semnalizarea si asigurarea la schimbarea directiei de mers;
+c.	incadrarea din timp pe banda corespunzatoare directiei de mers, la apropierea de o intersectie.
+1001
+n
+Schimbarea directiei de mers spre stanga este interzisa atunci cand:
+a.	strada pe care urmeaza sa se intre este semnalizata cu indicatorul "Drum fara iesire";
+b.	conducatorul de vehicul este incadrat pe banda din dreapta;
+c.	drumul pe care urmeaza sa se intre este semnalizat cu indicatorul "Circulatia interzisa in ambele sensuri".
+1011
+n
+Cum trebuie sa va incadrati daca intentionati sa schimbati directia de mers spre stanga intr-o intersectie prin care circula si tramvaie, iar spatiul dintre sina din dreapta si bordura trotuarului permite deplasarea vehiculelor doar pe un singur rand?
+a.	pe singurul rand ramas la dispozitie, lasand liber traseul tramvaiului;
+b.	pe linia tramvaiului;
+c.	in aceasta situatie nu se poate schimba directia de mers spre stanga.
+1100
+n
+Ce obligatii aveti daca intentionati sa intrati pe prima strada la dreapta, intr-o intersectie cu sens giratoriu?
+a.	opriti autovehiculul, va asigurati si executati schimbarea directiei de mers spre dreapta;
+b.	ocoliti sensul giratoriu, apoi schimbati directia de mers spre dreapta;
+c.	semnalizati intentia de a executa manevra, va asigurati, va angajati cat mai aproape de marginea din dreapta, apoi intrati pe strada respectiva.
+1001
+n
+Cum trebuie sa procedati corect pentru a trece de pe banda intai pe banda a treia  a unui drum public?
+a.	reduceti viteza de mers si treceti de pe o banda pe alta, asigurandu-va continuu in oglinda retrovizoare;
+b.	va asigurati din spate si semnalizati intentia de a trece succesiv de pe banda intai pe a doua banda, apoi pe a treia;
+c.	daca trecerea de pe o banda pe alta nu s-a facut cu cel putin 200 m inainte de intersectie, manevra nu mai este posibila.
+1010
+n
+Cum se face schimbarea directiei de mers spre stanga, intr-o intersectie neprevazuta cu marcaje de ghidare?
+a.	prin stanga centrului imaginar al intersectiei, fara a intersecta traiectoria celor care se deplaseaza din sens opus si care vireaza la stanga;
+b.	prin ocolirea centrului imaginar al intersectiei;
+c.	la libera intelegere cu cei care se deplaseaza din sens opus.
+1100
+n
+Pe care dintre benzi trebuie sa te incadrezi si de la ce distanta fata de intersectie, pentru a schimba directia de mers spre dreapta, intr-o localitate?
+a.	pe banda din dreapta, de la cel putin 50 m;
+b.	pe banda de langa axul drumului, de la cel putin 100m;
+c.	pe oricare banda de la cel putin 50 m.
+1100
+n
+Ce rand trebuie sa ocupati si de la ce distanta, daca va deplasati pe directia inainte, intr-o intersectie fara marcaje din afara localitatii?
+a.	randul din dreapta, de la o distanta de cel putin 100 m;
+b.	randul din stanga sau din dreapta, de la o distanta de cel putin 50 m;
+c.	randul din stanga, de la o distanta de cel putin 100 m.
+1010
+n
+Ce obligatii va revin la executarea manevrei de trecere a vehiculului de pe o banda pe alta?
+a.	sa va asigurati din spate;
+b.	sa semnalizati din timp si sa va asigurati ca puteti efectua manevra fara a perturba circulatia sau fara a pune in pericol siguranta celorlalti participanti la trafic;
+c.	sa va asigurati din fata si din spate.
+1010
+n
+Ce banda pot folosi conducatorii de vehicule pe un drum public cu cel mult doua benzi pe sens si cu o a treia banda pe care este amplasata linia tramvaiului langa axa drumului?
+a.	nu pot folosi banda pe care este amplasata linia tramvaiului;
+b.	pot folosi si banda pe care este amplasata linia tramvaiului, fara sa incomodeze circulatia acestuia;
+c.	legal, nu este prevazut.
+1010
+n
+Cui este permisa circulatia pe banda rezervata transportului public de persoane, semnalizata ca atare?
+a.	numai vehiculelor care efectueaza transport public de persoane;
+b.	vehiculelor care efectueaza transport public de persoane si autovehiculelor cu regim de circulatie prioritar, atunci cand se deplaseaza in actiuni de interventie sau in misiuni care au caracter de urgenta;
+c.	tuturor vehiculelor, daca nu incomodeaza circulatia vehiculelor prioritare.
+1010
+n
+Cum trebuie sa procedati atunci cand circulati pe un drum cu trei sau mai multe benzi pe sens?
+a.	sa circulati pe banda a doua, respectiv a treia, cu o viteza mai mica de 100 km/h;
+b.	sa circulati pe banda situata langa acostament;
+c.	sa nu circulati pe liniile de tramvai.
+1010
+n

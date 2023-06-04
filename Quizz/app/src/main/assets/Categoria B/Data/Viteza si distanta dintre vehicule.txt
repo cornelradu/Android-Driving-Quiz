@@ -1,0 +1,488 @@
+81
+Indicatorul semnalizeaza o viteza:
+a.	minima obligatorie;
+b.	maxima;
+c.	informativa.	 
+1100
+y
+Conduceti un autoturism. Aici veti putea rula cu:
+a.	60 km/h;
+b.	50 km/h;
+c.	40 km/h.	
+1010
+y
+In situatia data:
+a.	veti circula cu prudenta pana la prima intersectie;
+b.	veti circula cu minim 30 km/h;
+c.	veti circula cu maxim 30 km/h pe sectorul de drum denivelat.	
+1001
+y
+Care este viteza maxima, daca sunteti la volanul autoturismului?
+a.	80 km/h;
+b.	110 km/h;
+c.	130 km/h.	
+1100
+y
+Daca titularul unui permis de conducere, cu vechime sub un an, se afla la volanul autoturismului, viteza cu care va circula este limitata la:
+a.	100 km/h;
+b.	90 km/h;
+c.	80 km/h.	 
+1001
+y
+Care este viteza maxima cu care puteti circula, daca sunteti la volanul autoturismului pe drumul national, dupa depasirea acestui indicator?
+a.	110 km/h;
+b.	90 km/h;
+c.	50 km/h.	
+1010
+y
+Cu ce viteza aveti voie sa circulati pe drumul expres in afara localitatii?
+a.	130 km/h;
+b.	120 km/h;
+c.	90 km/h.	
+1010
+y
+Limita maxima de viteza in localitati este:
+a.	60 km/h;
+b.	40 km/h;
+c.	50 km/h.
+1001
+n
+Cu ce viteza puteti circula intr-o zona rezidentiala?
+a.	cu viteza maxima de 20 Km/h;
+b.	cu o viteza minima obligatorie de 20 Km/h;
+c.	cu o viteza maxima de 30 Km/h.
+1100
+n
+Ce obligatii va revin in ceea ce priveste regimul vitezei de circulatie?
+a.	sa respectati regimul legal de viteza aplicabil pe traseul pe care va deplasati;
+b.	sa adaptati viteza in functie de conditiile de drum, astfel incat sa puteti efectua orice manevra in conditii de siguranta;
+c.	sa nu depasiti viteza legala in zonele in care este instalata aparatura radar.
+1110
+n
+Cum veti proceda la intalnirea indicatorului "Limitare de viteza" 80 km/h?
+a.	nu depasiti viteza maxima admisa pe drumurile nationale;
+b.	circulati cu o viteza de peste 80 km/h;
+c.	nu depasiti viteza de 80 km/h.
+1001
+n
+Care este limita maxima de viteza in afara localitatilor, pe drumurile expres?
+a.	90 km/h;
+b.	120 km/h;
+c.	110 km/h.
+1010
+n
+Ce va este interzis in timpul deplasarii?
+a.	sa folositi fara motiv luminile de drum;
+b.	sa circulati la o distanta mai mica de 50 m fata de autovehiculul din fata;
+c.	sa reduceti brusc viteza sau sa efectuati opriri neasteptate, fara motiv intemeiat.
+1001
+n
+Puteti circula cu o viteza mai mare decat cea legala pentru depasirea unui autovehicul?
+a.	da, daca va asigurati ca din sens opus nu circula un alt vehicul;
+b.	nu;
+c.	da, daca circulati pe autostrada.
+1010
+n
+Care este limita legala de viteza in afara localitatilor pe celelalte categorii de drumuri, altele decat autostrazile, drumurile expres sau cele nationale europene (E)?
+a.	70 km/h;
+b.	90 km/h;
+c.	100 km/h.
+1010
+n
+Reducerea vitezei pana la 30 km/h in localitati si pana la 50 km/h in afara localitatilor este obligatorie:
+a.	in zona de actiune a indicatorului "Copii" intre orele 07.00-22.00;
+b.	in zona de actiune a indicatorului "Accident";
+c.	in dreptul statiilor mijloacelor de transport public de persoane.
+1110
+n
+Cand sunteti obligat sa nu depasiti viteza de 30 km/h?
+a.	in interiorul localitatilor, la schimbarea directiei de mers prin viraje;
+b.	in perimetrul pietelor aglomerate;
+c.	la trecerea prin intersectiile cu circulatie dirijata.
+1100
+n
+In ce situatii viteza de deplasare nu trebuie sa depaseasca 30 km/h in localitati sau 50 km/h in afara localitatilor?
+a.	la intalnirea indicatorului "Drum cu prioritate";
+b.	in curbe deosebit de periculoase semnalizate ca atare sau in care vizibilitatea este mai mica de 50 m;
+c.	cand circulati pe poduri sau sub poduri.
+1010
+n
+In ce situatii viteza de deplasare nu trebuie sa depaseasca 30 km/h in localitati sau 50 km/h in afara localitatilor?
+a.	cand vizibilitatea este sub 100 m in conditii de ceata, ploi torentiale, ninsori abundente;
+b.	la intalnirea indicatorului "Prioritate fata de circulatia din sens invers";
+c.	atunci cand circulati in aceeasi directie cu autobuzele oprite in statie, pe drumurile cu o singura banda pe sens.
+1100
+n
+In ce situatii viteza de deplasare se va reduce pana la limita legala?
+a.	la intalnirea indicatorului "Oprire";
+b.	in dreptul statiilor de tramvai prevazute cu refugiu;
+c.	cand partea carosabila este acoperita cu polei, gheata, zapada batatorita, mazga sau piatra cubica umeda.
+1001
+n
+In ce situatii viteza de deplasare se va reduce pana la limita legala?
+a.	in perimetrul pietelor aglomerate;
+b.	pe drumurile cu denivelari semnalizate ca atare;
+c.	in momentul in care esti depasit de alt vehicul.
+1010
+n
+Limita inferioara de viteza ce poate fi stabilita in interiorul localitatilor este:
+a.	nu exista prevedere legala;
+b.	nu mai putin de 30 km/h;
+c.	nu mai putin de 40 km/h?
+1010
+n
+Cand sunteti obligat sa reduceti viteza pana la limita legala, la trecerile pentru pietoni nesemaforizate, dar semnalizate prin indicatoare si marcaje?
+a.	cand drumul are cel mult o banda pe sens, iar pietonii aflati pe trotuar intentioneaza sa se angajeze in traversare;
+b.	cand drumul are cel putin doua benzi pe sens;
+c.	cand trecerile sunt localizate in dreptul statiilor de tramvai.
+1100
+n
+In ce situatii trebuie redusa viteza de deplasare pana la 30 km/h in localitati sau 50 km/h in afara localitatilor?
+a.	la trecerile la nivel cu calea ferata dubla sau simpla prevazuta cu bariere;
+b.	la trecerea pe langa grupuri organizate, coloane militare sau cortegii, daca acestea se afla pe drumurile cu o singura banda de circulatie pe sens;
+c.	la intalnirea indicatorului "Pista obligatorie pentru biciclisti".
+1010
+n
+Limita maxima de viteza pe autostrazi este:
+a.	100 km/h;
+b.	110 km/h;
+c.	130 km/h?
+1001
+n
+Cu cat se reduce viteza maxima admisa cu care va circula in afara localitatilor conducatorul de vehicul care are mai putin de un an de practica de conducere?
+a.	cu 25 km/h;
+b.	cu 20 km/h;
+c.	cu 10 km/h.
+1010
+n
+Cu ce viteza veti efectua virajul spre stanga intr-o intersectie nedirijata?
+a.	cu o viteza care sa nu depaseasca 30 km/h in localitati sau 50 km/h in afara localitatilor;
+b.	cu o viteza de cel  mult 80 km/h;
+c.	cu o viteza mai mare decat cea legala, pentru a nu stanjeni vehiculele care vin din sens opus.
+1100
+n
+Cu ce viteza maxima admisa va circula, pe autostrada, conducatorul de vehicul care are mai putin de un an de practica de conducere?
+a.	130 km/h;
+b.	110 km/h;
+c.	100 km/h.
+1010
+n
+Cu ce viteza maxima admisa va circula, pe drumurile nationale europene (E), conducatorul de vehicul care are mai putin de un an de practica de conducere?
+a.	100 km/h;
+b.	90 km/h;
+c.	80 km/h.
+1001
+n
+Cu ce viteza maxima admisa va circula, pe drumurile nationale, altele decat cele europene (E), conducatorul de vehicul care are mai putin de un an de practica de conducere?
+a.	90 km/h;
+b.	80 km/h;
+c.	70 km/h.
+1001
+n
+Este permisa reducerea brusca a vitezei fara un motiv intemeiat?
+a.	legea nu prevede nimic cu privire la acest aspect;
+b.	nu;
+c.	da, atunci cand cel care circula in fata nu respecta viteza legala.
+1010
+n
+Viteza maxima prevazuta de lege pentru circulatia in zonele rezidentiale este:
+a.	20 km/h;
+b.	10 km/h;
+c.	5 km/h.
+1100
+n
+Limita inferioara de viteza pe care administratorul drumului public o poate stabili pe anumite sectoare din interiorul localitatilor nu poate fi mai mica de:
+a.	30 km/h pentru tramvaie si 50 km/h pentru toate autovehiculele;
+b.	20 km/h pentru tramvaie si 40 km/h pentru toate autovehiculele;
+c.	10 km/h pentru tramvaie si 30 km/h pentru toate autovehiculele.
+1001
+n
+Care este viteza maxima cu care aveti voie sa circulati in afara localitatilor, pe un drum national european (E), daca circulati cu un autoturism care tracteaza o semiremorca?
+a.	110 km/h;
+b.	90 km/h;
+c.	70 km/h.
+1010
+n
+Care este limita maxima de viteza cu care este permisa circulatia autoturismelor pe drumurile nationale europene, in localitati, de catre conducatorii auto cu practica de conducere mai mica de un an?
+a.	50 km/h;
+b.	70 km/h;
+c.	90 km/h.
+1100
+n
+Puteti folosi mijloace proprii de detectare a dispozitivelor de masurare a vitezei?
+a.	nu;
+b.	da;
+c.	acest aspect nu este stabilit legal.
+1010
+n
+Care este limita maxima de viteza cu care este permisa circulatia autovehiculelor in afara localitatilor, atunci cand vizibilitatea este redusa sub 100 m, in conditii de ceata?
+a.	50 km/h;
+b.	70 km/h;
+c.	90 km/h.
+1100
+n
+In ce situatii sunteti obligat sa nu depasiti viteza de 50 km/h in afara localitatilor?
+a.	la trecerea pe langa grupuri organizate, coloane militare sau cortegii, pe drumurile cu o singura banda pe sens;
+b.	pe poduri sau sub poduri;
+c.	in curbe deosebit de periculoase sau cu vizibilitate mai mica de 50 m.
+1101
+n
+In ce situatii sunteti obligat sa nu depasiti viteza de 50 km/h in afara localitatilor?
+a.	la coborarea drumurilor in panta;
+b.	cand partea carosabila este acoperita cu mazga;
+c.	la intalnirea indicatorului "Prioritate pentru circulatia din sens invers".
+1010
+n
+Este permisa detinerea, montarea sau folosirea la autovehicule a sistemelor care perturba buna functionare a dispozitivelor de supraveghere a traficului?
+a.	nu;
+b.	da;
+c.	acest aspect nu este stabilit legal
+1100
+n
+In ce situatii sunteti obligat sa reduceti viteza?
+a.	la circulatia pe poduri;
+b.	la semnalul luminos galben intermitent;
+c.	la depasirea tramvaiului oprit in statiile fara refugiu pentru pietoni.
+1010
+n
+Viteza maxima cu care pot circula, in afara localitatilor, autovehiculele din categoriile A si B este:
+a.	130 km/h pe autostrazi, 120 km/h pe drumurile expres, 100 Km/h pe drumurile nationale europene si 90 km/h pe celelalte categorii de drumuri;
+b.	110 km/h pe autostrazi, 90 km/h pe drumurile expres sau nationale europene si 70 km/h pe celelalte categorii de drumuri;
+c.	120 km/h pe autostrazi si 80 km/h pe celelalte categorii de drumuri.
+1100
+n
+La trecerea autovehiculelor cu regim de circulatie prioritar, care au in functiune mijloacele de avertizare sonora si luminoasa de culoare albastra, sunteti obligat:
+a.	sa reduceti viteza;
+b.	sa circulati cat mai aproape de marginea drumului in sensul de deplasare;
+c.	sa acordati prioritate de trecere.
+1111
+n
+Cand trebuie redusa viteza de deplasare?
+a.	la intalnirea indicatorului "Cedeaza trecerea";
+b.	la intalnirea indicatorului "Prioritate fata de circulatia din sens invers";
+c.	atunci cand circulati din directie opusa tramvaielor, troleibuzelor si autobuzelor oprite in statie, pe drumurile cu o singura banda pe sens.
+1100
+n
+In care dintre urmatoarele situatii sunteti obligat sa circulati cu viteza redusa?
+a.	cand sunteti obosit si autovehiculul are sistemul de franare defect;
+b.	la trecerea la nivel cu calea ferata curenta;
+c.	pe drumurile judetene si comunale.
+1010
+n
+Cu ce viteza sunteti obligat sa circulati intr-o zona pietonala, semnalizata ca atare?
+a.	cu cel mult 30 km/h;
+b.	cu cel mult 20 km/h;
+c.	cu cel mult 5 km/h.
+1001
+n
+Limita maxima de viteza pe care administratorul drumului public o poate stabili pe anumite sectoare, din interiorul localitatilor, pentru autovehiculele din categoriile A si B, nu poate fi mai mare de:
+a.	80 km/h;
+b.	110 km/h;
+c.	50 km/h.
+1100
+n
+Cu ce viteza puteti circula in apropierea unei intersectii?
+a.	cu o viteza care sa permita oprirea, pentru a acorda prioritate de trecere participantilor la trafic care au acest drept;
+b.	limita maxima de viteza va fi respectata doar in cazul intersectiilor dirijate;
+c.	limita maxima de viteza in localitati va fi de 50 km/h, iar in afara localitatilor de 130 km/h.
+1100
+n
+Cum veti proceda intr-o curba lipsita de vizibilitate, daca in fata circula un biciclist?
+a.	va continuati deplasarea, deoarece in aceasta situatie biciclistii pot fi depasiti;
+b.	reduceti viteza si va deplasati in spatele biciclistului, pana cand drumul va ofera conditii bune de vizibilitate pentru depasire;
+c.	claxonati, pentru a atrage atentia biciclistului ca il veti depasi.
+1010
+n
+Cand trebuie redusa viteza de deplasare?
+a.	la intalnirea indicatorului "Prioritate fata de circulatia din sens invers";
+b.	atunci cand se circula in aceeasi directie cu tramvaiele, troleibuzele si autobuzele oprite in statie, pe drumurile cu o singura banda pe sens;
+c.	la trecerile la nivel cu calea ferata prevazute cu bariere.
+1001
+n
+Cum trebuie sa circulati in apropierea trecerilor pentru pietoni nesemaforizate, semnalizate corespunzator, cand drumul are cel mult o banda pe sens, iar pietonii aflati pe trotuar, in imediata apropiere a partii carosabile, intentioneaza sa se angajeze in traversare?
+a.	sa circulati cu o viteza care sa nu depaseasca 30 km/h in localitati sau 50 km/h in afara acestora;
+b.	nu aveti nicio obligatie legala si nicio raspundere in cazul unui eventual accident;
+c.	sa reduceti brusc viteza si sa acordati prioritate de trecere pietonilor care au acest drept.
+1100
+n
+Vitezele maxime admise pentru subcategoria de autovehicule B1 sunt:
+a.	110 km/h pe autostrazi, 90 km/h pe drumurile expres sau nationale europene si 80 km/h pe celelalte categorii de drumuri;
+b.	90 km/h pe autostrazi, 85 km/h pe drumurile expres, 80 Km/h pe drumurile nationale europene si 70 km/h pe celelalte categorii de drumuri;
+c.	130 km/h pe autostrazi si 90 km/h pe celelalte categorii de drumuri.
+1010
+n
+Cu ce viteza sunteti obligat sa circulati pe drumurile publice din afara localitatilor, cand partea carosabila este acoperita cu piatra cubica umeda?
+a.	cu o viteza care sa nu depaseasca 50 km/h;
+b.	cu o viteza care sa permita efectuarea oricarei manevre in conditii de siguranta;
+c.	cu o viteza care sa nu depaseasca limita maxima de 90 km/h.
+1110
+n
+In ce situatie va este interzis sa mariti viteza de deplasare?
+a.	la sesizarea aparaturii de detectare a sistemelor radar;
+b.	cand urmeaza sa fiti depasit;
+c.	pe timp de noapte.
+1010
+n
+Cum trebuie sa procedati la intalnirea semnalului intermitent de culoare galbena?
+a.	respectati semnificatia semnalizarii rutiere si a regulilor de circulatie aplicabile in acel loc;
+b.	acest semnal nu va permite trecerea;
+c.	circulati cu viteza redusa.
+1101
+n
+Cand sunteti obligat sa reduceti viteza?
+a.	pe poduri, sub poduri sau in tuneluri;
+b.	la intalnirea semnalului luminos galben intermitent;
+c.	la trecerea prin intersectiile dirijate.
+1010
+n
+Cand este obligatorie reducerea vitezei?
+a.	la depasirea tramvaielor aflate in statii cu refugiu pentru pietoni;
+b.	la apropierea de un obstacol pe sensul de mers, cand din sens opus circula un alt autovehicul;
+c.	in zona pietelor.
+1010
+n
+Daca, din motive obiective, va deplasati cu viteza redusa, trebuie:
+a.	sa circulati numai pe banda de langa axul drumului, semnalizand cu luminile de avarie;
+b.	sa circulati numai pe banda de langa acostament sau bordura;
+c.	sa emiteti semnale luminoase si sonore, pentru a preveni orice posibil eveniment.
+1010
+n
+Cu ce viteza veti circula in conditii de ceata, ploi torentiale, ninsori abundente, daca vizibilitatea este redusa sub 100 m?
+a.	reduceti viteza pana la limita evitarii oricarui pericol;
+b.	cu maximum 50 km/h in localitati sau 60 km/h in afara localitatilor;
+c.	cu maximum 30 km/h in localitati sau 50 km/h in afara localitatilor.
+1001
+n
+Cu ce viteza veti circula cand partea carosabila este acoperita cu polei, gheata, zapada batatorita, mazga sau piatra cubica umeda?
+a.	viteza nu trebuie sa depaseasca 30 km/h in localitati sau 50 km/h in afara localitatilor;
+b.	viteza va fi redusa in functie de conditiile atmosferice;
+c.	viteza va fi redusa la jumatate din viteza legala.
+1100
+n
+Ce obligatii va revin in timpul conducerii autovehiculului cu privire la viteza?
+a.	sa circulati cu o viteza inferioara celei inscrise in indicatorul "Viteza minima obligatorie";
+b.	sa respectati viteza maxima admisa pe sectorul de drum pe care circulati, corespunzatoare categoriei din care face parte autovehiculul condus;
+c.	sa rulati pe cat posibil in treptele inferioare de viteza, pentru a nu polua mediul.
+1010
+n
+Cu ce viteza sunteti obligat sa circulati in afara localitatilor, cand ploua torential, iar vizibilitatea este sub 100 m?
+a.	cu o viteza care sa nu depaseasca 90 km/h;
+b.	cu o viteza care sa nu depaseasca 70 km/h;
+c.	cu o viteza care sa nu depaseasca  50 km/h.
+1001
+n
+La intalnirea unui vehicul care circula noaptea, din sens opus, pe un drum neiluminat, sunteti obligat:
+a.	sa reduceti viteza;
+b.	sa folositi avertizorul sonor;
+c.	sa circulati cat mai aproape de marginea din dreapta a drumului.
+1100
+n
+Cum trebuie sa procedati atunci cand, circuland pe drumul national dintr-o localitate rurala, treceti pe langa o coloana militara care se deplaseaza in aceeasi directie?
+a.	mariti viteza si depasiti coloana;
+b.	folositi avertizorul sonor de la minimum 150 m;
+c.	reduceti viteza pana la limitele prevazute de lege, daca drumul are o singura banda pe sens.
+1001
+n
+Ce obligatii aveti, in calitate de conducator auto?
+a.	sa circulati cu o viteza inferioara celei inscrise in indicatorul "Viteza minima obligatorie";
+b.	sa circulati cu o viteza cel putin egala celei prescrise de indicatorul "Viteza minima obligatorie";
+c.	sa nu accelerati in intersectie.
+1010
+n
+In care dintre urmatoarele situatii sunteti obligat sa circulati cu o viteza care sa nu depaseasca 30 km/h in localitati?
+a.	intr-o zona pietonala, semnalizata ca atare;
+b.	la trecerea prin intersectiile cu circulatie nedirijata;
+c.	in zonele in care este interzisa depasirea.
+1010
+n
+In care dintre urmatoarele situatii sunteti obligat sa circulati cu o viteza care sa nu depaseasca 30 km/h in localitati?
+a.	in curbele in care vizibilitatea este sub 50 m;
+b.	in curbele deosebit de periculoase, semnalizate ca atare;
+c.	intr-o zona rezidentiala, semnalizata ca atare.
+1110
+n
+Viteza se reduce la semnalul:
+a.	politistului de frontiera;
+b.	agentului de cale ferata;
+c.	personalului autorizat din zona lucrarilor drumului public.
+1111
+n
+Cand se va reduce obligatoriu viteza?
+a.	la semnalul politistului de frontiera;
+b.	la trecerile pentru pietoni;
+c.	la intalnirea indicatorului "Cedeaza trecerea".
+1101
+n
+In ce situatii sunteti obligat sa reduceti viteza?
+a.	la trecerea la nivel cu calea ferata curenta fara bariere;
+b.	la trecerea la nivel cu calea ferata curenta cu bariere;
+c.	la trecerea la nivel cu calea ferata curenta industriala.
+1010
+n
+Ce obligatii aveti la semnalul intermitent de culoare galbena?
+a.	reduceti viteza si respectati regulile de circulatie;
+b.	nu aveti nicio obligatie;
+c.	opriti si asteptati culoarea verde a semaforului.
+1100
+n
+In care dintre urmatoarele situatii sunteti obligat sa circulati cu o viteza care sa nu depaseasca 30 km/h in localitati?
+a.	in zona de actiune a indicatorului de avertizare "Accident";
+b.	atunci cand vizibilitatea este sub 100 m, in conditii de ceata;
+c.	la intersectarea cu vehiculele care circula din sens opus.
+1110
+n
+Cum trebuie sa procedati la apropierea de statiile prevazute cu alveola, cand circulati pe banda de langa acostament, iar conducatorul autovehiculului de transport public de persoane semnalizeaza plecarea din statie?
+a.	mariti viteza de deplasare;
+b.	opriti obligatoriu;
+c.	reduceti viteza si la nevoie, opriti.
+1001
+n
+Cum trebuie sa procedati la intalnirea unui obstacol aflat pe directia de mers, in situatia in care, pentru a-l depasi, intrati pe contrasens, iar din fata se apropie alt vehicul?
+a.	opriti si asteptati echipajul de interventie;
+b.	reduceti viteza si la nevoie, opriti;
+c.	opriti si inlaturati obstacolul.
+1010
+n
+In care dintre situatiile urmatoare sunteti obligat sa circulati cu o viteza care sa nu depaseasca 30 km/h in localitati?
+a.	cand partea carosabila este acoperita cu mazga;
+b.	la trecerile la nivel cu calea ferata industriala;
+c.	la trecerile la nivel cu linia de tramvai.
+1100
+n
+In ce situatii sunteti obligat sa circulati cu o viteza care sa nu depaseasca 30 km/h in localitati?
+a.	la schimbarea benzii de circulatie;
+b.	intr-o zona rezidentiala;
+c.	in zona de actiune a indicatorului de avertizare "Copii", in intervalul orar 07.00 - 22.00.
+1001
+n
+In ce situatii sunteti obligat sa circulati cu o viteza care sa nu depaseasca 30 km/h in localitati?
+a.	la trecerile pentru pietoni semaforizate;
+b.	pe drumurile cu denivelari semnalizate ca atare;
+c.	la circulatia pe poduri.
+1010
+n
+In ce situatii sunteti obligat sa circulati cu o viteza care sa nu depaseasca 50 km/h in afara localitatilor?
+a.	in zona pietonala, semnalizata ca atare;
+b.	la circulatia prin tunele;
+c.	la trecerea pe langa animale care se deplaseaza pe partea carosabila sau pe acostament.
+1001
+n
+Cu ce viteza vei circula daca te afli la volanul autoturismului?
+a.	80 Km/h;
+b.	90 Km/h;
+c.	100 Km/h.
+1100
+y
+Este obligat conducatorul unui vehicul sa foloseasca banda suplimentara, la urcarea in rampa, daca viteza sa este mai mica decat cea inscrisa pe indicator?
+a.      nu, deoarece banda este destinata vehiculelor care se deplaseaza cu o viteza egala sau superioara celei precizate de indicator;
+b.      da;
+c.      nu, fiind obligat in toate situatiile sa circule doar pe banda de langa marginea drumului.
+1010
+n
+Viteza se va reduce obligatoriu si vehiculul va fi oprit:
+a.      atunci cand se circula pe un drum cu o banda de circulatie pe sensul de mers, iar deplasarea pe directia inainte este obturata de un obstacol sau de prezenta altor participanti la trafic, iar din sens opus circula alte vehicule;
+b.      la semnalul politistului de frontiera;
+c.      atunci cand barierele sau semibarierele sunt coborate, in curs de coborare sau de ridicare.
+1111
+n
+

@@ -1,0 +1,175 @@
+29
+Ce obligatii aveti la efectuarea manevrei de intoarcere a unui autovehicul pe un drum public?
+a.	asigurarea si incadrarea pe banda de langa axul drumului;
+b.	semnalizarea si asigurarea din fata, din spate si din lateral;
+c.	oprirea si semnalizarea intentiei de a intoarce.
+1010
+n
+Cand este interzisa intoarcerea?
+a.	in curbe;
+b.	pe drumurile fara iesire;
+c.	pe drumurile cu sens unic.
+1001
+n
+Intoarcerea este interzisa:
+a.	in rampa, cand vizibilitatea este sub 50 m;
+b.	pe strazile pe care circulatia se desfasoara in ambele sensuri;
+c.	la o distanta mai mica de 50 m de statia de autobuz, troleibuz sau tramvai.
+1100
+n
+Intoarcerea este interzisa:
+a.	pe poduri;
+b.	pe drumurile cu circulatie intensa;
+c.	cand exista riscul ca marginile drumului sa cedeze (soliditatea drumului nu permite).
+1101
+n
+Mersul inapoi este interzis pe o distanta:
+a.	mai mare de 50 m;
+b.	mai mare de 100 m;
+c.	legal, nu este prevazuta o anumita distanta.
+1100
+n
+Intoarcerea este interzisa:
+a.	in intersectii si la mai putin de 50 m de cel mai apropiat colt al intersectiei;
+b.	pe strazile cu sens unic;
+c.	la mai putin de 100 m de trecerea la nivel cu calea ferata.
+1010
+n
+Mersul inapoi este interzis:
+a.	la mai putin de 100 m de trecerile la nivel cu calea ferata;
+b.	pe strazile unde circulatia se desfasoara intr-un singur sens;
+c.	la iesirea din curti, garaje sau ganguri.
+1001
+n
+Intoarcerea este interzisa:
+a.	in zona cuprinsa intre primul si al doilea panou suplimentar de la trecerile la nivel cu calea ferata;
+b.	pe marcajul pietonal;
+c.	pe drumurile publice cu o latime mai mica de 6 m?
+1010
+n
+Cand este interzis mersul inapoi?
+a.	cand vizibilitatea in spate nu este asigurata;
+b.	nu exista prevedere legala in acest sens;
+c.	la mai putin de 50 m de statiile de autobuz si de tramvai.
+1100
+n
+Intoarcerea autovehiculului este interzisa:
+a.	pe drumurile cu sens unic;
+b.	pe marcajul pietonal;
+c.	in locurile in care soliditatea drumului nu permite.
+1111
+n
+Pe strazile cu sens unic va este interzis:
+a.	sa manevrati inapoi autovehiculul;
+b.	sa intoarceti autovehiculul;
+c.	sa virati la dreapta sau la stanga.
+1010
+n
+Intoarcerea este interzisa:
+a.	cand latimea drumului public este mai mica de 7 m;
+b.	la intalnirea indicatorului "Drum ingustat";
+c.	in curbele cu vizibilitatea redusa sub 50 m.
+1011
+n
+Intoarcerea vehiculului nu este permisa:
+a.	cand latimea drumului public este mai mica de 7 m;
+b.	la urcarea pantelor;
+c.	pe marcajul pietonal.
+1001
+n
+Cand este interzisa intoarcerea unui autovehicul?
+a.	la mai putin de 50 m de trecerea la nivel cu o cale ferata curenta;
+b.	pe drumurile pe care o banda de circulatie este ocupata de linia de tramvai;
+c.	la o distanta mai mica de 100 m de statiile de autobuz, troleibuz sau tramvai.
+1100
+n
+Cand este interzisa intoarcerea unui  autovehicul?
+a.	in dreptul unui garaj;
+b.	la trecerile pentru pietoni;
+c.	in rampa, daca vizibilitatea este sub 50 m.
+1011
+n
+In ce situatie este interzisa intoarcerea?
+a.	in zona de actiune a indicatorului "Prioritate pentru circulatia din sens invers";
+b.	in apropierea statiilor de tramvai;
+c.	in locul in care este instalat indicatorul cu semnificatia "intoarcerea interzisa".
+1101
+n
+In ce situatie este interzisa intoarcerea vehiculului?
+a.	in locurile in care oprirea este interzisa, cu exceptia intersectiilor;
+b.	in zona de actiune a indicatorului "Stationarea interzisa";
+c.	cand vizibilitatea este redusa sub 50 m.
+1101
+n
+In ce situatie este interzisa intoarcerea?
+a.	pe drumurile supuse restrictiilor de viteza;
+b.	pe marcajul pietonal;
+c.	la o distanta mai mica de 50 m de marcajul pietonal.
+1010
+n
+Se interzice intoarcerea vehiculului:
+a.	la intalnirea indicatorului "Circulatie in ambele sensuri";
+b.	in intersectiile in care este interzis virajul la stanga;
+c.	in intersectii, inclusiv in cele cu circulatie in sens giratoriu.
+1010
+n
+In ce situatie este interzisa intoarcerea?
+a.	in apropierea statiilor de tramvai;
+b.	cand vizibilitatea este redusa sub 100 m;
+c.	in locurile in care soliditatea drumului nu permite.
+1001
+n
+In ce situatie este interzis mersul inapoi cu vehiculul?
+a.	pe o distanta mai mare de 30 m;
+b.	la iesirea de pe proprietatile alaturate drumurilor publice;
+c.	pe drumurile nationale.
+1010
+n
+Se interzice intoarcerea vehiculului:
+a.	la intalnirea indicatorului "intoarcerea interzisa";
+b.	la intalnirea indicatorului "Drum cu prioritate";
+c.	la intalnirea indicatorului "Circulatie in ambele sensuri".
+1100
+n
+Se poate manevra inapoi vehiculul pe strazile cu sens unic?
+a.	da, dar nu mai mult de 100 m;
+b.	nu, aceasta manevra este interzisa prin lege;
+c.	da, dar nu mai mult de 50 m.
+1001
+n
+Intoarcerea autovehiculului este permisa la intalnirea indicatorului:
+a.	"inainte";
+b.	"Sens unic";
+c.	"Stationarea interzisa".
+1001
+n
+Cum va asigurati ca nu exista niciun pericol atunci cand manevrati atutoturismul inapoi?
+a.	aprindeti lanterna de ceata din spate;
+b.	va asigurati din fata, din spate si din lateral;
+c.	claxonati inainte de a pleca.
+1010
+n
+Intoarcerea este interzisa:
+a.	in locurile in care este interzisa oprirea voluntara a vehiculelor;
+b.	pe drumurile ingustate;
+c.	in curbe.
+1100
+n
+Intoarcerea este interzisa:
+a.	unde marcajul axial este discontinuu;
+b.	in zona de actiune a indicatorului "Stationarea interzisa";
+c.	in intersectiile unde este necesara manevrarea inainte si inapoi.
+1001
+n
+Mersul inapoi se semnalizeaza prin:
+a.	folosirea luminilor de avarie;
+b.	claxonatul intermitent, pentru a-i atentiona pe participantii la trafic din spatele vehiculului;
+c.	luminile de mers inapoi din dotarea autovehiculului.
+1001
+n
+Unde este interzisa intoarcerea?
+a.	la mai putin de 50 m de intrarea in sediile institutiilor.
+b.	pe poduri si sub poduri;
+c.	pe drumurile nationale.
+1010
+n

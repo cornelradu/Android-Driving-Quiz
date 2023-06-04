@@ -1,0 +1,187 @@
+31
+Va este permisa intoarcerea pe autostrada?
+a.	da, daca sensul de mers este blocat;
+b.	da;
+c.	nu.	 
+1001
+y
+Cum procedati corect daca intrati pe autostrada folosind banda de accelerare?
+a.	cedati trecerea autovehiculelor (respectati regulile impuse de categoria drumului pe care se intra);
+b.	mariti viteza;
+c.	nu aveti nicio obligatie.	
+1110
+y
+Intentionati sa intrati prin acest loc pe autostrada. Cum veti proceda?
+a.	opriti intotdeauna la capatul benzii de accelerare, va asigurati ca banda este libera, apoi va angajati;
+b.	aveti voie sa intrati pe autostrada prin dreapta camionului;
+c.	trebuie sa permiteti trecerea autocamionului, apoi sa va angajati pe autostrada.	
+1001
+y
+Parasiti autostrada prin acest loc. Cum va comportati in aceasta situatie?
+a.	semnalizati si va angajati pe banda de iesire;
+b.	mariti viteza, pentru a nu stanjeni vehiculele care circula din spate;
+c.	franati si iesiti cu o viteza aproximativa de 100 km/h.	
+1100
+y
+Sunteti obligat sa cedati trecerea vehiculului care circula pe banda din dreapta?
+a.	da, daca acesta circula cu viteza mai mare;
+b.	da, deoarece acordati prioritate de dreapta;
+c.	nu.	 
+1001
+y
+Panoul pe care il intalniti va indica:
+a.	urmeaza o iesire de pe autostrada;
+b.	un loc special amenajat unde puteti face o pauza pentru odihna;
+c.	urmeaza o statie de taxare pentru circulatia pe autostrazi?	
+1010
+y
+Sunteti bine incadrat pentru a folosi prima iesire de pe autostrada?
+a.	da, deoarece circulati pe banda din dreapta;
+b.	nu, pentru ca circulati pe banda de urgenta;
+c.	nu, pentru ca astfel veti calca marcajul continuu.	
+1010
+y
+Viteza maxima autorizata pe autostrazi pentru autovehiculele din categoriile A si B este de:
+a.	90 km/h;
+b.	110 km/h;
+c.	130 km/h.	
+1001
+y
+Daca doriti sa parasiti autostrada:
+a.	mariti viteza;
+b.	reduceti viteza;
+c.	circulati cu aceeasi viteza.	
+1010
+y
+In aceasta situatie constatati ca parasiti autostrada in mod eronat. Cum veti proceda?
+a.	va continuati drumul;
+b.	reintrati imediat pe autostrada;
+c.	opriti, va asigurati si reintrati pe autostrada.	 
+1100
+y
+Ce este interzis pe autostrada?
+a.	sa remorcati, pana la cea mai apropiata iesire de pe atutostrada, un autovehicul ramas in pana;
+b.	sa depasiti in apropierea pasajelor denivelate;
+c.	antrenamentele si competitiile sportive de orice fel.
+1001
+n
+Caror vehicule le este interzisa circulatia pe autostrazi?
+a.	celor care, prin constructie sau din alte cauze, nu pot depasi viteza de 50 km/h;
+b.	autovehiculelor care transporta incarcaturi periculoase;
+c.	motocicletelor si autovehiculelor care nu pot circula cu mai mult de 60 km/h.
+1100
+n
+Ce se interzice pe autostrada?
+a.	manevra de mers inapoi;
+b.	folosirea benzii de langa zona mediana ce desparte cele doua parti carosabile;
+c.	circulatia cu o viteza de sub 80 km/h.
+1100
+n
+Este permisa manevra de intoarcere pe autostrada?
+a.	da;
+b.	nu, in nicio situatie;
+c.	nu, cu exceptia cazurilor cand pe directia inainte circulatia este blocata.
+1010
+n
+Ce se interzice pe autostrada?
+a.	invatarea conducerii unui vehicul, incercarea prototipurilor de sasiuri si de vehicule cu motor;
+b.	executarea de lucrari pe partea carosabila pe timp de noapte;
+c.	circulatia autovehiculelor in coloana.
+1100
+n
+Este permisa patrunderea pe racordurile dintre cele doua parti carosabile ale unei autostrazi?
+a.	da, pentru intoarcere, in zona intersectiilor;
+b.	nu;
+c.	da, pentru oprire in caz de urgenta.
+1010
+n
+Ce se interzice pe autostrada?
+a.	deplasarea sau stationarea pe banda de urgenta, cu exceptia cazurilor justificate;
+b.	folosirea benzii de decelerare pentru schimbarea directiei de mers;
+c.	deplasarea cu o viteza mai mica de 60 km/h.
+1100
+n
+Este corect sa executati pe autostrada manevra de devansare a unui autovehicul pe banda din partea dreapta a acestuia?
+a.	da, dar numai daca se folosesc semnalele de atentionare sonore si luminoase;
+b.	da;
+c.	nu, in nicio situatie.
+1010
+n
+Cum veti proceda corect daca intrati pe autostrada folosind banda de intrare (de accelerare)?
+a.	cedati trecerea autovehiculelor care circula pe prima banda a autostrazii si nu stanjeniti in niciun fel circulatia acestora;
+b.	nu aveti nicio obligatie, deoarece autostrada are suficiente benzi pentru a permite circulatia tuturor vehiculelor;
+c.	veti mari viteza, intrucat banda pe care circulati este special creata in acest scop.
+1101
+n
+Ce obligatii va revin atunci cand urmeaza sa parasiti autostrada?
+a.	sa reduceti viteza incepand cu 200 m inainte de iesirea de pe autostrada, in dreptul panoului care marcheaza aceasta distanta;
+b.	sa circulati pe prima banda, cu o viteza de maximum 60 km/h;
+c.	sa semnalizati din timp si sa va angajati pe banda de iesire (de decelerare).
+1001
+n
+Ce se interzice pe autostrada?
+a.	circulatia sau stationarea pe banda de urgenta, cu exceptia cazurilor justificate;
+b.	deplasarea cu o viteza inferioara limitei maxime permise;
+c.	folosirea benzii de accelerare pentru a schimba directia de mers.
+1100
+n
+Cum trebuie sa procedati in cazul in care aveti o defectiune la sistemul de rulare pe autostrada?
+a.	aprindeti proiectoarele;
+b.	parasiti carosabilul in timp ce ruleaza autovehiculul, opriti pe banda de urgenta si ii semnalizati prezenta;
+c.	aprindeti luminile de pozitie.
+1010
+n
+Este permisa remorcarea unui autovehicul pe autostrada?
+a.	da, daca autovehiculul remorcat este un autoturism;
+b.	nu, legea interzice in mod expres acest lucru;
+c.	da, daca ansamblul astfel format poate depasi viteza de 50 km/h.
+1001
+n
+Ce va este interzis la circulatia pe autostrazi?
+a.	sa depasiti alte autovehicule;
+b.	sa stationati pe banda de urgenta, cu exceptia cazurilor justificate;
+c.	sa opriti pentru a remedia o defectiune.
+1010
+n
+Autoturismul echipat cu o remorca poate circula pe autostrada?
+a.	da, daca ansamblul respectiv poate depasi viteza de 50 km/h;
+b.	nu;
+c.	da, daca ati obtinut autorizatie de la politia rutiera.
+1100
+n
+In caz de urgenta, puteti intoarce folosind racordurile dintre cele doua directii de mers ale unei autostrazi?
+a.	da, pentru ca in aceasta zona puteti sa intoarceti pe celalalt sens de mers;
+b.	nu, daca nu este spatiu suficient pentru a patrunde in siguranta cu autovehiculul;
+c.	nu, in nicio situatie.
+1001
+n
+Pe autostrada sunt interzise urmatoarele manevre:
+a.	incercarea prototipurilor de sasiuri si de vehicule cu motor;
+b.	oprirea si efectuarea unei pene de cauciuc;
+c.	invatarea conducerii unui vehicul.
+1101
+n
+Caror categorii de autovehicule le este interzis sa circule pe autostrada?
+a.	motocicletelor cu si fara atas;
+b.	tractoarelor si masinilor agricole autopropulsate;
+c.	celor care, prin constructie, nu pot depasi viteza de 50 km/h.
+1011
+n
+Pe unde vor circula vehiculele de interventie daca, pe o autostrada cu trei benzi, s-a blocat circulatia?
+a.	intre banda din dreapta si banda din mijloc;
+b.	pe banda de urgenta;
+c.	intre banda din stanga si banda din mijloc.
+1010
+n
+Cum procedati daca ati trecut din greseala de iesirea de pe autostrada pe care intentionati sa va angajati?
+a.	circulati mai departe pana la urmatoarea iesire;
+b.	aprindeti luminile intermitente de avertizare, intoarceti si circulati inapoi pe banda laterala;
+c.	opriti pe banda de urgenta si circulati incet cu spatele.
+1100
+n
+Care este rolul marcajelor rezonatoare?
+a.	dubleaza marcajele conventionale in zonele periculoase;
+b.	avertizeaza conducatorii de autovehicule ca depasesc zona de carosabil marcata si destinata sensului de deplasare;
+c.	avertizeaza conducatorii de autovehicule ca vor patrunde intr-o zona supravegheata cu aparatura radar.
+1010
+n

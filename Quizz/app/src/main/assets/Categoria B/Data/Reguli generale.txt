@@ -1,0 +1,295 @@
+49
+Cand se va efectua inspectia tehnica a autovehiculelor si a remorcilor?
+a.	periodic, conform legii;
+b.	la cel mult 2 ani, la o statie de inspectie tehnica autorizata;
+c.	anual la un service auto.
+1100
+n
+Ce autovehicule trebuie sa-si refaca inspectia tehnica inainte de termen?
+a.	autovehiculele cu inscriptia "scoala";
+b.	autovehiculele cu sistemele de franare si de directie grav avariate;
+c.	autovehiculele mai vechi de 10 ani.
+1010
+n
+Unde poate fi regasit termenul de valabilitate a inspectiei tehnice periodice?
+a.	in anexa certificatului de inmatriculare al autovehiculului;
+b.	intr-un document eliberat de service;
+c.	in manualul tehnic al autovehiculului sau al remorcii.
+1100
+n
+Ce conditii trebuie sa indeplineasca instalatiile de semnalizare si iluminare ale unui autovehicul?
+a.	sa nu fie folosite in mediul urban;
+b.	sa corespunda conditiilor tehnice impuse si sa fie omologate de catre autoritatea competenta;
+c.	sa functioneze doar pe timp de noapte.
+1010
+n
+Ce nu le este permis posesorilor de autovehicule?
+a.	sa instaleze alte avertizoare sonore decat cele impuse de autoritatea competenta;
+b.	sa circule cu masina murdara;
+c.	sa monteze alte dispozitive de iluminare decat cele omologate.
+1101
+n
+Este interzis ca autovehiculele sa fie echipate cu:
+a.	sisteme sonor antifurt;
+b.	dispozitive antiradar;
+c.	sisteme de navigatie.
+1010
+n
+Cand nu este permis unui autovehicul sa circule?
+a.	cand unul dintre faruri nu functioneaza;
+b.	cand parbrizul este fisurat;
+c.	cand noxele depasesc limita legala admisa.
+1001
+n
+Cand nu este permis unui autovehiculul sa circule?
+a.	cand placutele cu numarul de inmatriculare sunt deteriorate;
+b.	cand nu este dotat cu o roata de rezerva;
+c.	cand polueaza fonic, in timpul mersului sau stationarii, peste pragul admis de lege.
+1101
+n
+Este permis sa montati, la autovehiculul pe care il detineti, un alt avertizor in afara celui omologat de catre autoritatea competenta?
+a.	da, cu conditia ca acesta sa nu fie deranjant din punct de vedere sonor;
+b.	nu;
+c.	regulamentul nu prevede nimic in acest sens.
+1010
+n
+Este permis sa montati, la autovehiculul pe care il detineti, alte lumini in afara celor omologate de catre autoritatea competenta?
+a.	da, daca acestea asigura o vizibilitate mai buna pe timp de noapte;
+b.	da, daca acestea permit ca autovehiculul sa fie vazut mult mai clar in trafic;
+c.	nu.
+1001
+n
+In care dintre situatii pot fi retrase placutele cu numarul de inmatriculare ale unui autovehicul?
+a.	atunci cand conducatorul autovehiculului nu poate prezenta cartea de identitate si carnetul de conducere;
+b.	atunci cand placutele cu numarul de inmatriculere nu sunt conforme cu standardele in vigoare;
+c.	atunci cand certificatul de inmatriculare este pierdut.
+1010
+n
+Nu puteti circula cu autovehiculul pe drumurile publice atunci cand:
+a.	autovehiculul prezinta scurgeri de carburanti sau de lubrifianti;
+b.	nu aveti practica de conducere de cel putin un an;
+c.	lipseste simbolul "RO".
+1100
+n
+Cand este indicat sa verificati presiunea din anvelope?
+a.	de regula, inainte de a porni la drum;
+b.	intotdeauna la 300 km;
+c.	numai pe timp de iarna, cand anvelopele sunt reci.
+1100
+n
+Ce document atesta omologarea unui vehicul?
+a.	cartea de identitate a vehiculului;
+b.	manualul tehnic al autovehiculului sau al remorcii;
+c.	anexa certificatului de inmatriculare al autovehiculului.
+1100
+n
+Ce obligatii au persoanele juridice detinatoare de autovehicule?
+a.	sa verifice starea tehnica a autovehiculelor, sa faca mentiuni despre aceasta in foaia de parcurs sau ordinul de serviciu;
+b.	sa verifice anvelopele autovehiculului numai pe timp de iarna;
+c.	sa monteze pe vehicule sisteme sonore antifurt care se declanseaza la trecerea altui vehicul.
+1100
+n
+Un esapament defect trebuie reparat neconditionat?
+a.	da, daca destabilizeaza autovehiculul;
+b.	da, deoarece produce un zgomot prea mare;
+c.	nu este o urgenta.
+1010
+n
+Cu ce trebuie sa fie dotate autovehiculele pentru a fi conduse pe drumurile publice?
+a.	stingator de incendiu;
+b.	doua triunghiuri reflectorizante;
+c.	trusa medicala de prim ajutor.
+1111
+n
+Radierea din evidenta a unui vehicul, la cererea proprietarului, se poate face:
+a.	la schimbarea oricaror date referitoare la identificarea vehiculului respectiv;
+b.	la schimbarea domiciliului ori a sediului unitatii detinatoare;
+c.	cand proprietarul face dovada dezmembrarii, casarii sau pierderii vehiculului la unitati specializate.
+1001
+n
+Circulatia autoturismelor pe drumurile publice se interzice in urmatoarele situatii:
+a.	cand motorul emite noxe peste limita legala;
+b.	cand nu sunt echipate cu carlig pentru remorcare;
+c.	cand nu au montate faruri de ceata.
+1100
+n
+In ce conditii pot circula autovehiculele si remorcile pe drumurile publice?
+a.	cand au un aspect civilizat;
+b.	cand nu depasesc greutatea si gabaritul inscrise in certificatul de inmatriculare;
+c.	cand sunt in buna stare de functionare si indeplinesc conditiile tehnice stabilite prin lege.
+1001
+n
+Cand se interzice circulatia pe drumurile publice a autovehiculelor?
+a.	atunci cand sunt montate alte dispozitive de avertizare sonora decat cele omologate de autoritatea competenta;
+b.	atunci cand zgomotul in mers sau stationare depaseste limita legala admisa pentru tipul respectiv de vehicul;
+c.	atunci cand nu se respecta regulile referitoare la transportul produselor periculoase.
+1111
+n
+Cand se interzice circulatia pe drumurile publice a autovehiculelor?
+a.	atunci cand emisia de gaze atinge limita legala;
+b.	atunci cand echipamentul de franare este defect;
+c.	atunci cand au montate dispozitive de iluminare si de semnalizare, altele decat cele omologate de autoritatea competenta.
+1011
+n
+In ce situatii se interzice circulatia pe drumurile publice a autovehiculelor?
+a.	atunci cand autovehiculul are montate accesorii pe parbrize ori pe geamurile laterale, care restrang sau estompeaza vizibilitatea conducatorului in timpul mersului;
+b.	atunci cand autovehiculul are aplicate inscriptii, desene, semne distinctive sau reclame de natura sa impiedice ori sa diminueze eficacitatea dispozitivelor de iluminare si de semnalizare luminoasa sau citirea numarului de inmatriculare;
+c.	atunci cand mecanismul de directie prezinta uzuri peste limitele admise.
+1111
+n	
+In ce situatie se interzice circulatia autovehiculelor pe drumurile publice?
+a.	cand placutele cu numarul de inmatriculare sunt neconforme cu standardul;
+b.	cand acestea au montate dispozitive de detectare a prezentei aparatelor radar;
+c.	cand parbrizul prezinta fisuri.
+1100
+n
+Nu puteti circula pe drumurile publice cu autoturismul daca:
+a.	autovehiculul are montate dispozitive de iluminare pentru ceata;
+b.	sistemul de franare este defect;
+c.	emisia de gaze atinge limita legala admisa.
+1010
+n
+Cand vi se interzice circulatia cu autoturismul pe drumurile publice?
+a.	cand dispozitivul de avertizare sonora nu este corespunzator;
+b.	cand  zgomotul in mers sau in stationare depaseste limita legala admisa;
+c.	cand oglinzile retrovizoare sunt de dimensiuni mai mari.
+1010
+n
+Ce trebuie sa verificati la un autoturism cu rulota, inainte de a porni la drum?
+a.	daca vizibilitatea in spate, prin oglinzile retrovizoare, este asigurata;
+b.	daca persoanele transportate in rulota poarta centura de siguranta;
+c.	daca sistemul de alimentare cu apa al rulotei functioneaza.
+1100
+n
+Puteti circula cu autovehiculul intr-o zona pietonala daca:
+a.	aveti sistemul de iluminare in stare de functionare;
+b.	prestati servicii comerciale;
+c.	locuiti in acea zona.
+1001
+n
+Cand vi se interzice circulatia cu autoturismul pe drumurile publice?
+a.	cand certificatul de inmatriculare este deteriorat;
+b.	cand termenul de valabilitate a inspectiei tehnice periodice a expirat;
+c.	cand acesta nu corespunde normelor tehnice cu privire la siguranta rutiera si la protectia mediului inconjurator.
+1011
+n
+Ce conditii tehnice trebuie sa indeplineasca un autovehicul pentru a circula pe drumurile publice?
+a.	sa nu depaseasca gabaritul inscris in certificatul de inmatriculate;
+b.	sa fie inmatriculat si sa corespunda conditiilor tehnice legale;
+c.	sa nu depaseasca masa totala maxima autorizata inscrisa in certificatul de inmatriculare.
+1011
+n
+Poate fi retinut de catre politistul rutier certificatul de inmatriculare al unui vehicul?
+a.	da, daca autovehiculul sau remorca prezinta defectiuni tehnice care pun in pericol siguranta circulatiei;
+b.	da, dar numai pentru o perioada de 15 zile;
+c.	nu, deoarece legea prevede o asemenea masura numai pentru permisul de conducere.
+1100
+n
+Ce autovehicule pot fi echipate cu lumini speciale de avertizare de culoare albastra?
+a.	legea nu prevede;
+b.	vehiculele apartinand politiei, jandarmeriei si politiei de frontiera;
+c.	orice autovehicul pentru care se obtine aprobarea politiei rutiere.
+1010
+n
+Daca sunteti posesorul unui permis de conducere categoria B, puteti conduce un autovehicul destinat transportului de persoane, avand mai mult de 8 locuri pe scaune, in afara locului conducatorului?
+a.	nu;
+b.	da, daca conducatorul poseda si categoria BE a permisului de conducere;
+c.	da, daca posesorul permisului are o vechime in conducere de cel putin un an.
+1100
+n
+Daca sunteti posesorul unui autoturism, puteti transporta obiecte al caror gabarit depaseste, impreuna cu incarcatura, dimensiunile acestuia?
+a.	da, daca extremitatea obiectelor este semnalizata cu un steag rosu;
+b.	da, daca obiectele depasesc latimea autovehiculului;
+c.	nu.
+1001
+n
+Care dintre regulile de mai jos sunt valabile intr-o zona rezidentiala semnalizata ca atare?
+a.	pietonii pot folosi toata latimea partii carosabile;
+b.	viteza maxima admisa este de 30 km/h;
+c.	copii nu se pot juca pe partea carosabila.
+1100
+n
+Nu puteti circula cu autoturismul daca:
+a.	autovehiculul depaseste inaltimea inscrisa in certificatul de inmatriculare;
+b.	anvelopele sunt de marimi si caracteristici diferite fata de cele inscrise in certificatul de inmatriculare;
+c.	se depaseste masa maxima admisa, inscrisa in certificatul de inmatriculare.
+1011
+n
+In ce conditii nu mai poate circula un autovehicul avariat?
+a.	daca au trecut mai mult de 30 de zile de la data producerii avariei;
+b.	daca au trecut mai mult de 3 zile de la constatare;
+c.	daca are elementele de caroserie distruse.
+1100
+n
+Cand poate dispune politistul rutier imobilizarea unui vehicul?
+a.	cand conducatorul auto refuza sa se legitimeze;
+b.	cand anvelopele au alte dimensiuni decat cele prevazute in cartea de identitate a vehiculului;
+c.	cand vehiculul nu are efectuata inspectia tehnica periodica.
+1100
+n
+Politistul rutier are dreptul de a confisca:
+a.	centurile de siguranta neomologate;
+b.	dispozitivele care perturba functionarea mijloacelor tehnice de supraveghere a traficulului;
+c.	mijloacele proprii de detectare a dispozitivelor de masurare a vitezei.
+1010
+n
+Posesorul unui permis de conducere categoria B are permisiunea de a conduce un autoturism cu remorca?
+a.	da, daca masa remorcii nu depaseste 750 kg;
+b.	nu, deoarece pentru o remorca este necesar un permis de conducere categoria BE;
+c.	da, cu conditia ca acesta sa aiba permis de cel putin 3 ani.
+1100
+n
+Ce trebuie sa aveti in vedere daca intentionati sa transportati o incarcatura cu autoturismul personal?
+a.	in fata, incarcatura poate depasi cu un metru limitele vehiculului;
+b.	incarcatura sa nu fie voluminoasa;
+c.	sa nu fie depasite lungimea, latimea si greutatea admise.
+1001
+n
+Unde trebuie sa declarati pierderea, furtul sau distrugerea permisului de conducere?
+a.	la cea mai apropiata sectie de politie;
+b.	la unitatea emitenta;
+c.	la politia de care apartineti cu domiciliul.
+1010
+n
+Reducerea vitezei de deplasare sau oprirea autovehiculelor, tramvaielor sau mopedelor pe partea carosabila se semnalizeaza cu lumina:
+a.	rosie;
+b.	rosie sau alba;
+c.	galbena sau alba.
+1100
+n
+Lampile cu lumina intermitenta din spatele autovehiculului pot fi de culoare:
+a.	rosie sau galbena;
+b.	rosie sau alba;
+c.	galbena sau alba.
+1100
+n
+Cu ce se face remorcarea unui autoturism ramas in pana?
+a.	cu o bara rigida, lunga de maximum 4 m;
+b.	cu o bara metalica, insotita de un lant de siguranta;
+c.	cu o legatura flexibila omologata, in lungime de 3-5 m, daca mecanismul de directie si sistemul de franare nu sunt defecte.
+1001
+n
+Unui autovehicul din categoria B, i se poate atasa:
+a.	o remorca sau o semiremorca, cu masa maxima autorizata de pana la 1 t;
+b.	o remorca, dar care, impreuna cu autovehiculul tragator de categorie B, sa nu depaseasca 4250 kg, iar masa remorcii depaseste 750 Kg;
+c.	o remorca usoara, a carei masa sa nu depaseasca 750 kg.
+1011
+n
+Autovehiculul din categoria B se defineste corect astfel:
+a.	autovehiculul care nu depaseste 3500 kg, al carui numar de locuri pe scaune, in afara conducatorului, nu este mai mare de 8;
+b.	autovehiculul care nu depaseste 5000 kg, al carui numar de locuri pe scaune, in afara conducatorului, este mai mic de 8;
+c.	autovehiculul care nu depaseste 3500 kg, al carui numar de locuri pe scaune, in afara conducatorului, nu este mai mare de 5.
+1100
+n
+Sunteti obligat sa aveti in autovehicul:
+a.	numai trusa medicala de prim ajutor si triunghiuri reflectorizante;
+b.	o trusa medicala de prim ajutor, doua triunghiuri reflectorizante si un stingator de incendiu omologat;
+c.	numai trusa medicala de prim ajutor.
+1010
+n
+Cu ce se face remorcarea unui autoturism ramas in pana?
+a.	cu o bara metalica, lunga de maximum 4 m;
+b.	cu o bara metalica, insotita de un lant de siguranta;
+c.	cu o legatura flexibila omologata, in lungime de 3-5 m, daca mecanismul de directie si sistemul de franare nu sunt defecte.
+1101
+n

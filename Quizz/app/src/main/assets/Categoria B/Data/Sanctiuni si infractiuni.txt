@@ -1,0 +1,451 @@
+74
+Cand se poate dispune imobilizarea unui vehicul de catre politistul rutier?
+a.	pentru lipsa triunghiurilor reflectorizante;
+b.	pentru lipsa trusei medicale de prim ajutor;
+c.	pentru refuzul de legitimare.
+1001
+n
+Pentru ce se aplica punctele de penalizare?
+a.	pentru nerespectarea semnificatiei indicatorului "Copii";
+b.	pentru nerespectarea semnificatiei indicatorului "Oprire", instalat la trecerea la nivel cu o cale ferata;
+c.	pentru nerespectarea semnificatiei indicatorului "Drum cu denivelari".
+1010
+n
+Cand se aplica suspendarea exercitarii dreptului de a conduce?
+a.	atunci cand titularul permisului de conducere a savarsit contraventii care cumuleaza 15 puncte de penalizare;
+b.	atunci cand titularul permisului de conducere nu a respectat semnificatia indicatorului "Ocolire", instalat pe refugiul statiilor de tramvai;
+c.	atunci cand permisul de conducere are valabilitatea expirata.
+1100
+n
+Punctele de penalizare se aplica pentru:
+a.	lipsa unui stergator de parbriz;
+b.	circulatia sau stationarea pe spatiul interzis care separa sensurile de circulatie pe autostrada;
+c.	conducerea unui autovehicul cu permisul de conducere deteriorat.
+1010
+n
+Cand se aplica suspendarea exercitarii dreptului de a conduce autovehicule?
+a.	in cazul nerespectarii regulilor de circulatie la trecerea unei coloane oficiale;
+b.	in cazul utilizarii detectoarelor antiradar;
+c.	in cazul nerespectarii interdictiei de a deschide usile autovehiculului in timpul mersului.
+1100
+n
+Cand se retine certificatul de inmatriculare?
+a.	cand sunt aplicate autocolante pe parbriz;
+b.	cand  vehiculul nu are efectuata inspectia tehnica;
+c.	cand exista defectiuni la sistemul de climatizare.
+1010
+n
+Daca refuzati recoltarea unor probe biologice in vederea stabilirii alcoolemiei, atunci cand conduceti autovehiculul pe drumurile publice, veti fi pedepsit penal?
+a.	da;
+b.	nu;
+c.	numai daca sunteti implicat intr-un accident de circulatie.
+1100
+n
+Reparatia unui autovehicul cu urme de accident, fara autorizatia politiei, constituie:
+a.	contraventie si se sanctioneaza cu amenda;
+b.	infractiune si se pedepseste cu inchisoare sau cu amenda penala;
+c.	abatere administrativa, si se sanctioneaza cu retragerea autorizatiei de functionare.
+1010
+n
+Sanctiunile contraventionale sunt:
+a.	amenda penala;
+b.	amenda si dupa caz, atentionarea;
+c.	amenda, puncte de penalizare, precum si suspendarea exercitarii dreptului de a conduce autovehicule.
+1001
+n
+Permisul de conducere se retine atunci cand:
+a.	se incalca normele legale referitoare la stationare;
+b.	nu se respecta obligatia de reducere a vitezei;
+c.	nu se respecta normele referitoare la prioritatea de trecere a pietonilor.
+1001
+n
+Permisul de conducere se retine:
+a.	atunci cand autovehiculul nu este dotat cu oglinzi retrovizoare;
+b.	in cazul incalcarii obligatiilor privind semnificatia luminilor rosii la trecerea la nivel cu calea ferata prevazuta cu bariere;
+c.	in cazul repararii autovehiculului fara autorizatia politiei.
+1010
+n
+Cum se sanctioneaza trecerea cu autovehiculul la semnalul luminos de culoare rosie?
+a.	cu amenda penala;
+b.	cu amenda contraventionala si suspendarea exercitarii dreptului de a conduce autovehiculul;
+c.	cu amenda contraventionala si puncte de penalizare.
+1010
+n
+Neacordarea prioritatii, de catre conducatorii de autovehicule si tramvaie, pietonilor angajati in traversarea drumurilor publice, atunci cand au acest drept, se sanctioneaza prin:
+a.	amenda contraventionala si suspendarea exercitarii dreptului de a conduce autovehicule;
+b.	amenda contraventionala si puncte de penalizare;
+c.	anularea permisului de conducere.
+1100
+n
+Nerespectarea semnalelor politistilor la trecerea coloanelor oficiale sau intercalarea intr-o astfel de coloana se sanctioneaza prin:
+a.	amenda contraventionala si puncte de penalizare;
+b.	amenda contraventionala si suspendarea exercitarii dreptului de a conduce autovehicule;
+c.	amenda penala.
+1010
+n
+Permisul de conducere retinut de catre politie in vederea suspendarii exercitarii dreptului de a conduce se restituie:
+a.	atunci cand procesul verbal de contraventie a fost anulat printr-o hotarare judecatoreasca definitiva;
+b.	la hotararea agentului de circulatie;
+c.	la expirarea termenului de suspendare, daca a fost promovat testul de verificare a cunostintelor, in situatiile prevazute de lege.
+1101
+n
+Care dintre urmatoarele fapte, comise intr-un interval de 12 luni de la restituirea permisului de conducere, atrag sanctiunea contraventionala de suspendare a exercitarii dreptului de a conduce autovehicule, pentru 60 de zile?
+a.	incalcarea dispozitiilor legale cu privire la semnalizarea schimbarii directiei de mers;
+b.	incalcarea dispozitiilor legale cu privire la folosirea luminilor din dotare pe timp de noapte;
+c.	acumularea a inca 15 puncte de penalizare.
+1001
+n
+Depasirea pe partea dreapta a sensului de mers, fara semnalizare si incadrare corespunzatoare directiei de deplasare, se sanctioneaza cu:
+a.	amenda contraventionala si puncte de penalizare;
+b.	amenda contraventionala si suspendarea exercitarii dreptului de a conduce autovehiculul;
+c.	amenda contraventionala.
+1010
+n
+Ce masuri se vor lua in cazul conducerii pe drumurile publice a unui autovehicul cu defectiuni grave la mecanismul de directie?
+a.	amenda contraventionala, retinerea certificatului de inmatriculare, precum si retinerea permisului de conducere in vederea suspendarii exercitarii dreptului de a conduce autovehicule;
+b.	amenda contraventionala si retinerea certificatului de inmatriculare;
+c.	amenda contraventionala.
+1100
+n
+Permisul de conducere se retine pentru:
+a.	depasirea cu mai mult de 50 km/h a vitezei maxime admise;
+b.	incalcarea semnificatiei luminii de culoare galbena a semaforului;
+c.	neefectuarea examenului medical.
+1100
+n
+Punctele de penalizare se aplica pentru:
+a.	patrunderea intr-o intersectie, atunci cand circulatia este blocata in interiorul acesteia;
+b.	lasarea libera a volanului in timpul conducerii;
+c.	aruncarea de obiecte pe drumul public.
+1100
+n
+Nerespectarea de catre conducatori a obligatiei de a opri la semnalele agentilor de cale ferata se sanctioneaza cu:
+a.	retinerea permisului de conducere;
+b.	amenda contraventionala;
+c.	amenda contraventionala si puncte de penalizare.
+1001
+n
+Masura retinerii permisului de conducere se aplica pentru una dintre faptele de mai jos:
+a.	incalcarea normelor legale referitoare la semnalizarea vehiculelor;
+b.	nerespectarea semnalelor, indicatiilor si dispozitiilor politistului rutier aflat in exercitarea atributiilor de serviciu;
+c.	nerespectarea dispozitiilor legale referitoare la oprire si stationare.
+1010
+n
+Certificatul de inmatriculare al vehiculului se retine, fara drept de circulatie, intr-una dintre situatiile:
+a.	cand sistemul de franare este defect;
+b.	cand in autovehicul este instalat un mijloc tehnic de detectare a prezentei aparatelor radar;
+c.	cand luminile de pozitie nu functioneaza.
+1100
+n
+Ce sanctiuni se aplica in cazul depasirii unei coloane de vehicule in asteptare, daca prin aceasta se intra pe sensul opus de circulatie?
+a.	amenda contraventionala;
+b.	suspendarea certificatului de inmatriculare;
+c.	amenda contraventionala si suspendarea exercitarii dreptului de a conduce.
+1001
+n
+Nerespectarea, de catre conducatorul unui autovehicul, a obligatiei de a nu mari viteza de deplasare si de a circula cat mai aproape de marginea din dreapta a partii carosabile, atunci cand urmeaza sa fie depasit, se sanctioneaza cu:
+a.	amenda contraventionala si puncte de penalizare;
+b.	suspendarea exercitarii dreptului de a conduce autovehicule si amenda contraventionala;
+c.	amenda penala.
+1010
+n
+Masura amenzii contraventionale si puncte de penalizare se aplica pentru:
+a.	nerespectarea regulilor privind prioritatea de trecere;
+b.	oprirea neregulamentara;
+c.	nesolicitarea, in termen de 30 de zile de la expirarea valabilitatii, a eliberarii unui nou permis de conducere.
+1010
+n
+Exercitarea dreptului de a conduce autovehicule se suspenda in cazul:
+a.	neprezentarii, in termen de 24 de ore, la unitatea de politie competenta pe raza careia s-a produs un accident cu avarierea vehiculului;
+b.	neopririi la semnalul agentului de cale ferata;
+c.	depasirii in mod repetat, cu mai mult de 20 km/h, a vitezei maxime legale.
+1100
+n
+Pentru care dintre faptele de mai jos se aplica sanctiuni contraventionale?
+a.	conducerea pe drumurile pubilce a unui autovehicul de catre o persoana fara permis de conducere;
+b.	conducerea unui autovehicul sub influenta bauturilor alcoolice, avand o imbibatie sub 0,8 g/l alcool in sange;
+c.	punerea in circulatie sau conducerea pe drumurile publice a unui autovehicul neinmatriculat.
+1010
+n
+Certificatul de inmatriculare sau inregistrare se retine atunci cand:
+a.	motorul emite diverse zgomote;
+b.	inspectia tehnica periodica a expirat;
+c.	claxonul nu functioneaza la parametri optimi.
+1010
+n
+Imobilizarea vehiculului se dispune atunci cand:
+a.	acesta are defectiuni grave la sistemul de directie;
+b.	este in imposibilitatea de a se deplasa, din cauza unor defectiuni la motor;
+c.	exista date sau indicii conform carora acesta face obiectul unei contraventii.
+1100
+n
+In conformitate cu legea circulatiei, sunt supuse confiscarii:
+a.	farurile suplimentare si portbagajul suplimentar neautorizat;
+b.	mijloacele speciale de avertizare luminoasa si sonora detinute ilegal;
+c.	mijloace tehnice de detectare a prezentei aparatelor radar.
+1010
+n
+Permisul de conducere se anuleaza pentru:
+a.	infractiunile care s-au soldat cu moartea sau vatamarea  grava a unei persoane, savarsite ca urmare a nerespectarii regulilor de circulatie;
+b.	nerespectarea semnalelor politistilor la trecerea coloanelor oficiale;
+c.	conducerea unui autovehicul sub influenta bauturilor alcoolice.
+1100
+n
+Imobilizarea unui vehicul se dispune atunci cand:
+a.	starea tehnica a vehiculului deterioreaza grav drumul public sau mediul inconjurator;
+b.	conducatorul autovehiculului nu are asupra sa certificatul de inmatriculare;
+c.	conducatorul acestuia nu are asupra sa permisul de conducere.
+1100
+n
+Cand se va imobiliza un vehicul?
+a.	cand conducatorul auto refuza sa poarte centura de siguranta;
+b.	cand numarul de inmatriculare sau de inregistrare este fals;
+c.	cand starea tehnica a pneurilor este necorespunzatoare.
+1010
+n
+Conducatorul unui vehicul va fi sanctionat cu amenda contraventionala si suspendarea dreptului de a conduce autovehicule:
+a.	la depasirea cu 20 km/h a vitezei maxime admise;
+b.	la depasirea cu mai mult de 30 km/h a vitezei maxime admise;
+c.	la depasirea cu mai mult de 50 km/h a vitezei maxime admise.
+1001
+n
+Conducatorul unui vehicul care a cumulat 15 puncte de penalizare este sanctionat cu:
+a.	suspendarea dreptului de a conduce autovehicule pentru o perioada de 30 de zile;
+b.	amenda contraventionala;
+c.	amenda contraventionala si suspendarea exercitarii dreptului de a conduce, pentru o perioada de 60 de zile.
+1100
+n
+Retinerea permisului de conducere se dispune pentru una dintre situatiile de mai jos:
+a.	acumularea a 10 puncte de penalizare;
+b.	nerespectarea normelor legale referitoare la verificarea medicala periodica;
+c.	permisul de conducere prezinta modificari, stersaturi sau adaugiri.
+1001
+n
+Ce masura se va lua atunci cand titularul permisului de conducere a fost declarat inapt pentru a conduce autovehicule, de catre o institutie medicala autorizata?
+a.	i se vor aplica sanctiunile contraventionale complementare;
+b.	i se va retrage permisul de conducere;
+c.	va fi reexaminat de catre autoritatea competenta.
+1010
+n
+Cum se sanctioneaza folosirea incorecta, pe timp de noapte, a luminilor de drum, la intalnirea unui alt autovehicul, care circula din sens opus?
+a.	cu amenda si puncte de penalizare;
+b.	cu anularea permisului de conducere;
+c.	cu suspendarea exercitarii dreptului de a conduce autovehicule, daca aceasta contraventie a fost savarsita in mod repetat.
+1100
+n
+Se considera infractiune si se pedepseste ca atare:
+a.	sustragerea de la obligatia de a supune autovehiculul inspectiei tehnice periodice;
+b.	parasirea locului accidentului cara a avut ca urmare avarii;
+c.	repararea autovehiculului ce prezinta urme de accident, fara autorizatia politiei.
+1001
+n
+Sustragerea de la recoltarea probelor biologice, in vederea stabilirii alcoolemiei, constituie:
+a.	contraventie, si atrage retinerea permisului de conducere;
+b.	infractiune si atrage anularea permisului de conducere;
+c.	contraventie si se pedepseste cu inchisoare.
+1010
+n
+Conducatorul unui vehicul implicat intr-un accident de circulatie, din care au rezultat numai pagube materiale, este obligat sa se supuna recoltarii probelor biologice, daca aerul expirat, testat cu un aparat autorizat, arata o concentratie:
+a.	mai mare de 0,80 mg/l alcool pur;
+b.	mai mare de 0,40 mg/l alcool pur;
+c.	mai mica de 0,40 mg/l alcool pur.
+1010
+n
+Cum se pedepseste incredintarea cu stiinta a unui autovehicul, pentru a fi condus pe drumul public, unei persoane care nu poseda permis de conducere?
+a.	contraventional;
+b.	penal;
+c.	cu amenda contraventionala si anularea permisului de conducere.
+1010
+n
+Cum se pedepseste conducerea pe drumul public a autovehiculului de catre o persoana cu o alcoolemie in sange de peste 0,8 g/l?
+a.	cu raspundere penala si suspendarea exercitarii dreptului de a conduce pe o perioada de 90 de zile;
+b.	cu raspundere penala si anularea permisului de conducere;
+c.	cu raspundere contraventionala si retinerea permisului de conducere.
+1010
+n
+Daca ati fost angajat intr-un accident de circulatie, din care a rezultat moartea sau ranirea unei persoane, puteti parasi locul faptei fara incuviintarea politiei?
+a.	nu, intrucat fapta constituie infractiune;
+b.	da, daca accidentul nu s-a produs din culpa;
+c.	da, daca autovehiculul a blocat circulatia.
+1100
+n
+Cum se pedepseste conducerea pe drumul public a unui autovehicul de categorie C, de catre o persoana al carei permis de conducere este valabil pentru categoria B?
+a.	contraventional;
+b.	penal;
+c.	cu amenda contraventionala si retinerea permisului de conducere.
+1010
+n
+Cum se pedepseste distrugerea, degradarea sau aducerea in stare de neintrebuintare, in mod intentionat, a indicatoarelor, semafoarelor si amenajarilor rutiere?
+a.	penal;
+b.	cu suspendarea exercitarii dreptului de a conduce autovehicule;
+c.	cu amenda contraventionala si puncte de penalizare.
+1100
+n
+Permisul de conducere se anuleaza intr-una dintre situatiile:
+a.	pentru incalcarea dispozitiilor legale referitoare la obligatia de a semnaliza schimbarea directiei de mers;
+b.	in urma unei condamnari, printr-o hotarare definitiva, pentru o infractiune la regimul circulatiei;
+c.	pentru incalcarea dispozitiilor legale referitoare la folosirea luminilor de intalnire pe timp de noapte, in afara localitatilor.
+1010
+n
+Cand se suspenda exercitarea dreptului de a conduce autovehiculul pe o perioada de 30 de zile?
+a.	pentru utilizarea excesiva a claxonului;
+b.	pentru depasirea unei coloane de vehicule oprite la culoarea rosie a semaforului;
+c.	pentru nerespectarea regulilor referitoare la remorcare.
+1010
+n
+Exercitarea dreptului de a conduce autovehiculul se suspenda pentru:
+a.	nerespectarea regulilor privind depasirea;
+b.	nefolosirea luminilor de ceata dupa lasarea serii;
+c.	depasirea vitezei maxime admise cu peste 20 km/h.
+1100
+n
+Certificatul de inmatriculare se retine daca:
+a.	sistemul de inchidere centralizata a usilor este defect;
+b.	sistemul de franare este defect;
+c.	pneurile nu sunt umflate la presiunea minima admisa.
+1010
+n
+Cand se suspenda exercitarea dreptului de a conduce autovehiculul pe o perioada de 60 de zile?
+a.	pentru un cumul de 10 puncte de penalizare;
+b.	pentru circulatia pe sens opus, cu exceptia cazurilor in care se efectueaza regulamentar manevra de depasire;
+c.	pentru depasirea cu cel mult 30 km/h a vitezei maxime admise.
+1010
+n
+Dupa expirarea perioadei de suspendare si promovarea testului de cunoastere a regulilor de circulatie, permisul de conducere se restituie daca a fost retinut pentru:
+a.	utilizarea excesiva a stergatoarelor de parbriz;
+b.	nefolosirea in timpul mersului a centurii de siguranta;
+c.	neacordarea prioritatii de trecere vehiculelor care au acest drept, daca prin aceasta s-a produs un accident de circulatie soldat cu pagube materiale.
+1001
+n
+Cand se suspenda exercitarea dreptului de a conduce autovehiculul pe o perioada de 90 de zile?
+a.	pentru conducerea sub influenta bauturilor alcoolice, daca fapta nu constituie infractiune;
+b.	pentru nerespectarea semnalelor politistului rutier aflat in exercitarea atributiilor de serviciu;
+c.	pentru neacordarea prioritatii de trecere vehiculelor care au acest drept.
+1100
+n
+Care dintre abaterile de mai jos atrag si puncte de penalizare?
+a.	pierderea certificatului de inmatriculare;
+b.	folosirea telefoanelor mobile fara dispozitiv de tip "maini libere", in timpul conducerii;
+c.	oprirea in afara partii carosabile.
+1010
+n
+Sunteti obligat sa va supuneti recoltarii probelor biologice, in cazul unui accident de circulatie din care a rezultat moartea sau vatamarea  integritatii corporale ori a sanatatii unor persoane?
+a.	da;
+b.	da, dar numai daca sunteti vinovat de producerea accidentului;
+c.	nu, daca ati fost testat cu un aparat autorizat.
+1100
+n
+Cand poate dispune politistul rutier imobilizarea unui vehicul?
+a.	cand conducatorul nu respecta viteza legala;
+b.	cand vehiculul prezinta defectiuni tehnice care pun in pericol siguranta circulatiei;
+c.	cand vehiculul nu a fost radiat din circulatie in cazurile prevazute de lege.
+1010
+n
+Dupa expirarea perioadei de suspendare si promovarea testului de cunoastere a regulilor de circulatie, permisul de conducere se restituie daca a fost retinut pentru:
+a.	conducerea sub influenta bauturilor alcoolice, daca a avut loc un accident soldat cu pagube materiale;
+b.	neindeplinirea obligatiei de preschimbare a certificatului de inmatriculare in cazurile prevazute de lege;
+c.	circularea cu viteza redusa, in mod nejustificat.
+1100
+n
+Valoarea alcoolemiei in sange, peste care se aplica pedeapsa penala pentru un conducator aflat la volan, este:
+a.	1 g/l;
+b.	0,5 g/l;
+c.	0,8 g/l.
+1001
+n
+Pentru care dintre situatiile de mai jos se aplica puncte de penalizare?
+a.	nerespectarea semnificatiei indicatorului "Oprire", instalat la trecerea la nivel cu o cale ferata;
+b.	depasirea cu 31-40 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus;
+c.	depasirea cu 10-20 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus.
+1111
+n
+Se aplica puncte de penalizare pentru:
+a.	conducerea autovehiculului fara una dintre placutele cu numarul de inmatriculare;
+b.	conducerea autovehiculului de catre o alta persoana decat proprietarul;
+c.	noxele motorului ating limita legala admisa.
+1100
+n
+Cand se retine certificatul de inmatriculare?
+a.	cand autoturismul este murdar, iar instalatia de spalat parbrizul este defecta;
+b.	cand autoturismul nu a fost asigurat de raspundere civila in caz de pagube materiale produse tertilor prin accidente de circulatie, conform legii;
+c.	cand autoturismul nu are montata una dintre placutele cu numarul de inmatriculare.
+1011
+n
+Care dintre urmatoarele fapte constituie infractiuni?
+a.	conducerea sub influenta unor produse sau substante stupefiante sau a unor medicamente cu efecte similare;
+b.	depasirea limitei legale de viteza cu peste 50 km/h;
+c.	nerespectarea semnalelor politistilor la trecerea coloanelor oficiale.
+1100
+n
+Patrunderea intr-o intersectie dirijata prin semafoare, daca prin aceasta se produce blocarea circulatiei in intersectie, se penalizeaza cu:
+a.	amenda contraventionala;
+b.	amenda contraventionala si aplicarea punctelor de penalizare;
+c.	suspendarea exercitarii dreptului de a conduce autovehicule pe o perioada de 30 de zile.
+1010
+n
+Care dintre urmatoarele actiuni se pedepsesc penal?
+a.	instalarea de mijloace de semnalizare rutiera sau modificarea pozitiei acestora fara autorizatie legala;
+b.	blocarea cu intentie a drumului public, daca se pune in pericol siguranta circulatiei;
+c.	organizarea sau participarea, in calitate de conducator auto sau de animale, la intreceri neautorizate pe drumurile publice.
+1111
+n
+Care dintre faptele de mai jos atrag suspendarea exercitarii dreptului de a conduce pe o perioada de 90 de zile?
+a.	conducerea unui vehicul neinmatriculat;
+b.	conducerea sub influenta bauturilor alcoolice, daca fapta nu constituie infractiune;
+c.	conducerea sub influenta produselor stupefiante.
+1010
+n
+Care dintre faptele de mai jos, comise intr-un interval de un an de la restituirea permisului de conducere, atrag majorarea perioadei suspendarii dreptului de a conduce?
+a.	incalcarea dispozitiilor legale cu privire la semnalizarea schimbarii directiei de mers;
+b.	incalcarea dispozitiilor legale cu privire la folosirea luminilor din dotare pe timp de noapte;
+c.	acumularea din nou a cel putin 15 puncte de penalizare.
+1001
+n
+Certificatul de inmatriculare al unui vehicul poate fi retinut atunci cand:
+a.	detinatorul nu face dovada incheierii asigurarii auto de raspundere civila;
+b.	datele din certificatul de inmatriculare nu concorda cu caracteristicile tehnice ale vehiculului;
+c.	autovehiculul are aplicate afise publicitare.
+1110
+n
+Masura retinerii permisului de conducere se aplica pentru:
+a.	neoprirea la semnalul regulamentar al politistului;
+b.	nerespectarea normelor privind folosirea luminilor pe timp de noapte;
+c.	nerespectarea dispozitiilor legale referitoare la depasire.
+1101
+n
+In ce situatii se retine certificatul de inmatriculare sau inregistrare?
+a.	cand motorul emite noxe poluante peste limitele legale admise;
+b.	daca zgomotul in mers sau stationare depaseste limita legala admisa;
+c.	cand inspectia tehnica periodica a expirat.
+1111
+n
+Imobilizarea unui vehicul se dispune atunci cand:
+a.	starea tehnica a vehiculului deterioreaza grav drumul public sau mediul inconjurator;
+b.	conducatorul autovehiculului nu are asupra sa certificatul de inmatriculare;
+c.	starea tehnica a vehiculului pune in pericol grav siguranta circulatiei.
+1101
+n
+Nedeclararea, la cererea politiei, a identitatii persoanelor carora detinatorii de vehicule le-au incredintat vehiculele proprii se sanctioneaza cu:
+a.	amenda contraventionala si puncte de penalizare;
+b.	amenda contraventionala;
+c.	retinerea permisului de conducere.
+1010
+n
+Se dispune retinerea permisului de conducere pentru:
+a.	permisul de conducere prezinta modificari, stersaturi sau adaugiri;
+b.	permisul de conducere este deteriorat;
+c.	neacordarea prioritatii de trecere.
+1111
+n
+In care dintre urmatoarele situatii, pe langa amenda contraventionala, se retine si permisul de conducere?
+a.	la nerespectarea semnalelor politistilor la trecerea coloanelor oficiale;
+b.	pentru neoprirea la semnalul agentului de cale ferata;
+c.	pentru neoprirea la semnalul persoanelor autorizate din zona de lucrari la drumul public.
+1100
+n
+Constituie infractiune si se pedepseste ca atare:
+a.	conducerea pe drumul public a unui autovehicul fara certificat de inmatriculare;
+b.	conducerea pe drumul public a unui autovehicul cu numar de inmatriculare fals;
+c.	conducerea pe drumul public a unui autovehicul neinmatriculat.
+1011
+n

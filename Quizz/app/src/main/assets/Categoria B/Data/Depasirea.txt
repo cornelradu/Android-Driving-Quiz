@@ -1,0 +1,584 @@
+97
+Executati corect depasirea autoturismului rosu?
+a.	da, daca din sens invers, nu circula niciun vehicul;
+b.	da, deoarece ati semnalizat intentia de a depasi;
+c.	nu, deoarece linia continua va interzice manevra.	 
+1001
+y
+Puteti depasi in situatia data?
+a.	da, daca va asigurati ca manevra poate fi executata si semnalizati corespunzator;
+b.	nu, deoarece prin aceasta manevra se trece peste axul drumului;
+c.	nu, deoarece in curba vizibilitatea este redusa.
+1100
+y
+Puteti depasi in situatia data?
+a.	nu, deoarece sunteti la mai putin de 150 m de calea ferata;
+b.	da, este regulamentar;
+c.	nu, deoarece indicatoarele interzic depasirea.	
+1010
+y
+Puteti efectua depasirea in situatia data?
+a.	nu;
+b.	da, daca v-ati asigurat din ambele sensuri ca nu se apropie niciun tren;
+c.	da, deoarece caruta se deplaseaza cu viteza foarte mica.	
+1100
+y
+Este regulamentar sa depasiti autobuzul oprit in statie?
+a.	nu, pana la plecarea autobuzului din statie;
+b.	da, daca va asigurati si semnalizati;
+c.	da, numai daca autobuzul are refugiu pentru statie.	 
+1010
+y
+Este permisa manevra de depasire in situatia data?
+a.	nu, deoarece autovehiculul din fata nu va permite depasirea;
+b.	da, deoarece axul drumului este marcat cu linie continua;
+c.	da, deoarece linia discontinua este cea mai apropiata de directia de mers.	
+1001
+y
+Puteti executa depasirea camionului?
+a.	da, deoarece interzicerea depasirii se refera numai la autovehiculele destinate transportului de marfa;
+b.	nu, deoarece indicatorul interzice depasirea autovehiculelor;
+c.	nu, deoarece nu aveti vizibilitate suficienta.	
+1100
+y
+Este corecta depasirea autocamionului din imagine?
+a.	nu, deoarece camionul are gabarit depasit;
+b.	nu, deoarece linia continua interzice acest lucru;
+c.	da, deoarece din sens opus nu se apropie alt vehicul.	
+1010
+y
+Este corect sa depasiti motocicleta din fata?
+a.	da;
+b.	nu, deoarece nu respectati semnificatia indicatorului;
+c.	nu, deoarece astfel veti depasi axul drumului.	
+1100
+y
+Va este permis sa executati depasirea in situatia prezentata?
+a.	nu, deoarece executati manevra pe un pod;
+b.	nu, deoarece podul nu are parapeti din beton;
+c.	da, intrucat axul drumului nu este marcat cu linie continua.	 
+1100
+y
+Puteti depasi tramvaiul oprit in statie?
+a.	da, deoarece intre sina de tramvai si trotuar exista spatiu suficient pentru depasire;
+b.	nu, deoarece tramvaiul se depaseste pe partea stanga;
+c.	nu, deoarece in statie nu exista refugiu pentru pietoni.	
+1001
+y
+Daca autoturismul din fata semnalizeaza intentia de a se pune in miscare, puteti depasi?
+a.	nu, deoarece a semnalizat corect;
+b.	da, procedati regulamentar;
+c.	nu, vehiculele care pleaca de pe loc au prioritate.	
+1010
+y
+Se poate executa depasirea in situatia data?
+a.	nu, deoarece urmeaza o curba la dreapta si marcajul axial este continuu;
+b.	da, deoarece din sens opus nu se apropie niciun vehicul;
+c.	da, deoarece legea nu interzice.	
+1100
+y
+Puteti depasi mai multe vehicule in situatia de fata?
+a.	numai daca sunt peste doua benzi de circulatie;
+b.	da;
+c.	nu.	
+1010
+y
+Indicatorul interzice depasirea?
+a.	nu;
+b.	da;
+c.	indicatorul nu vi se adreseaza.	 
+1010
+y
+Puteti executa depasirea in situatia data?
+a.	nu, deoarece drumul este prea ingust;
+b.	nu, pentru ca drumul este denivelat;
+c.	da.	
+1001
+y
+In situatia data continuati depasirea?
+a.	da, deoarece marcajul se adreseaza vehiculelor din contrasens;
+b.	nu, pentru ca sunt trei benzi de circulatie;
+c.	atunci cand conducatorul autoturismului reduce viteza.
+1100
+y
+Puteti executa depasirea in situatia data?
+a.	nu, pentru ca urmeaza un drum in lucru;
+b.	da, pentru ca legea nu interzice;
+c.	nu, pentru ca drumul se ingusteaza.	
+1010
+y
+Este permis sa depasiti biciclistii?
+a.	da, daca prin claxonare biciclistii sunt determinati sa se angajeze cat mai spre dreapta;
+b.	biciclistii pot fi depasiti fara probleme;
+c.	nu, pentru ca din cauza circulatiei din sens opus nu se poate pastra o distanta laterala corespunzatoare.	
+1001
+y
+Pentru a depasi acesti biciclisti puteti trece peste linia continua?
+a.	nu;
+b.	da;
+c.	prin exceptie, nu se considera depasire in cazul biciclistilor.	 
+1100
+y
+Este permis sa depasiti in aceasta situatie?
+a.	da, dar numai dupa oprirea autocamionului;
+b.	da, numai daca vizibilitatea permite;
+c.	nu.	
+1010
+y
+Veti depasi in aceasta situatie, daca va aflati la volanul autoturismului?
+a.	da, deoarece manevra este regulamentara;
+b.	nu, deoarece treceti de axul drumului;
+c.	nu, deoarece marcajul orizontal interzice manevra.	
+1100
+y
+Conducatorul autoturismului rosu s-a angajat corect in depasirea autocamionului?
+a.	nu, deoarece incalca semnificatia indicatorului;
+b.	nu, deoarece nu s-a asigurat si nu a semnalizat intentia de a depasi;
+c.	da, deoarece din sens opus nu circula niciun vehicul.	
+1010
+y
+Aveti voie sa depasiti camionul din fata, daca va aflati la volanul autoturismului?
+a.	nu, deoarece marcajul orizontal va interzice acest lucru;
+b.	nu, deoarece incarcatura este periculoasa si se poate rasturna;
+c.	da, fara restrictii,.	
+1001
+y
+Executa corect autoturismul manevra de depasire?
+a.	da, deoarece manevra este regulamentara;
+b.	nu, deoarece aceasta manevra nu este permisa in statiile mijloacelor de transport public de persoane;
+c.	nu, deoarece autobuzul are prioritate la plecarea din statie.	 
+1100
+y
+Precizati daca autoduba executa corect depasirea autoturismului.
+a.	nu, deoarece depasirea se executa numai pe partea stanga;
+b.	da, deoarece conducatorul autoturismului a semnalizat intentia de a vira la stanga, iar spatiul ramas liber permite trecerea autodubei prin partea dreapta;
+c.	nu, deoarece in intersectii depasirea este interzisa.	
+1010
+y
+Conduceti autoturismul galben. V-ati angajat corect in depasirea motocicletei?
+a.	da, deoarece din sens opus nu circula niciun vehicul;
+b.	da, deoarece motocicleta nu trece peste axul drumului;
+c.	nu, deoarece motocicleta depaseste autocamionul.
+1001
+y
+Care dintre conducatorii autovehiculelor executa corect depasirea tramvaiului aflat in mers?
+a.	conducatorul motocicletei;
+b.	ambii conducatori;
+c.	conducatorul autoturismului.	
+1010
+y
+Autoturismul galben poate depasi in situatia data?
+a.	nu, deoarece depaseste o coloana oprita la trecerea la nivel cu calea ferata;
+b.	da, deoarece a semnalizat intentia si din sens opus nu se apropie niciun vehicul;
+c.	da, deoarece se afla la mai mult de 150 m de calea ferata.	
+1100
+y
+Precizati daca motociclistul depaseste corect autocamionul:
+a.	da, procedeaza corect;
+b.	nu, deoarece indicatorul din imagine interzice acest lucru;
+c.	nu, deoarece din sens opus circula alt vehicul.	 
+1100
+y
+Care dintre cei doi conducatori nu circula corect?
+a.	conducatorul autoturismului, deoarece nu respecta semnificatia indicatorului;
+b.	motociclistul, deoarece circula aproape de axul drumului;
+c.	ambii circula corect.	
+1010
+y
+Intentia de a depasi alt vehicul, intr-o localitate, pe un drum neiluminat se semnalizeaza, noaptea, astfel:
+a.	cu luminile indicatoare de directie;
+b.	cu faza de drum a luminii farurilor;
+c.	prin folosirea combinata a fazei scurte si a semnalului sonor.
+1100
+n
+Cum procedati atunci cand circulati in afara localitatilor, pe un drum cu o singura banda pe sens si intalniti un vehicul lent, lung sau greu, pe care il puteti depasi?
+a.	va deplasati in urma acestuia, pana cand manevra de depasire se poate efectua;
+b.	il semnalizati pe cel de la volan prin mijloace de avertizare sonora si luminoasa;
+c.	opriti si lasati vehiculul respectiv sa se indeparteze.
+1100
+n
+Cum se depasesc, de regula, tramvaiele in mers?
+a.	pe partea dreapta;
+b.	pe ambele parti;
+c.	pe partea stanga.
+1100
+n
+Depasirea inseamna:
+a.	manevra prin care un vehicul trece inaintea altui vehicul ori pe langa un obstacol, aflat pe acelasi sens de circulatie, prin schimbarea directiei de mers si iesirea de pe banda de circulatie sau din sirul de vehicule in care s-a aflat initial;
+b.	trecerea unui vehicul unul pe langa altul, cand circula in acelasi sens, dar pe o banda alaturata;
+c.	trecerea unui vehicul prin dreptul altuia.
+1100
+n
+In care dintre urmatoarele situatii va este interzis sa efectuati depasirea?
+a.	la mai putin de 150 m de toate trecerile la nivel cu calea ferata;
+b.	pe drumurile cu o singura banda de circulatie pe sens;
+c.	in zona de actiune a indicatorului "Depasirea interzisa".
+1001
+n
+In care dintre urmatoarele situatii va este interzis sa efectuati depasirea?
+a.	cand depasirea urmeaza sa se efectueze in varfuri de rampa, iar vizibilitatea este redusa sub 50 m;
+b.	la mai putin de 50 m de statiile de tramvai, troleibuz sau autobuz;
+c.	pe drumurile publice cu o latime mai mica de 6 m.
+1100
+n
+Cand puteti incepe depasirea unui tramvai oprit intr-o statie fara refugiu?
+a.	cand calatorii au coborat din tramvai si au parasit partea carosabila;
+b.	cand usile tramvaiului au fost inchise, acordand totodata prioritate pietonilor;
+c.	cand autovehiculul din fata s-a pus in miscare.
+1010
+n
+Prin distanta de cel putin 50 m de la care conducatorul de autovehicul este obligat sa semnalizeze intentia de a depasi in localitate se intelege:
+a.	distanta dintre locul in care s-a semnalizat intentia de a depasi si locul in care se schimba pozitia de mers a autovehiculelor pentru inceperea depasirii;
+b.	distanta dintre autovehiculul care depaseste si cel care urmeaza sa fie depasit;
+c.	distanta dintre autovehiculul angajat in depasire si locul unde efectueaza depasirea.
+1100
+n
+Exista vreo exceptie de la regula depasirii pe partea stanga?
+a.	nu;
+b.	da, numai in cazul in care depasirea se face pe o strada semnalizata cu indicatorul "Drum fara iesire";
+c.	da, in cazul autovehiculului care intentioneaza sa vireze spre stanga, si in cazul tramvaiului.
+1001
+n
+Poate fi depasit tramvaiul pe partea stanga?
+a.	da, in statiile fara refugiu, pentru protejarea calatorilor care se urca sau coboara;
+b.	da, atunci cand intre sina din dreapta si bordura nu exista spatiu suficient pentru depasire;
+c.	nu.
+1010
+n
+Nu este permisa marirea vitezei de deplasare a autovehiculului atunci cand:
+a.	un alt vehicul s-a angajat in depasire;
+b.	circulati pe prima banda, iar pe cea de langa axul drumului se deplaseaza alte autovehicule, cu viteze superioare;
+c.	va aflati in zona de actiune a indicatorului "Viteza recomandata".
+1100
+n
+Inainte de efectuarea unei depasiri, sunteti obligat:
+a.	sa semnalizati intentia de a efectua depasirea;
+b.	sa il avertizati sonor pe cel care urmeaza a fi depasit;
+c.	sa reduceti viteza de deplasare.
+1100
+n
+Cand se semnalizeaza depasirea?
+a.	o data cu schimbarea pozitiei autovehiculului;
+b.	atunci cand exista intentia de a efectua aceasta manevra;
+c.	numai daca din spate se apropie un alt vehicul.
+1010
+n
+Va puteti angaja in depasirea unei carute aflate in traversarea trecerii la nivel cu o cale ferata fara bariere?
+a.	da, intrucat caruta se deplaseaza cu viteza redusa;
+b.	da, in cazul in care nu se apropie trenul;
+c.	nu, depasirea este interzisa in aceasta situatie.
+1001
+n
+Puteti executa o depasire la intalnirea indicatorului "Limitare de viteza"?
+a.	da, daca depasirea se executa in afara unei localitati;
+b.	da, daca in timpul manevrei viteza cu care circulati nu este mai mare decat cea inscrisa pe indicator;
+c.	nu, pana la intalnirea indicatorului care semnalizeaza terminarea zonei de limitare a vitezei.
+1010
+n
+Depasirea este interzisa:
+a.	in curbele in care vizibilitatea este redusa sub 50 m;
+b.	in intersectiile dirijate;
+c.	in statii fara refugiu pentru pietoni, cand tramvaiul este oprit.
+1101
+n
+Depasirea este interzisa:
+a.	in zona de actiune a indicatorului "limitare de viteza";
+b.	in intersectiile cu circulatie nedirijata si la trecerile pentru pietoni semnalizate;
+c.	in intersectii si la o distanta de 50 m fata de acestea.
+1010
+n
+Depasirea este permisa:
+a.	in intersectiile dirijate prin semnale ale politistului;
+b.	in intersectiile dirijate prin semnale luminoase;
+c.	in intersectiile semnalizate cu indicatoare de prioritate.
+1111
+n
+Este permisa depasirea cand din sens opus se apropie, la mica distanta, un alt vehicul?
+a.	da, daca drumul are o latime suficienta, iar prin depasire nu se trece peste axul drumului;
+b.	da, daca nu exista interdictia de a depasi;
+c.	da, daca vehiculul care vine din sens opus a redus viteza pentru a facilita depasirea.
+1100
+n
+Prin exceptie, pe un pod pot fi depasite:
+a.	tractoare si alte autovehicule lente;
+b.	vehicule cu tractiune animala, motociclete fara atas si biciclete;
+c.	niciun vehicul.
+1010
+n
+Depasirea este interzisa:
+a.	in curbe, daca vizibilitatea este redusa sub 50 m;
+b.	in apropierea varfurilor de rampa, cand vizibilitatea este redusa sub 50 m;
+c.	la intalnirea indicatorului "Drum cu prioritate".
+1110
+n
+Ce trebuie sa aveti in vedere atunci cand intentionati sa depasiti atat biciclisti, cat si grupuri de pietoni care se deplaseaza pe carosabil?
+a.	sa respectati prevederile legale;
+b.	puteti depasi numai dupa ce pietonii si biciclistii v-au facut semn in acest sens;
+c.	biciclistii si pietonii pot fi depasiti numai daca distanta laterala este de 3 m.
+1100
+n
+Depasirea este interzisa:
+a.	pe drumurile alunecoase;
+b.	pe drumurile cu latime mai mica de 6 m;
+c.	in apropierea varfurilor de rampa, cand vizibilitatea este redusa sub 50 m.
+1001
+n
+Este interzisa depasirea:
+a.	vehiculelor cu tractiune animala, motocicletelor fara atas, mopedelor si bicicletelor, daca vizibilitatea asupra drumului este asigurata pe o distanta mai mare de 20 m, iar latimea drumului este de cel putin 7 m;
+b.	tuturor vehiculelor, la 100 m de trecerile cu calea ferata curenta;
+c.	in intersectiile cu circulatie nedirijata.
+1001
+n
+Cum trebuie sa procedati atunci cand, aflandu-va intr-o comuna, in imediata apropiere a unei treceri pentru pietoni semnalizate ca atare, intentionati sa depasiti un vehicul aflat in miscare?
+a.	nu executati depasirea;
+b.	executati depasirea cu viteza redusa;
+c.	executati depasirea cu viteza sporita.
+1100
+n
+Cum trebuie sa procedati in situatia in care vehiculul din fata schimba directia de mers spre stanga, iar pe partea dreapta nu este loc suficient pentru depasire?
+a.	semnalizati si executati depasirea cu viteza redusa;
+b.	asteptati eliberarea benzii pentru a va continua deplasarea;
+c.	incercati depasirea prin stanga.
+1010
+n
+Cum trebuie sa procedati inainte de a va angaja intr-o depasire?
+a.	avertizati prin semnale sonore sau optice pe conducatorul vehiculului ce urmeaza a fi depasit;
+b.	semnalizati si va apropiati cat mai mult de axul drumului, pentru a va asigura vizibilitatea asupra circulatiei din sens opus;
+c.	va asigurati ca manevra se poate efectua in conditii de siguranta, dupa care semnalizati intentia de a schimba directia de mers.
+1001
+n
+Depasirea unui moped este interzisa:
+a.	la mai putin de 50 m de trecerile la nivel cu calea ferata;
+b.	pe trecerile pentru pietoni, semnalizate cu indicator sau cu marcaj;
+c.	in zona de actiune a indicatorului "Depasirea autovehiculelor, cu exceptia motocicletelor fara atas, interzisa".
+1110
+n
+Puteti efectua depasirea pe partea dreapta a autovehiculului al carui conducator a semnalizat intentia schimbarii directiei de mers spre stanga?
+a.	nu;
+b.	da, daca vehiculul din fata s-a angajat corespunzator parasirii sensului de mers;
+c.	da, daca in felul acesta s-a creat spatiu suficient pentru aceasta manevra.
+1011
+n
+Depasirea este interzisa:
+a.	atunci cand pentru efectuarea manevrei se incalca marcajul continuu;
+b.	pe drumul unde sensurile de circulatie sunt despartite prin marcaj;
+c.	pe drumul cu o singura banda pe sens.
+1100
+n
+In care dintre situatii nu aveti voie sa depasiti alt autovehicul?
+a.	in zona de actiune a indicatorului "Depasirea autovehiculelor, cu exceptia motocicletelor fara atas, interzisa";
+b.	cand tramvaiul se afla la peste 50 m de statie;
+c.	la trecerea pentru pietoni semnalizata cu indicator sau marcaj.
+1101
+n
+Ce obligatii aveti inainte de efectuarea unei depasiri?
+a.	sa semnalizati intentia si sa efectuati depasirea;
+b.	sa va asigurati din fata si sa reduceti viteza corespunzator;
+c.	sa va asigurati si sa semnalizati intentia de depasire.
+1001
+n
+Ce obligatii aveti cand sesizati ca urmeaza sa fiti depasit de un alt vehicul?
+a.	sa nu mariti viteza de mers;
+b.	sa reduceti viteza de mers;
+c.	sa circulati cat mai aproape de marginea din dreapta a carosabilului sau a benzii pe care va deplasati.
+1101
+n
+Va este permisa depasirea cand din sens opus se apropie un alt autovehicul?
+a.	da, daca cel care se apropie din sens opus a redus viteza de deplasare pentru a facilita depasirea;
+b.	nu, daca cel care se apropie din sens opus este obligat sa efectueze manevre de evitare a coleziunii;
+c.	da, daca spatiul lateral este suficient.
+1010
+n
+Inainte de a va angaja intr-o depasire, este necesar:
+a.	sa-l avertizati sonor si optic pe conducatorul auto pe care intentionati sa il depasiti;
+b.	sa semnalizati si sa va apropiati cat mai mult de cel pe care intentionati sa il depasiti;
+c.	sa va asigurati ca autovehiculul care circula in fata sau in spate nu a initiat o manevra similara.
+1001
+n
+In ce situatii este interzisa depasirea vehiculelor pe drumurile publice?
+a.	in intersectiile cu circulatie nedirijata;
+b.	pe drumurile publice cu o singura banda pe sens;
+c.	pe portiunile de drum unde oprirea este interzisa.
+1100
+n
+Depasirea vehiculelor pe drumurile publice este interzisa:
+a.	in intersectiile dirijate doar cu indicatoare rutiere;
+b.	pe sectorul de drum pe care s-a format o coloana de autovehicule in asteptare, daca prin aceasta se intra pe sensul opus de circulatie;
+c.	atunci cand cel depasit este remorcat si are puse in functiune luminile de avarie?
+1010
+n
+Cum trebuie sa procedati pentru ca depasirea pe care o executati sa fie considerata regulamentara?
+a.	sa mariti viteza de deplasare, astfel incat sa scurtati timpul de realizare a depasirii;
+b.	sa va asigurati ca manevra poate fi executata in conditii de siguranta, dupa care sa semnalizati intentia de schimbare a pozitiei de mers si sa efectuati depasirea;
+c.	sa semnalizati din timp intentia de schimbare a directiei de mers.
+1010
+n
+Depasirea prin stanga a tramvaielor aflate in mers este permisa:
+a.	atunci cand drumul public este cu sens unic;
+b.	cand intre sina de tramvai din dreapta si marginea trotuarului nu exista suficient spatiu pentru depasire;
+c.	in nicio situatie.
+1110
+n
+Depasirea nu este permisa:
+a.	in apropierea varfurilor de rampa, cand vizibilitatea este sub 50 m;
+b.	cand autobuzul se afla oprit in statie;
+c.	intr-o intersectie nedirijata.
+1101
+n
+Va deplasati pe un drum public cu mai multe benzi de circulatie, cu o viteza mai mare decat cea a vehiculelor de pe celelalte benzi. Se considera aceasta o depasire?
+a.	da, daca circulati pe banda din stanga;
+b.	da, daca circulati pe banda din dreapta;
+c.	nu.
+1001
+n
+Pot fi depasite autovehiculele pe partea dreapta?
+a.	da, daca spatiul lateral dintre vehicule permite acest lucru;
+b.	nu, in nicio situatie;
+c.	da, in cazul vehiculelor care urmeaza sa vireze la stanga, iar spatiul ramas permite depasirea prin dreapta.
+1001
+n
+In care dintre situatiile de mai jos este interzisa depasirea?
+a.	pe trecerile pentru pietoni sau pe cele la nivel cu calea ferata curenta si la mai putin de 50 m inainte de acestea;
+b.	la coborarile a caror panta depaseste 10%;
+c.	in situatia in care, din sens opus, un vehicul este nevoit sa execute o manevra, pentru a evita coliziunea.
+1101
+n
+In ce situatie nu va este permis sa mariti viteza de deplasare a autovehiculului?
+a.	cand un alt vehicul s-a angajat in depasire;
+b.	cand circulati pe prima banda;
+c.	in intersectii.
+1100
+n
+Depasirea nu este permisa:
+a.	atunci cand vehiculul ce urmeaza a fi depasit ruleaza cu viteza admisa de lege;
+b.	in orice locuri si situatii in care vizibilitatea nu permite executarea manevrei;
+c.	atunci cand traficul rutier este aglomerat.
+1010
+n
+Manevra de ocolire a unui obstacol aflat pe sensul de circulatie, prin schimbarea directiei de mers constituie:
+a.	depasire;
+b.	ocolire;
+c.	situatie de urgenta.
+1100
+n
+Puteti depasi tramvaiul oprit intr-o statie fara refugiu pentru pietoni, pe o strada cu sens unic?
+a.	da, dar numai pe partea stanga;
+b.	da, dar numai daca nu exista pietoni in statia de tramvai;
+c.	nu, deoarece depasirea este interzisa in acest caz.
+1001
+n
+Pe ce parte se efectueaza, de regula, depasirea vehiculelor?
+a.	pe partea dreapta, daca exista banda de refugiu;
+b.	pe partea stanga;
+c.	pe partea dreapta.
+1010
+n
+In care dintre situatiile de mai jos este interzisa depasirea vehiculelor pe drumurile publice?
+a.	la o distanta mai mica de 50 m de statia de tramvai, cand acesta este oprit;
+b.	in zona de actiune a indicatorului "Alte pericole";
+c.	la trecerile pentru pietoni prevazute cu indicatoare si marcaje.
+1001
+n
+Depasirea vehiculelor pe drumurile publice este interzisa:
+a.	la intalnirea indicatorului "Circulatie in ambele sensuri";
+b.	la mai putin de 50 m de o intersectie;
+c.	in curbe, unde vizibilitatea este redusa sub 50 m.
+1001
+n
+Faptul ca vehiculele de pe o banda circula mai repede decat vehiculele de pe celelalte benzi poate fi considerat depasire?
+a.	nu;
+b.	nu, daca se circula pe banda din stanga;
+c.	da, daca se circula pe banda din dreapta.
+1100
+n
+Cum trebuie sa procedati daca, circuland cu viteza maxima admisa de lege, observati ca un alt vehicul incearca sa va depaseasca?
+a.	semnalizati cu lumina intermitenta ca ati inteles intentia celuilalt autovehicul de a va depasi;
+b.	nu mariti viteza si circulati pe partea din dreapta a drumului, permitand efectuarea depasirii;
+c.	folositi semnalele sonore si luminoase pentru a-l atentiona pe conducatorul celuilalt autovehicul ca depaseste limita vitezei.
+1010
+n
+Depasirea autoturismelor si a autovehiculelor, pe un drum fara marcaje pe care circulatia se desfasoara in sens unic se executa:
+a.	pe partea dreapta;
+b.	pe partea stanga;
+c.	pe ambele parti.
+1010
+n
+Din ce directie trebuie sa va asigurati inainte de a trece la efectuarea unei depasiri?
+a.	atat din fata, cat si din spate;
+b.	din fata;
+c.	din spate.
+1100
+n
+Este permisa depasirea vehiculelor in intersectii?
+a.	da, dar numai a bicicletelor si a mopedelor;
+b.	da, daca intersectia este dirijata;
+c.	nu.
+1010
+n
+In ce situatie nu este permisa depasirea?
+a.	cand un autobuz se afla oprit in statie;
+b.	pe un drum in rampa, cand vizibilitatea este peste 50 m;
+c.	intr-o intersectie nedirijata.
+1001
+n
+Puteti efectua manevra de depasire a unui autobuz oprit in statie pentru urcarea si coborarea calatorilor, daca va aflati la volanul unui autoturism?
+a.	da;
+b.	da, numai daca latimea drumului public este mai mare de 6 m;
+c.	nu, in acest caz depasirea este interzisa.
+1100
+n
+Depasirea este permisa:
+a.	in intersectiile nedirijate;
+b.	in intersectiile dirijate;
+c.	in intersectiile dirijate prin semnale sonore.
+1010
+n
+Depasirea unei biciclete este interzisa:
+a.	in zona de actiune a indicatorului "Depasirea autovehiculelor, cu exceptia motocicletelor fara atas, interzisa";
+b.	la mai putin de 100 m de trecerea la nivel cu calea ferata;
+c.	pe trecerile pentru pietoni semnalizate.
+1001
+n
+Sunteti obligat sa semnalizati orice schimbare a directiei de mers?
+a.	da;
+b.	numai daca sunt vehicule care te urmeaza;
+c.	numai in localitati.
+1100
+n
+Cum procedati atunci cand, circuland pe un drum public, la o curba cu vizibilitatea redusa sub 50 m, observati ca in fata se deplaseaza un vehicul cu tractiune animala?
+a.	efectuati depasirea, fiind permisa prin lege;
+b.	claxonati, pentru a determina vehiculul cu tractiune animala sa iasa in afara carosabilului;
+c.	circulati in spatele vehiculului cu tractiune animala pana cand aveti o buna vizibilitate si puteti depasi in siguranta.
+1001
+n
+Circulati cu autoturismul pe o artera cu mai multe benzi pe sens. Puteti folosi banda de langa axul drumului atunci cand:
+a.	legea nu prevede astfel de situatii;
+b.	depasiti alte autovehicule, daca celelalte benzi din directia de mers sunt ocupate;
+c.	conduceti autoturismul cu o viteza peste limita admisa.
+1010
+n
+Intentionati sa finalizati o depasire. Cum trebuie sa procedati?
+a.	claxonati si va angajati pe partea dreapta, direct in fata vehiculului depasit;
+b.	dupa reincadrare, semnalizati cu luminile de avarie;
+c.	semnalizati revenirea pe banda initiala si efectuati manevra in conditii de siguranta.
+1001
+n
+Cand se interzice depasirea?
+a.	atunci cand se incalca marcajul longitudinal continuu;
+b.	in zonele cu trafic intens;
+c.	cand se incalca marcajul discontinuu longitudinal.
+1100
+n
+Este corecta depasirea autocamionului din imagine?
+a.      da, deoarece din sens opus nu se apropie alt vehicul;
+b.      nu, pentru ca depasirea s-ar face intr-o curba cu vizibilitate redusa sub 50 m;
+c.      nu, pentru ca linia continua interzice acest lucru.
+1001
+y
+Este permisa depasirea in aceasta situatie?
+a.      da, dar numai dupa oprirea autoturismului;
+b.      nu;
+c.      da, dar numai daca vizibilitatea permite.
+1010
+y
+

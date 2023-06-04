@@ -1,0 +1,373 @@
+62
+Accidentatului caruia i-au revenit functiile cardiace prin resuscitare cardio-respiratorie trebuie:
+a.	sa astepte sosirea politiei rutiere;
+b.	sa fie transportat la domiciliu sau la locul de munca;
+c.	sa fie transportat la o unitate medicala specializata.
+1001
+n
+Biletul care se prinde langa garoul aplicat unei persoane ranite trebuie sa contina:
+a.	pozitia in care a fost gasita victima;
+b.	ora si minutul aplicarii garoului;
+c.	datele de stare civila ale persoanei.
+1010
+n
+Care dintre urmatoarele simptome pot anunta un stop cardiac, in cazul unei victime a unui accident de circulatie?
+a.	leziuni profunde in zona toracelui;
+b.	lipsa pulsului;
+c.	aparitia hemoragiei pe gura.
+1010
+n
+Care sunt semnele unei fracturi?
+a.	temperatura marita si transpiratie abundenta;
+b.	durere in zona afectata;
+c.	durere si pozitie nefireasca.
+1001
+n
+Caror persoane li se aplica resuscitarea cardio-respiratorie?
+a.	oricarui accidentat;
+b.	numai accidentatilor care au suferit fracturi usoare;
+c.	accidentatilor aflati in stare de inconstienta, care nu respira si nu au puls.
+1001
+n
+Ce manevre se executa pentru acordarea primului ajutor in caz de fractura?
+a.	se imping fragmentele osoase care au perforat pielea;
+b.	se imobilizeaza fractura cu fese sterile;
+c.	se fixeaza segmentul de fractura, pentru a preveni miscarea  fragmentelor osoase in timpul imobilizarii membrului, in atele, care trebuie sa fie suficient de lungi pentru a prinde articulatia de deasupra si cea de dedesubtul focarului de fractura.
+1001
+n
+Ce masura vei lua in prima faza in cazul unui accident in care victima si-a pierdut cunostinta?
+a.	imobilizezi eventualele fracturi;
+b.	controlezi respiratia si bataile inimii;
+c.	administrezi medicamente din trusa de prim ajutor.
+1010
+n
+Ce masuri de prim ajutor vei lua in cazul traumatismelor coloanei vertebrale, daca accidentatul are caile respiratorii libere?
+a.	nu misti accidentatul din pozitia in care l-ai gasit pana la sosirea serviciilor mobile de urgenta, cu exceptia cazurilor in care exista un pericol de foc sau de asfixiere;
+b.	incerci sa intorci accidentatul, daca se afla intr-o pozitie arcuita;
+c.	muti accidentatul pe scaunul din fata.
+1100
+n
+Ce mijloace de transport sunt recomandate in cazul persoanelor accidentate care prezinta fracturi de coloana?
+a.	autoturismele, intrucat asigura confort si rapiditate in deplasare;
+b.	mijloacele de transport cu platforma (furgonete, camioane), daca ambulanta nu se poate deplasa la locul accidentului;
+c.	orice mijloc transport care se deplaseaza in directia unei unitati sanitare.
+1010
+n
+Ce poate determina stopul respirator, in cazul persoanelor accidentate?
+a.	pierderi intense de sange;
+b.	astuparea cailor respiratorii;
+c.	multiple fracturi ale membrelor.
+1010
+n
+Ce pozitie de asteptare este indicata pana la transportul victimei la spital?
+a.	o pozitie comoda pentru transport;
+b.	o pozitie in functie de leziunile pe care victima le prezinta;
+c.	o pozitie cat mai confortabila.
+1010
+n
+Ce se va avea in vedere in cazul ranilor cu hemoragie, in faza initiala?
+a.	oprirea hemoragiei;
+b.	pansarea ranii;
+c.	curatarea si pansarea ranii.
+1100
+n
+Ce trebuie sa contina un pansament aplicat pe  plaga?
+a.	o compresa de tifon steril;
+b.	o compresa de orice tip;
+c.	o compresa de vata sterila.
+1100
+n
+Cea mai periculoasa hemoragie este:
+a.	orice mica sangerare vizibila;
+b.	cea care determina o pierdere rapida a sangelui;
+c.	cea care determina o sangerare lenta si continua.
+1010
+n
+Conducatorul care a accidentat un pieton aflat in traversarea neregulamentara a strazii este obligat?
+a.	sa se prezinte imediat la cel mai apropiat post de politie?
+b.	sa transporte victima la cea mai apropiata unitate sanitara daca nu este posibil transportul acesteia cu alte mijloace si sa se intoarca imediat la locul accidentului;
+c.	sa ramana la locul accidentului pana la sosirea organelor de ancheta, retinand datele de identificare ale martorilor.
+1010
+n
+Cum acorzi primul ajutor in cazul plagilor taiate?
+a.	transporti ranitul la medic;
+b.	acoperiti si opriti sangerarea, apoi transportati ranitul la cea mai apropiata unitate sanitara;
+c.	opresti sangerarea prin coaserea plagii.
+1010
+n
+Cum actionezi in cazul unui accidentat care prezinta hemoragie masiva?
+a.	ii dai sa bea cat mai multe lichide;
+b.	asezati victima pe spate, cu picioarele ridicate, imobilizati eventualele fracturi, nu iidati sa bea lichide si o protejati contra frigului;
+c.	asezi persoana pe un scaun in pozitia sezand.
+1010
+n
+Cum este verificat pulsul in cazul unui accidentat care nu respira?
+a.	sub mandibula;
+b.	pe partea laterala a epiglotei, in scobitura dintre trahee si muschii gatului;
+c.	langa ureche.
+1010
+n
+Cum poate fi oprita hemorogia nazala?
+a.	accidentatul trebuie sa stea culcat cu capul pe spate;
+b.	accidentatul trebuie sa ridice mana dreapta;
+c.	accidentatul trebuie sa stea  in picioare si sa isi stranga ambele nari timp de aproximativ de 5-10 minute.
+1001
+n
+Cum pot fi deblocate caile respiratorii?
+a.	la locul accidentului, prin interventii specifice;
+b.	numai in unitati medicale, folosindu-se instrumente speciale;
+c.	indiferent unde, daca victima suporta aceasta interventie.
+1100
+n
+Cum procedezi  in cazul unei fracturi de clavicula (cand umarul se afla intr-o pozitie atarnanda, usor inainte si  in jos)?
+a.	asezi bratul intr-o esarfa;
+b.	aduci umarul intr-o pozitie normala;
+c.	lasi bratul liber.
+1100
+n
+Cum procedezi in cazul unei entorse a gleznei?
+a.	ridici piciorul afectat si aplici un bandaj elastic strans;
+b.	interzici victimei sa se sprijine pe glezna respectiva;
+c.	nu intervii si astepti ca victima sa fie transportata la spital.
+1100
+n
+Cum procedezi in cazul unui accidentat care are puls, daca acesta nu respira?
+a.	ii aplici un pansament compresiv;
+b.	incepi imediat respiratia artificiala;
+c.	ii faci o respiratie cardio-respiratorie.
+1010
+n
+Cum se actioneaza in cazul unui accident de circulatie cu victime si cu deformarea accentuata a caroseriei sau a blocarii usilor, daca ocupantii vehiculelor sunt imobilizati?
+a.	se apeleaza la serviciile specializate ale unitatilor de pompieri, care intervin cu unitatile de descarcerare;
+b.	se cere ajutorul celor din jur si se scot rapid victimele dintre fiarele contorsionate;
+c.	se extrag victimele rapid si ferm.
+1100
+n
+Cum se apreciaza gravitatea unei hemoragii?
+a.	in functie de culoarea sangelui scurs;
+b.	in functie de fluiditatea sangelui scurs;
+c.	in functie de cantitatea de sange pierdut.
+1001
+n
+Cum se executa masajul cardiac atunci cand victimei unui accident i s-au oprit bataile inimii (stop cardiac)?
+a.	prin lovirea cu palmele a obrajilor victimei;
+b.	prin apasarea ritmica cu podul palmelor suprapuse a toracelui victimei, in dreptul inimii;
+c.	prin incrucisarea ritmica a bratelor victimei simultan cu respiratia artificiala.
+1010
+n
+Cum se face dezinfectarea plagilor ce necesita a fi pansate?
+a.	cu ser fiziologic;
+b.	cu apa oxigenata sau iod;
+c.	cu apa potabila.
+1010
+n
+Cum se face imobilizarea membrului inferior fracturat al unei victime intr-un accident de circulatie?
+a.	prin folosirea atelelor;
+b.	prin folosirea pansamentului compresiv;
+c.	prin bandajarea stransa a locului fracturii.
+1100
+n
+Cum se face imobilizarea unei fracturi fara atele?
+a.	cu esarfe si triunghiuri de panza;
+b.	cu un carton rigid;
+c.	cu o folie de material plastic.
+1100
+n
+Cum se face imobilizarea unui brat fracturat?
+a.	cuprinzand atat osul fracturat, cat si cele 2 articulatii: superioara si inferioara;
+b.	cuprinzand osul fracturat si articulatia superioara;
+c.	in dreptul osului fracturat.
+1100
+n
+Cum se face respiratia artificiala a unui ranit cand gura acestuia ramane inclestata?
+a.	prin narile victimei;
+b.	prin gura inchisa a victimei;
+c.	in acest caz nu se face respiratie artificiala.
+1100
+n
+Cum se poate realiza transportul victimelor la spital?
+a.	cu o ambulanta special dotata in acest sens;
+b.	cu vehiculul care a provocat accidentul, daca starea victimei permite acest lucru;
+c.	cu o ambulanta insotita de un medic.
+1111
+n
+Cum se pot astupa caile respiratorii?
+a.	prin patrunderea unor corpi straini pe caile respiratorii;
+b.	prin asezarea pe o parte a victimei;
+c.	prin asezarea pe spate a victimei.
+1100
+n
+Cum se procedeaza in cazul unui accident cu victime si cu deformarea accentuata a caroseriei?
+a.	degajarea victimelor trebuie sa se realizeze cat mai repede, prin orice mijloace;
+b.	victimele constiente sunt sfatuite sa nu se miste, iar degajarea acestora trebuie sa se realizeze cat mai repede si numai de catre persoane specializate;
+c.	se administreaza calmante victimelor care sunt constiente.
+1010
+n
+Cum se va opri hemoragia bratului?
+a.	prin legarea stransa sub rana;
+b.	prin legarea stransa deasupra ranii;
+c.	prin legarea stransa in dreptul ranii.
+1010
+n
+Cum se va opri o hemoragie produsa la unul dintre membrele unei persoane ranite?
+a.	prin ridicarea membrului accidentat in pozitie verticala;
+b.	prin actiunea compresiva asupra vasului lezat sau aplicarea garoului;
+c.	prin dezinfectarea ranii, pansarea si aplicarea atelelor.
+1010
+n
+Cum se va proceda corect in cazul unui accidentat care prezinta corpi straini in interiorul plagilor?
+a.	corpii straini nu se extrag din plagi intrucat pot aparea complicatii;
+b.	se va incerca indepartarea acestora prin spalarea plagii cu apa curata;
+c.	se va incerca extragerea acestora din plagi.
+1100
+n
+Cum trebuie asezat un accidentat cu hemoragie externa?
+a.	indiferent de pozitia ranii fata de planul corpului;
+b.	astfel incat rana care sangereaza sa fie mai sus decat planul corpului;
+c.	astfel incat rana care  sangereaza sa fie mai jos decat planul corpului.
+1010
+n
+Cum trebuie asezata intr-un mijloc de transport o persoana ranita, care prezinta  leziuni ale coloanei vertebrale?
+a.	orizontal, cu fata in sus;
+b.	in pozitie sezand;
+c.	persoana nu trebuie miscata pana la sosirea ambulantei.
+1001
+n
+Cum trebuie sa fie atela in cazul imobilizarii unei fracturi?
+a.	din orice metal;
+b.	cat mai scurta;
+c.	rigida si suficient de lunga pentru a cuprinde articulatia de deasupra si cea de dedesubtul ranii.
+1001
+n
+Cum trebuie sa fie atelele in cazul imobilizarii fracturilor?
+a.	normele de prim ajutor nu fac referire la caracteristicile atelelor;
+b.	sa nu fie rigide;
+c.	sa fie suficient de lungi.
+1001
+n
+Cum trebuie sa procedezi in cazul persoanelor accidentate, cu multiple arsuri pe corp si pe membre?
+a.	trebuie sa fie spalate, bandajate si apoi transportate la cea mai apropiata unitate sanitara;
+b.	dupa stingerea flacarilor acestea trebuie dezbracate rapid de haine;
+c.	trebuie sa fie transportate urgent la o unitate medicala.
+1001
+n
+Cum trebuie scoase dintr-un autovehicul persoanele ranite?
+a.	prin ridicare;
+b.	prin tragere;
+c.	prin impingere.
+1100
+n
+Daca, dupa resuscitarea cardio-respiratorie accidentatul isi recapata pulsul este necesar sa:
+a.	aplici un bandaj toracic;
+b.	incetezi compresiile exterioare ale pieptului;
+c.	continui compresiile exterioare ale pieptului.
+1010
+n
+Este importanta stabilirea prioritatilor in cazul in care exista mai multe persoane accidentate?
+a.	se incepe acordarea primului ajutor de la victima cea mai apropiata de salvator;
+b.	da, primul ajutor se acorda cu prioritate persoanei cel mai grav accidentate;
+c.	nu, nu are importanta ordinea in care se acorda primul ajutor.
+1010
+n
+Fractura labei piciorului se imobilizeaza:
+a.	cu atele sau cu un bandaj gros, de la degete pana la genunchi;
+b.	cu o fesa groasa, de la glezna pana la sold;
+c.	prin suspendarea piciorului intr-o chinga rigida.
+1100
+n
+In cazul accidentarii foarte grave a unei persoane, intr-un accident de circulatie, prima masura ce se impune este:
+a.	acordarea primului ajutor pana la sosirea ambulantei;
+b.	transportul imediat la cea mai apropiata unitate sanitara, cu orice mijloc de transport;
+c.	transportul imediat pana in prima localitate si anuntarea ambulantei.
+1100
+n
+In cazul unui accidentat care nu mai are puls, trebuie sa:
+a.	incepi imediat compresia inimii si respiratia artificiala;
+b.	hidratezi victima;
+c.	acoperi victima pentru evitarea frisonului.
+1100
+n
+In ce ordine se vor lua masurile de prim ajutor, in functie de starea accidentatului?
+a.	respiratia artificiala, masajul cardiac, oprirea hemoragiei, pansarea ranilor, imobilizarea fracturilor;
+b.	imobilizarea fracturilor, pansarea ranilor, respiratia artificiala, masajul cardiac, oprirea hemoragiei;
+c.	imobilizarea fracturilor, respiratia artificiala, pansarea ranilor masajul cardiac, oprirea hemoragiei.
+1100
+n
+In ce situatii se folosesc bandajele?
+a.	pentru acoperirea si pentru sustinerea ranilor, precum si pentru oprirea  hemoragiilor;
+b.	pentru sustinerea partilor lezate;
+c.	pentru imobilizarea fracturilor.
+1100
+n
+Inaintea transportarii unei victime la spital trebuie sa ai in vedere:
+a.	ca autovehiculul cu care va fi transportata victima sa asigure confortul necesar;
+b.	ca punctul sanitar catre care te indrepti sa nu fie la o distanta mai mare de 50 km.;
+c.	ca functiile respiratorie si circulatorie sa fie asigurate.
+1001
+n
+La scoaterea persoanelor accidentate din autovehicule trebuie sa ai in vedere:
+a.	sa nu se agraveze leziunile;
+b.	sa nu se indeparteze indiciile care ar putea ajuta la explicarea modului in care s-a produs accidentul;
+c.	operatiunea sa se desfasoare rapid si fara sa provoace alte traumatisme.
+1100
+n
+O fractura deschisa la membre se recunoaste atunci cand:
+a.	pielea este strapunsa in zona fracturii;
+b.	accidentatul nu se poate misca;
+c.	zona fracturata nu se poate misca.
+1100
+n
+O functie a bandajului este:
+a.	de a preveni murdarirea hainelor;
+b.	de a opri hemoragia;
+c.	de a acoperi aspectul neplacut al ranii.
+1010
+n
+Pentru evitarea complicatiilor in cazul unei fracturi este necesar:
+a.	sa imobilizezi zona fracturata;
+b.	sa sterilizezi si sa pansezi zona fracturata;
+c.	sa aplici un garou de cauciuc deasupra fracturii.
+1100
+n
+Pentru imobilizarea fracturilor de la membrele superioare folosesti:
+a.	atele improvizate;
+b.	in acest caz nu se intervine;
+c.	o esarfa simpla.
+1001
+n
+Precizeaza daca dotarea autovehiculelor cu trusa medicala de prim ajutor  este obligatorie:
+a.	da, pentru toate autovehiculele care circula pe drumurile publice;
+b.	da, numai pentru autovehiculele cu o greutate mai mare de 3,5 tone;
+c.	nu, este doar o recomandare legala.
+1100
+n
+Prima interventie la fata locului, pentru salvarea victimei, trebuie sa aiba in vedere:
+a.	spalarea ranilor vizibile;   
+b.	igienizarea ranilor si pansarea ranilor;
+c.	pozitionarea victimei in functie de leziunile pe care aceasta le prezinta.
+1001
+n
+Substantele antiseptice se folosesc pentru:
+a.	calmarea durerilor;
+b.	dezinfectarea ranilor;
+c.	oprirea hemoragiei.
+1010
+n
+Unde trebuie aplicat garoul de cauciuc in cazul persoanelor ranite care prezinta plagi insotite de hemoragii arteriale?
+a.	peste plaga;
+b.	sub plaga;
+c.	deasupra plagii.
+1001
+n
+Victima care a pierdut mult sange trebuie sa fie asezata:
+a.	cu fata in sus;
+b.	cu picioarele mai sus decat nivelul corpului;
+c.	cu fata in jos.
+1010
+n
+Pentru imobilizarea unei fracturi, atelele trebuie sa fie:
+a.	suficient de lungi pentru a acoperi in  intregime atat zona de deasupra, cat si cea de sub fractura;
+b.	usoare;
+c.	rigide.
+1111
+n

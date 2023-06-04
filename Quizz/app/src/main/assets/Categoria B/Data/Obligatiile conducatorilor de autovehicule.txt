@@ -1,0 +1,463 @@
+77
+Daca intr-o intersectie semaforizata, semnalul verde se schimba in galben, iar conducatorul unui autovehicul, fiind foarte aproape de semafor, opreste brusc si este lovit din spate de conducatorul care il urma, care dintre cei doi conducatori este cel care greseste?
+a.	conducatorul autovehiculului din spate, care nu a pastrat distanta de siguranta in mers;
+b.	conducatorul primului autovehicul, care a oprit brusc;
+c.	ambii conducatori.
+1100
+n
+Sunteti obligati sa opriti autovehiculul:
+a.	la semnalul nevazatorilor care traverseaza strada;
+b.	la semnalul conducatorului coloanei de pietoni;
+c.	la apropierea de o intersectie.
+1100
+n
+Ce obligatii va revin daca ati accidentat un pieton care a traversat strada printr-un loc nepermis?
+a.	intrucat nu sunteti vinovat de accident, puteti parasi locul faptei;
+b.	sa anuntati politia, si in lipsa altor mijloace de transport, sa il transportati de urgenta la cea mai apropiata unitate sanitara, apoi sa va intoarceti la locul accidentului;
+c.	sa va prezentati de urgenta la cea mai apropiata sectie de politie.
+1010
+n
+In ce situatii se poate schimba pozitia autovehiculului angajat intr-un accident de circulatie?
+a.	dupa ce s-a acordat ajutor medical persoanelor ranite;
+b.	dupa sesizarea politiei;
+c.	daca accidentul s-a soldat cu avarii.
+1001
+n
+Puteti pleca de la locul faptei daca ati fost angajat intr-un accident din care a rezultat moartea sau ranirea unei persoane?
+a.	da, daca ati lasat autovehiculul la locul accidentului;
+b.	nu, fara incuviintarea politiei care efectueaza cercetarea locului faptei;
+c.	da, daca victima a fost transportata la spital.
+1010
+n
+Ce masuri trebuie sa luati atunci cand constatati ca un autoturism s-a rasturnat in afara drumului si exista persoane accidentate?
+a.	opriti, anuntati politia si daca este cazul, transportati ranitii la cea mai apropiata unitate sanitara;
+b.	nu aveti nicio obligatie;
+c.	ajutati la repunerea autovehiculului pe roti.
+1100
+n
+Ce masuri trebuie sa luati daca ati fost angajat intr-un accident de circulatie cu avarii usoare?
+a.	scoateti autovehiculul in afara partii carosabile si anuntati politia in termen de 24 de ore;
+b.	anuntati politia, fara a schimba pozitia autovehiculului;
+c.	asteptati sosirea politistului din zona.
+1100
+n
+Ce le este interzis conducatorilor de vehicule?
+a.	sa consume bauturi racoritoare;
+b.	sa foloseasca telefoanele mobile pe timpul deplasarii, cu exceptia celor prevazute cu dispozitiv de tip "maini libere";
+c.	sa poarte discutii cu pasagerii autovehiculului.
+1010
+n
+Ce este interzis sa se monteze la autovehicul?
+a.	lumini de pozitie;
+b.	lumini de alta culoare si intensitate decat cele omologate;
+c.	dispozitive de detectare a aparatelor radar.
+1010
+n
+Cum veti semnaliza faptul ca autovehiculul cu care circulati a ramas in pana pe partea carosabila?
+a.	prin instalarea triunghiurilor reflectorizante si prin folosirea luminilor de avarie;
+b.	prin purtarea vestei reflectorizante;
+c.	prin folosirea luminilor de pozitie.
+1100
+n
+Cine nu are obligatia de a purta centura de siguranta?
+a.	persoanele suferinde;
+b.	examinatorul, in timpul desfasurarii probelor practice ale examenului;
+c.	pasagerii din taxiuri.
+1010
+n
+Triunghiurile reflectorizante se folosesc:
+a.	in cazul stationarii, cand vizibilitatea este redusa;
+b.	in cazul ramanerii in pana, daca scoaterea in afara partii carosabile a autovehiculului nu este posibila;
+c.	in cazul stationarii indelungate pe timp de noapte.
+1010
+n
+Ce obligatii va revin atunci cand constatati, noaptea, ca lumina farurilor nu se mai aprinde?
+a.	sa asigurati functionarea cel putin a luminii de intalnire din stanga a autovehiculului si a unei lumini de pozitie din spate;
+b.	sa circulati cu atentie pana la primul service auto;
+c.	sa folositi luminile de pozitie pana ajungeti intr-un loc de parcare in care puteti remedia defectiunea.
+1100
+n
+Care este prima masura pe care trebuie sa o luati atunci cand motorul s-a defectat?
+a.	verificati instalatia electrica;
+b.	verificati sistemul de alimentare cu benzina intre rezervor si carburator;
+c.	scoateti autovehiculul in afara partii carosabile sau, cand nu este posibil, il deplasati cat mai aproape de trotuar sau de acostament.
+1001
+n
+Unde trebuie sa va deplasati daca ati fost angajat intr-un accident de circulatie, in urma caruia au rezultat pagube materiale, pentru actul de constatare?
+a.	la unitatea de politie in raza careia domiciliati;
+b.	la cea mai apropiata unitate de politie competenta, in maxim 24 de ore;
+c.	la serviciul judetean de politie rutiera.
+1010
+n
+Ce obligatii va revin in calitate de conducator de vehicul?
+a.	sa mentineti curate placutele cu numarul de inmatriculare, pentru a fi vizibile;
+b.	sa circulati cu o viteza inferioara celei prescrise de indicatorul "Viteza minima obligatorie";
+c.	sa reduceti viteza atunci cand treceti pe langa un politist de circulatie aflat in serviciu pe drumul public.
+1100
+n
+Ce obligatii va revin in calitate de conducator de vehicul?
+a.	sa transportati politisti, la cererea acestora;
+b.	sa va prezentati la verificarea medicala periodica, potrivit legii;
+c.	sa permiteti controlul starii tehnice a vehiculului, precum si al bunurilor transportate, in conditiile legii.
+1011
+n
+In timpul deplasarii cu autovehiculul, va este interzis:
+a.	sa fumati;
+b.	sa actionati comenzile instalatiei de sonorizare;
+c.	sa aveti preocupari care v-ar distrage atentia, intr-o maniera periculoasa.
+1001
+n
+Este obligatorie purtarea centurii de siguranta in timpul circulatiei pe drumurile din afara localitatilor?
+a.	da, de catre cel de la volan si de catre pasagerii care ocupa locurile prevazute cu asemenea dispozitive;
+b.	da, numai de catre conducatorul autovehicului;
+c.	nu.
+1100
+n
+Cine este exceptat de la purtarea centurii de siguranta in localitati?
+a.	femeia care prezinta o sarcina vizibila;
+b.	copiii cu varsta de pana la 12 ani;
+c.	persoanele care poseda un document in acest sens, emis de o institutie medicala de specialitate.
+1101
+n
+Este obligatorie purtarea centurii de siguranta in timpul circulatiei pe drumurile din afara localitatilor?
+a.	nu;
+b.	da;
+c.	legea nu prevede.
+1010
+n
+Ce obligatii va revin in calitate de conducator de vehicul?
+a.	sa va prezentati la termen, la unitatea de politie care v-a citat, pentru solutionarea oricarei probleme legate de calitatea de conducator;
+b.	sa anuntati imediat cea mai apropiata sectie de politie daca v-ati imbolnavit;
+c.	sa nu conduceti dupa ce ati consumat medicamente impotriva bolilor cronice.
+1100
+n
+Ce obligatie aveti la semnalul nevazatorilor care traverseaza strada?
+a.	sa opriti autovehiculul;
+b.	sa reduceti viteza autovehiculului si sa claxonati;
+c.	sa reduceti viteza autovehiculului si sa circulati cu atentie.
+1100
+n
+Ce obligatii au conducatorii de autovehicule inainte de a pleca la drum?
+a.	sa mentina permanent curat parbrizul;
+b.	sa verifice instalatia de climatizare;
+c.	sa verifice sistemul de lumini si semnalizare.
+1111
+n
+Ce obligatii va revin in calitate de proprietar sau detinator al unui autoturism, daca l-ati imprumutat unei persoane spre a fi condus pe drumurile publice?
+a.	sa instruiti acea persoana cu privire la folosirea autoturismului;
+b.	sa comunicati datele de identitate ale acelei persoane, la solicitarea politiei;
+c.	niciuna, deoarece persoana respectiva raspunde pentru faptele sale.
+1010
+n
+Ce obligatii aveti atunci cand un politist va solicita documentele?
+a.	sa prezentati certificatul de inmatriculare si cartea de identitate a vehiculului;
+b.	sa inmanati documentele prevazute de lege;
+c.	sa prezentati documentele personale.
+1010
+n
+Ce obligatie are conducatorul auto la cererea politistului rutier, impreuna cu reprezentantul autoritatilor abilitate?
+a.	sa prezinte documentele de calatorie;
+b.	sa-l transporte la unitatea de politie;
+c.	sa permita controlul starii tehnice a vehiculului, precum si al bunurilor transportate.
+1001
+n
+Puteti parasi locul unui accident fara incuviintarea politiei, daca din acesta a rezultat vatamarea integritatii corporale a unei persoane?
+a.	nu;
+b.	da, daca in cazul in care autoturismul pe care il conduceati nu a fost avariat;
+c.	da, daca accidentul nu s-a produs din culpa.
+1100
+n
+Va este permis sa deschideti portierele autoturismului pe timpul opririi sau stationarii pe un drum public?
+a.	da, numai dupa ce v-ati asigurat ca aceasta nu prezinta pericol pentru trafic;
+b.	da, dar numai pe partea dreapta;
+c.	da, numai pe drumurile cu trafic redus.
+1100
+n
+Ce va este interzis in calitate de conducator auto?
+a.	sa folositi instalatia de sonorizare cu care este echipat autoturismul;
+b.	sa aruncati din vehicul obiecte, substante sau alte bunuri;
+c.	sa deschideti usile, daca vehiculul este oprit sau stationat pe partea carosabila.
+1010
+n
+La ce va obliga semnalele date dintr-un autovehicul al politiei ce insoteste o coloana oficiala, prin folosirea avertizoarelor sonore si luminoase?
+a.	sa opriti de indata pe partea dreapta a drumului, cat mai aproape de trotuar sau de acostament ori, daca este posibil, in afara partii carosabile;
+b.	sa reduceti viteza si sa va deplasati pe langa bordura sau acostament;
+c.	sa intrati pe prima strada in dreapta.
+1100
+n
+Sunt exceptate de la obligatia de a purta centura de siguranta urmatoarele categorii de persoane:
+a.	copiii sub 3 ani, dar transportati in dispozitive de retinere omologate;
+b.	conducatorii autoturismelor, atunci cand executa manevra de mers inapoi sau cand stationeaza;
+c.	conducatorul autoturismului, pe timpul executarii manevrei de intoarcere.
+1110
+n
+Sunt exceptate de la obligatia de a purta centura de siguranta urmatoarele categorii de persoane:
+a.	conducatorul de autoturism care executa transport de persoane in regim de taxi, cand are clienti;
+b.	conducatorul autoturismului pe timpul executarii manevrei de intoarcere;
+c.	conducatorul autoturismului de teren si insotitorul acestuia?
+1100
+n
+Cand sunt scutiti instructorii auto de purtarea centurii de siguranta?
+a.	permanent, cand se afla in autovehiculele cu inscriptia "scoala";
+b.	in timpul orelor de pregatire a cursantilor;
+c.	legal nu este prevazut.
+1010
+n
+Ce obligatii aveti daca va aflati cu autovehiculul imobilizat intr-un pasaj subteran?
+a.	sa anuntati imediat pompierii in legatura cu locul in care va aflati;
+b.	sa tractati autovehiculul pana la iesirea din pasajul subteran;
+c.	sa opriti motorul si sa actionati luminile de avarie.
+1001
+n
+Ce interdictii au conducatorii de autovehicule si de tramvaie?
+a.	sa se angajeze in discutii cu pasageri;
+b.	sa foloseasca telefoanele mobile in timpul mersului, fara sa aiba un sistem de tip "maini libere";
+c.	sa foloseasca luminile de avarie in localitati.
+1010
+n
+Ce este interzis pe timpul deplasarii pe un drum public?
+a.	sa fie transportati copiii cu varsta de pana la 12 ani pe scaunul din spate;
+b.	sa se fumeze in timpul mersului;
+c.	ocupantii locurilor din fata sa tina in brate animale.
+1001
+n
+Puteti schimba pozitia autovehiculului, daca ati fost implicat intr-un accident din care a rezultat moartea sau vatamarea integritatii corporale ori a sanatatii unor persoane?
+a.	da, cu incuviintarea politiei, care cerceteaza accidentul;
+b.	da, daca persoana vatamata se poate deplasa singura.
+c.	nu, pana la sosirea ambulantei.
+1100
+n
+Ce le este interzis conducatorilor de autovehicule?
+a.	sa circule cu vehiculele avariate mai mult de 30 de zile;
+b.	sa aiba aplicate folii sau tratamente chimice pe parbriz, luneta ori geamuri laterale, care reduc vizibilitatea;
+c.	sa transporte in si pe autoturism obiecte a caror lungime sau latime depaseste, impreuna cu incarcatura, dimensiunile acestuia.
+1111
+n
+Sunteti obligat sa opriti la semnalele date de:
+a.	conducatorii vehiculelor de ambulanta;
+b.	inspectorii primariei;
+c.	indrumatorii de circulatie ai Ministerului apararii.
+1001
+n
+Ce le este interzis conducatorilor de autovehicule?
+a.	sa claxoneze;
+b.	sa aplice afise si reclame publicitare pe parbriz, pe luneta sau pe geamurile laterale;
+c.	sa lase volanul liber.
+1011
+n
+Ce le este interzis conducatorilor de autovehicule?
+a.	sa adreseze celorlalti participanti la trafic expresii jignitoare sau vulgare;
+b.	sa profereze injurii;
+c.	sa savarseasca acte sau gesturi obscene.
+1111
+n
+Ce obligatii aveti daca ati stationat pe drumul public si intentionati sa va indepartati de autovehicul?
+a.	sa nu opriti prea aproape de urmatorul autovehicul;
+b.	sa actionati frana de ajutor, sa opriti functionarea motorului si sa cuplati o treapta inferioara de viteza;
+c.	sa semnalizati prezenta pe timp de noapte cu o sursa de lumina.
+1010
+n
+Va este interzis sa circulati pe drumurile publice atunci cand:
+a.	nu ati platit taxa de folosire a drumurilor publice;
+b.	certificatul de inmatriculare este deteriorat;
+c.	vehiculul nu este asigurat de raspundere civila, in caz de pagube materiale produse tertilor prin accidente de circulatie, conform legii.
+1001
+n
+Ce obligatie aveti in calitate de proprietar al unui autovehicul?
+a.	sa declarati autoritatilor schimbarea domiciliului in cel mult 24 de ore;
+b.	sa declarati organului fiscal valoarea politei de asigurare auto;
+c.	sa declarati autoritatii emitente pierderea, furtul sau distrugerea certificatului de inmatriculare, in cel mult 48 de ore de la constatare.
+1001
+n
+Cand se efectueaza examinarea medicala?
+a.	dupa revenirea dintr-o unitate medicala in care ati fost internat;
+b.	periodic, conform reglementarilor in vigoare;
+c.	la 5 ani de la data ultimei verificari medicale.
+1010
+n
+Daca aveti cunostinta de producerea unui accident de circulatie, in urma caruia a rezultat moartea sau vatamarea corporala a unei persoane, sunteti obligat:
+a.	sa opriti, sa anuntati de indata politia si sa apelati numarul national unic pentru apeluri de urgenta 112;
+b.	legal nu va revine nicio obligatie;
+c.	sa va informati asupra imprejurarilor care au determinat accidentul.
+1100
+n
+Ce obligatii are conducatorul unui autovehicul?
+a.	sa verifice, la fiecare deplasare, presiunea din pneuri;
+b.	sa nu permita pasagerilor folosirea telefonului mobil in timpul mersului;
+c.	sa aiba asupra sa actul de identitate, permisul de conducere, certificatul de inmatriculare sau inregistrare si dupa caz, atestatul profesional, precum si celelalte documente prevazute de legislatia in vigoare.
+1001
+n
+Ce obligatii aveti daca sunteti oprit regulamentar de catre un politist rutier?
+a.	sa coborati din vehicul, pentru a lua la cunostinta abaterea comisa;
+b.	sa ramaneti in vehicul, cu mainile pe volan, respectand indicatiile politistului;
+c.	sa coborati din vehicul pentru a prezenta permisul de conducere.
+1010
+n
+Ce persoane sunt obligate sa foloseasca centurile de siguranta ale unui autoturism prevazut cu centuri pentru toate locurile?
+a.	toate persoanele;
+b.	persoanele de pe scaunele din fata;
+c.	persoanele de pe scaunele din spate.
+1100
+n
+Cat timp aveti posibilitatea de a circula pe drumurile publice cu autovehiculul avariat?
+a.	pana la expirarea asigurarii obligatorii de raspundere civila auto;
+b.	cel mult 30 zile de la data producerii avariei;
+c.	cel mult 10 zile de la data constatarii evenimentului.
+1010
+n
+Ce va este interzis pe timpul deplasarii pe un drum public?
+a.	sa permiteti controlul starii tehnice a autovehiculului, precum si al bunurilor transportate;
+b.	sa transportati in autovehicul mai multe persoane decat numarul de locuri inscrise in certificatul de inmatriculare sau inregistrare;
+c.	sa deschideti usile autovehiculului atunci cand este parcat.
+1010
+n
+Cand sunteti obligat sa opriti autovehiculul?
+a.	la semnalele conducatorilor vehiculelor care circula din sens invers;
+b.	la semnalele indrumatorilor de circulatie ai Ministerului apararii;
+c.	la semnalele conducatorilor de vehicule care vireaza la dreapta.
+1010
+n
+Ce obligatii aveti la semnalul membrilor patrulelor scolare de circulatie, la trecerile pentru pietoni din apropierea unitatilor de invatamant?
+a.	sa treceti pe banda de langa axul drumului;
+b.	sa reduceti viteza si sa circulati cu atentie;
+c.	sa opriti.
+1001
+n
+Cum trebuie sa procedati atunci cand ajungeti in spatele unui tramvai oprit intr-o statie fara refugiu pentru pietoni?
+a.	sa opriti in spatele acestuia si sa va reluati deplasarea numai dupa ce usile tramvaiului au fost inchise;
+b.	sa opriti la o distanta de 25 m de tramvai;
+c.	sa opriti in dreptul ultimei usi.
+1100
+n
+Ce obligatii aveti daca, pe drumul pe care circulati, observati evenimente de natura a pune in pericol siguranta circulatiei?
+a.	sa semnalizati participantii la trafic care circula din sens opus;
+b.	sa emiteti semnale acustice;
+c.	sa sesizati cea mai apropiata unitate de politie in legatura cu obstacolele care pun in pericol siguranta circulatiei.
+1001
+n
+Ce obligatii va revin daca ati accidentat un pieton care traversa strada neregulamentar?
+a.	va prezentati de urgenta la cea mai apropiata unitate de politie;
+b.	anuntati imediat politia, nu modificati sau stergeti urmele accidentului si ramaneti pe loc;
+c.	daca vina nu va apartine si accidentul nu este grav, va puteti continua drumul.
+1010
+n
+Ce categorii de vehicule au obligatia de a folosi in timpul zilei luminile de intalnire?
+a.	autovehiculele pentru transport in comun;
+b.	autovehiculele care tracteaza alte vehicule sau care transporta produse periculoase;
+c.	autovehiculele ce se deplaseaza cu viteza mare.
+1010
+n
+Cand sunteti obligat sa opriti autovehiculul?
+a.	in apropierea unei intersectii sau cand sunteti semnalizat cu farurile de catre un alt participant la trafic;
+b.	la semnalul copiilor aflati pe trotuar;
+c.	la semnalul nevazatorilor care traverseaza strada.
+1001
+n
+Pe ce loc pot fi transportati copiii cu varste de pana la 12 ani?
+a.	pe scaunul din fata al autovehiculului, daca sunt tinuti in brate de persoane majore;
+b.	pe scaunul din fata al autovehiculului, avand fixata centura de siguranta;
+c.	pe bancheta din spate a autovehiculului, avand fixata centura de siguranta, adaptata greutatii si dimensiunilor lor.
+1001
+n
+Cand sunteti obligat sa opriti autovehiculul pe care il conduceti pe drumurile publice?
+a.	la semnalul conducatorilor de grupuri organizate;
+b.	la semnalul patrulelor scolare de circulatie la trecerile pentru pietoni din apropierea unitatilor scolare;
+c.	cand va apropiati de o intersectie sau cand sunteti semnalizat cu farurile de un alt participant la trafic.
+1010
+n
+Sunteti obligat sa aveti in autovehicul trusa medicala de prim ajutor, doua triunghiuri reflectorizante si stingatorul de incendii omologat?
+a.	da, toate obiectele enumerate trebuie sa se afle in autovehicul;
+b.	numai trusa medicala de prim ajutor si doua triunghiuri reflectorizante;
+c.	numai trusa medicala de prim ajutor.
+1100
+n
+Puteti schimba pozitia autovehiculului daca sunteti implicat intr-un accident de circulatie?
+a.	da, dupa ce ati acordat primul ajutor;
+b.	da, daca accidentul s-a soldat numai cu avarii;
+c.	da, dupa ce ati anuntat politia.
+1010
+n
+Ce le este interzis conducatorilor de vehicule in timpul mersului?
+a.	sa arunce orice fel de obiecte pe drumul public;
+b.	sa se angajeze in discutii cu ceilalti ocupanti ai autovehiculului;
+c.	sa fumeze.
+1100
+n
+Conducatorul auto, angajat intr-un accident de circulatie din care a rezultat moartea sau vatamarea unei persoane, are permisiunea de a pleca de la locul faptei?
+a.	da, daca victima a fost transportata la spital;
+b.	nu, fara incuviintarea organelor de politie;
+c.	da, cu conditia sa lase autovehiculul la locul accidentului.
+1010
+n
+Ce obligatii va revin daca sunteti posesor al permisului de conducere de mai putin de un an?
+a.	sa circulati cu faza de drum in functiune, inclusiv pe timp de zi;
+b.	sa circulati cu semnul distinctiv aplicat regulamentar;
+c.	sa emiteti semnale acustice ori de cate ori efectuati o depasire.
+1010
+n
+Atunci cand circula pe drumuri acoperite de zapada, gheata sau polei, conducatorilor de autovehicule le este interzis:
+a.	sa circule cu un autovehicul a carui masa totala maxima este mai mare de 3,5 t, fara a avea montate pe roti lanturi sau alte echipamente antiderapante omologate;
+b.	sa efectueze depasiri;
+c.	sa circule pe sectoarele respective de drum fara autorizatie de la administratia drumurilor.
+1100
+n
+Ce obligatii aveti atunci cand circulati pe un drum public?
+a.	sa va informati din timp, la administratorii de drum, in legatura cu eventualele limite maxime si minime de viteza;
+b.	sa circulati numai daca verificarea medicala lunara este efectuata;
+c.	sa circulati numai pe sectoarele de drum pe care va este permis accesul si sa respectati normele referitoare la masele totale maxime autorizate admise de autoritatea competenta.
+1001
+n
+Ce obligatii aveti atunci cand circulati in zona de frontiera?
+a.	sa opriti imediat autovehiculul la semnalele regulamentare ale politistilor de frontiera aflati in zona de competenta;
+b.	sa circulati cu faza de intalnire in functiune, deoarece va aflati in zona de frontiera;
+c.	sa prezentati permisul de conducere si pasaportul ofiterilor de politie aflati in zona de competenta.
+1100
+n
+Ce obligatie au conducatorii auto care circula pe un drum public si intalnesc, intr-o intersectie, o ambulanta ce se deplaseaza la o interventie?
+a.	sa reduca viteza si sa-si continue drumul cu atentie;
+b.	sa respecte semnificatia culorii semaforului;
+c.	sa acorde prioritate de trecere ambulantei.
+1001
+n
+Ce obligatii va revin daca, pe drumul pe care circulati, observati evenimente de natura a pune in pericol siguranta circulatiei?
+a.	sa semnalizati participantii la trafic care circula din sens opus, schimband alternativ lumina de drum cu cea de intalnire;
+b.	sa sesizati cea mai apropiata unitate de politie in legatura cu obstacolele sau situatiile care pun in pericol siguranta circulatiei;
+c.	sa emiteti semnale acustice ori de cate ori intalniti un alt vehicul circuland din sens opus.
+1010
+n
+Cum trebuie sa procedati daca, in timp ce va deplasati cu autovehiculul, apar probleme tehnice care fac imposibila continuarea calatoriei?
+a.	sa scoateti autovehiculul in afara partii carosabile;
+b.	sa asigurati autovehiculul contra efractiei si sa plecati dupa ajutor;
+c.	daca nu puteti inlatura defectiunile, sa va deplasati la cea mai apropiata unitate de depanare.
+1100
+n
+Unde montezi, la autovehicul, semnul distinctiv specific conducatorilor cu o vechime mai mica de un an de la data obtinerii permisului de conducere?
+a.      la autovehicul, pe parbriz, in partea din dreapta jos si pe luneta, in partea stanga jos;
+b.      la autovehicul, pe parbriz, in partea din dreapta jos si pe luneta, in partea stanga sus;
+c.      la autovehicul, pe parbriz, in partea din dreapta sus si pe luneta, in partea stanga jos;
+1100
+n
+Unde montezi, la autovehicul, semnul distinctiv specific conducatorilor cu o vechime mai mica de un an de la data obtinerii permisului de conducere?
+a.      la autovehicul, pe parbriz, in partea din dreapta jos si pe luneta, in partea stanga jos;
+b.      la autovehiculul care nu este prevazut cu luneta, pe parbriz in partea din dreapta jos si pe caroserie, in partea din spate stanga sus;
+c.      la autovehiculul care tracteaza o remorca, pe parbrizul autovehiculului in partea din dreapta jos si pe caroseria remorcii, in partea din spate stanga sus.
+1111
+n
+Ce categorii de persoane sunt exceptate de la obligatia de a purta centura de siguranta?
+a.      tinerii care nu au implinit 14 ani;
+b.      conducatorii autoturismelor, atunci cand executa manevra de mers inapoi sau cand stationeaza;
+c.      copiii cu inaltimea de sub 135cm, doar daca sunt fixati sau prinsi cu ajutorul unui dispozitiv de fixare in scaun pentru copii.
+1011
+n
+Copiii cu inaltimea de pana la 135 cm pot fi transportati:
+a.      in autovehicule, doar daca sunt fixati sau prinsi cu ajutorul unui dispozitiv de fixare in scaun pentru copii;
+b.      pe scaunul din fata al autovehiculului, avand fixata centura de siguranta;
+c.      pe scaunul din fata al autovehiculului, daca sunt tinuti in brate de persoane majore?
+1100
+n
+Ce obligatii va revin in timpul conducerii autovehiculului cu privire la viteza?
+a.      sa respectati viteza maxima admisa pe sectorul de drum pe care circulati, corespunzatoare categoriei din care face parte autovehiculul condus;
+b.      sa va conformati limitelor de viteza impuse prin mijloacele de semnalizare specifice;
+c.      sa rulati pe cat posibil in treptele inferioare de viteza pentru a nu polua mediul.
+1110
+n

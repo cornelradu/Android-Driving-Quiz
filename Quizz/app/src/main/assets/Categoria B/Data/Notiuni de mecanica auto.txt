@@ -1,0 +1,373 @@
+62
+Actionand o singura data pedala de frana, cursa acesteia este prea lunga. Actionand de repetate ori, cursa pedalei se scurteaza. Cum trebuie sa procedati?
+a.	actionati frana mai des;
+b.	reparati frana intr-un atelier specializat;
+c.	nu trebuie sa faceti nimic, acest lucru este normal.
+1010
+n
+Blocarea unei roti in timpul mersului poate fi determinata de una dintre defectiunile:
+a.	ovalizarea tamburului;
+b.	griparea rulmentilor;
+c.	uzura exagerata a sabotilor.
+1010
+n
+Cand creste foarte mult uzura pneurilor?
+a.	la circulatia pe timp nefavorabil;
+b.	la demarari si franari intense, consecinte ale unui stil agresiv de conducere;
+c.	atunci cand se conduce preventiv-defensiv.
+1010
+n
+Cand se efectueaza schimbarea uleiului si a elementului filtrant?
+a.	din 5 in 5 ani;
+b.	din 3 in 3 ani;
+c.	conform periodicitatii stabilite de constructor.
+1001
+n
+Cand se masoara presiunea in pneuri?
+a.	doar atunci cand observam ca autovehiculul este inclinat intr-o parte;
+b.	dupa parcurgerea a cel putin 400-500 km, cand pneurile sunt calde;
+c.	inaintea plecarii in cursa, cand pneurile sunt reci.
+1001
+n
+Care dintre factorii de mai jos influenteaza cel mai mult durata de serviciu a pneurilor?
+a.	presiunea;
+b.	starea tehnica a franei;
+c.	temperatura mediului ambiant.
+1100
+n
+Care dintre urmatoarele cauze determina cresterea excesiva a regimului termic de functionare a motorului?
+a.	defectarea termostatului;
+b.	ruperea curelei de antrenare a pompei de apa;
+c.	temperatura crescuta a mediului ambiant.
+1110
+n
+Care dintre variantele de mai jos reprezinta calitati ale unui ulei de motor?
+a.	punctul de congelare;
+b.	culoarea;
+c.	vascozitatea.
+1101
+n
+Care este cea mai frecventa defectiune a instalatiei de racire a motorului?
+a.	slabirea sau ruperea curelei de antrenare a ventilatorului si a pompei de apa;
+b.	patinarea ambreiajului;
+c.	infundarea prizei de aer care alimenteaza ventilatorul.
+1100
+n
+Care este criteriul de alegere a benzinei pentru motoarele cu aprindere prin scanteie?
+a.	cifra octanica (CO);
+b.	cifra cetanica (CC);
+c.	culoarea si consistenta.
+1100
+n
+Care este rolul bateriei de acumulatori?
+a.	alimenteaza consumatorii cu energie electrica;
+b.	asigura functionarea instalatiei de aprindere;
+c.	asigura functionarea instalatiei de racire.
+1100
+n
+Care este rolul catalizatorului auto?
+a.	asigura o pornire mai usoara a autovehiculului pe timp de iarna;
+b.	reduce cantitatea de noxe emise in atmosfera;
+c.	mentine temperatura lichidului de racire in limite normale.
+1010
+n
+Care este rolul catalizatorului?
+a.	de a filtra carburantul inainte de pulverizarea acestuia in cilindri;
+b.	de a asigura depoluarea atmosferica, prin arderea completa a gazelor de evacuare;
+c.	de a facilita arderea amestecului de carburant in cilindrii motorului.
+1010
+n
+Care este rolul termostatului?
+a.	permite pornirea usoara a motorului la temperaturi scazute;
+b.	inchide si deschide circuitul lichidului de racire la anumite temperaturi;
+c.	asigura racirea lichidului de franare.
+1010
+n
+Care sunt cauzele ce pot determina cresterea nivelului de ulei in baia de ulei?
+a.	patrunderea apei sau a combustibilului in baia de ulei;
+b.	defectarea pompei de ulei;
+c.	circulatia frecventa pe drumuri neasfaltate.
+1100
+n
+Care sunt cauzele posibile, atunci cand simtiti ca autoturismul trage constant intr-o parte?
+a.	in vehicul sunt mai multi pasageri pe o parte;
+b.	viteza redusa;
+c.	geometria gresita a rotilor.
+1001
+n
+Cauzele care determina poluarea mediului ambiant de catre autovehicule sunt:
+a.	arderea incompleta si defectuasa a combustibilului;
+b.	defectarea filtrului de benzina sau motorina;
+c.	rularea cu viteza redusa, fara motiv.
+1100
+n
+Cauzele care determina un consum de combustibil peste limita normala sunt:
+a.	conducerea prudenta;
+b.	dereglarea carburatiei;
+c.	schimbarea tipului de combustibil folosit.
+1010
+n
+Ce indica cursa libera a pedalei de frana, mai mica decat cea obisnuita?
+a.	pierderi de lichid pe la garnituri;
+b.	blocarea pedalei de frana;
+c.	un joc insuficient intre saboti si tamburi (discuri).
+1001
+n
+Carei cauze se datoreaza, in primul rand, uzura prematura a pneurilor din fata?
+a.	fenomenul este specific autovehiculelor care au tractiunea pe puntea din spate;
+b.	dereglarii geometriei directiei;
+c.	circulatiei frecvente cu viteza redusa.
+1010
+n
+Ce asigura perna de aer (AIRBAG-ul)?
+a.	protectia suplimentara a persoanelor in cazul unui impact puternic al autovehiculului;
+b.	amortizarea rapida a trepidatiilor datorate denivelarilor existente pe drumul public;
+c.	posibilitatea conducerii relaxate, cu capul sprijinit de acesta.
+1100
+n
+Ce deprindere gresita a conducatorului auto determina frecvent defectarea ambreiajului?
+a.	rularea cu jocuri mari la pedala de ambreiaj sau la mecanismul de directie;
+b.	stationarea cu autovehiculul, avand pedala de ambreiaj apasata;
+c.	coborarea pantelor cu motorul oprit sau aducerea schimbatorului de viteze in punctul mort.
+1010
+n
+Ce determina incalzirea tamburilor rotii?
+a.	griparea cilindrilor receptori si a pistoanelor;
+b.	lipsa lichidului din instalatia de franare;
+c.	ruperea cablului franei de stationare.
+1100
+n
+Ce indica efortul mai mare depus la actionarea pedalei de frana?
+a.	griparea cilindrilor receptori si a pistonaselor;
+b.	ruperea cablului franei de stationare;
+c.	lipsa lichidului din instalatia de franare.
+1100
+n
+Ce indica fumul de culoare albastra emis de esapament?
+a.	infundarea partiala a tobei de esapament;
+b.	folosirea unor benzine colorate;
+c.	un consum exagerat de ulei.
+1001
+n
+Ce indica fumul de culoare neagra emis de esapament?
+a.	un consum exagerat de combustibil;
+b.	un consum exagerat de ulei;
+c.	defectarea supapelor de evacuare.
+1100
+n
+Ce indica prezenta calaminei pe suprafata bujiilor si fumul albastrui al esapamentului?
+a.	rularea frecventa cu o viteza inferioara limitei legale;
+b.	uzarea mecanismului motor (grup piston-cilindru);
+c.	folosirea unor bujii necorespunzatoare.
+1010
+n
+Ce masuri de precautie trebuie sa luati la utilizarea solutiei antigel?
+a.	se va evita contactul cu aceasta, intrucat este toxica;
+b.	nu se va combina cu apa, deoarece degaja multa caldura;
+c.	nicio masura, intrucat lichidul respectiv nu este nociv.
+1100
+n
+Ce permite modulul de control electronic ABS, in situatia unui inceput de blocaj al uneia sau mai multor roti, in timpul franarii autovehiculului?
+a.	un derapaj controlat;
+b.	o mai buna incarcare a rotilor;
+c.	stapanirea directiei autovehiculului.
+1001
+n
+Ce poate cauza transmiterea unor vibratii la volan?
+a.	presiunea in pneuri este superioara celei recomandate de constructor;
+b.	pneurile insuficient umflate sau neechilibrate;
+c.	producerea unei explozii la un pneu.
+1010
+n
+Ce poate determina neeliberarea completa a franei de stationare?
+a.	un consum suplimentar de carburant;
+b.	zgomote in zona manetei franei de mana;
+c.	incalzirea excesiva a butucilor rotilor din spate.
+1101
+n
+Ce poate cauza uzura anormala a unuia dintre pneuri?
+a.	defectiuni la sistemul de directie si de franare;
+b.	caracteristicile drumului public;
+c.	rularea cu viteza redusa fara motiv.
+1100
+n
+Ce poate determina incalzirea tamburilor rotii, in timpul mersului?
+a.	griparea pistonului cilindrului receptor sau infundarea racordurilor;
+b.	lipsa lichidului de franare din instalatia de franare;
+c.	ruperea cablului instalatiei de franare.
+1100
+n
+Ce poate indica aprinderea luminii "martor" de la bord, care semnalizeaza functionarea alternatorului?
+a.	ruperea curelei de antrenare a pompei de apa, a ventilatorului si a alternatorului;
+b.	scurgeri de electrolit din acumulatori;
+c.	griparea rotorului pompei de apa.
+1100
+n
+Ce reguli trebuie aplicate la folosirea pe termen lung a solutiilor antigel?
+a.	dupa trei ani solutia antigel va fi complet inlocuita, chiar daca densitatea acesteia corespunde cerintelor;
+b.	se va urmari culoarea lichidului din vasul de expansiune;
+c.	se va urmari intotdeauna nivelul optim al lichidului din vasul de expansiune.
+1100
+n
+Ce rol are ambreiajul?
+a.	comanda marirea turatiei motorului, in functie de sarcina transportata;
+b.	asigura viteze diferite ale rotilor motoare la parcurgerea curbelor;
+c.	realizeaza cuplarea progresiva si decuplarea motorului de restul transmisiei.
+1001
+n
+Ce rol are cutia de viteze?
+a.	asigura transmiterea puterii la roti;
+b.	permite mersul inapoi, fara a inversa sensul de rotatie a motorului;
+c.	permite stationarea cu motorul in functiune.
+1111
+n
+Ce rol au dispozitivele antiblocare (ABS)?
+a.	asigura rotile directoare contra blocarii, in cazul lovirii unor obstacole;
+b.	previn blocarea rotilor in timpul franarii, indiferent de starea partii carosabile;
+c.	prin montarea la fiecare roata, previn deplasarea accidentala a vehiculului parcat.
+1010
+n
+Ce se poate intampla atunci cand, pe rotile unei osii, eficienta franarii este mult diferita?
+a.	vehiculul poate derapa lateral;
+b.	vehiculul isi mentine tinuta de drum, in ciuda acestui fapt;
+c.	se reduce viteza de deplasare.
+1100
+n
+Ce trebuie sa verificati, in primul rand, daca efortul depus pentru actionarea volanului este mai mare decat in mod obisnuit?
+a.	presiunea in pneurile puntii din fata;
+b.	presiunea in pneurile puntii motoare;
+c.	starea de prindere a volanului pe axul sau.
+1100
+n
+Ce va indica faptul ca bateria de acumulatori este descarcata?
+a.	la aprinderea farurilor, intensitatea luminoasa a acestora scade progresiv;
+b.	actionand claxonul, acesta emite un sunet slab, intrerupt;
+c.	demontand bateria, constatati ca aceasta este mai usoara decat de obicei.
+1110
+n
+Conduceti un autovehicul actionat de un motor cu aprindere prin scanteie, dotat cu catalizator. Ce fel de benzina trebuie sa folositi?
+a.	numai benzina fara plumb;
+b.	orice fel de benzina cu cifra octanica peste 90;
+c.	numai benzina aditivata cu tetraetil de plumb.
+1100
+n
+Criteriile de apreciere a eficacitatii franelor sunt:
+a.	forma pedalei;
+b.	spatiul de franare;
+c.	marimea urmei de franare imprimata pe carosabil?
+1010
+n
+Cui ii revine obligatia efectuarii inspectiilor tehnice periodice, precum si a respectarii periodicitatii acestora?
+a.	Registrului Auto Roman;
+b.	unitatilor service;
+c.	detinatorului legal al autovehiculului.
+1001
+n
+Cum procedati la aparitia defectiunilor tehnice ale mecanismului de directie?
+a.	va continuati deplasarea, intrucat defectiunea se datoreaza starii drumului;
+b.	nu folositi autovehiculul pana la remedierea defectiunii numai in atelierele specializate;
+c.	apelati la cunostinte care au mai intalnit astfel de situatii.
+1010
+n
+Cum se efectueaza intretinerea sistemului de ungere?
+a.	prin inlocuirea uleiului dupa expirarea termenului de utilizare;
+b.	prin desfundarea orificiilor de aerisire ale radiatorului;
+c.	prin verificarea si completarea nivelului uleiului din baie.
+1101
+n
+Cum se realizeaza controlul nivelului de ulei din baie?
+a.	cu ajutorul unei tije metalice numita joja, introdusa in blocul motor;
+b.	cu ajutorul manometrului de la bord;
+c.	cu ajutorul turometrului de la bord.
+1100
+n
+Cum trebuie sa fie nivelul corect al uleiului din baie?
+a.	intre reperele MIN - MAX, insemnate pe joja de ulei;
+b.	cu aproximativ 1 cm sub reperul MIN;
+c.	cu aproximativ 1 cm deasupra reperului MAX.
+1100
+n
+Cuvantul TUBELESS, imprimat pe o anvelopa, semnifica:
+a.	anvelopa poate functiona fara camera de aer;
+b.	anvelopa este destinata circulatiei pe timp nefavorabil;
+c.	structura pneului este tubulara.
+1100
+n
+Daca, dupa intreruperea contactului electric, motorul continua sa functioneze, fenomenul se numeste:
+a.	gripare;
+b.	calare;
+c.	autoaprindere.
+1001
+n
+Dupa o pana de cauciuc, ati fost nevoit sa montati roata de rezerva. Ce trebuie sa aveti in vedere la continuarea drumului?
+a.	sa nu conduceti cu o viteza mai mare de 80 km/h;
+b.	sa nu luati persoane de ocazie in autovehicul;
+c.	sa nu conduceti cu roata de rezerva mai mult decat este necesar.
+1001
+n
+Echipamentul de franare nu este obligatoriu la remorcile cu masa totala maxima autorizata:
+a.	mai mica de 750 kg;
+b.	mai mica de 400 kg;
+c.	mai mare de 750 kg.
+1100
+n
+Factorii care fac motorul Diesel al unui autoturism sa emita fum excesiv sunt:
+a.	defectiunile la instalatia de injectie;
+b.	busonul rezervorului inchis la maxim;
+c.	lipsa combustibilului.
+1100
+n
+Frana de serviciu a autovehiculului trebuie sa aiba capacitatea de a asigura:
+a.	functionarea in bune conditii a franelor de la rotile motoare;
+b.	incetinirea si oprirea rapide, sigure si eficace, indiferent de gradul de incarcare a autovehiculului si de inclinarea drumului;
+c.	imobilizarea vehiculului pe timpul stationarii sau al parcarii indelungate.
+1010
+n
+In ce interval este cuprinsa temperatura lichidului de racire care asigura performanta maxima si uzura minima a motorului?
+a.	90-95 grade Celsius;
+b.	100-120 grade Celsius;
+c.	60-70 grade Celsius.
+1100
+n
+Incalzirea excesiva a pneurilor se poate datora:
+a.	deplasarii cu viteza excesiva, timp indelungat;
+b.	supraincarcarii autovehiculului;
+c.	presiunii insuficiente.
+1011
+n
+La ce poate conduce circulatia frecventa cu termostatul defect si implicit, cu o temperatura a lichidului de racire sub 60 de grade Celsius?
+a.	la blocarea pompei de apa;
+b.	la cresterea consumului de combustibil;
+c.	la imposibilitatea incalzirii habitatului.
+1010
+n
+Organele mobile ale mecanismului motor sunt:
+a.	pistonul, segmentii, boltul, biela, arborele cotit si volantul;
+b.	rotile directoare si cele tractoare;
+c.	blocul motor, cilindrii, chiulasa si carterul.
+1100
+n
+Rolul uleiului pentru motor este de a:
+a.	asigura demontarea mai usoara a pieselor motorului;
+b.	proteja motorul fata de patrunderea amestecului carburant in baia de ulei;
+c.	reduce uzura motorului, prin crearea unei pelicule rezistente de lubrifiant intre suprafetele pieselor aflate in miscare.
+1001
+n
+Simbolurile EURO I, EURO II, EURO III si EURO IV reprezinta:
+a.	standardele de poluare din Uniunea Europeana;
+b.	incadrarea autovehiculelor in diferite norme de consum;
+c.	caracteristicile tehnice de provenienta a unor vehicule din Uniunea Europeana.
+1100
+n
+Sistemul de franare  A.B.S. (Anti-lock Braking System) reprezinta:
+a.	un sistem ce permite blocarea rotilor motoare, in cazul patinarii acestora;
+b.	un sistem ce permite mentinerea unei viteze constante de deplasare;
+c.	un sistem pentru vehiculele motorizate, ce previne blocarea rotilor in timpul franarii.
+1001
+n
+Termostatul apartine instalatiei de:
+a.	ungere;
+b.	racire;
+c.	alimentare.
+1010
+n

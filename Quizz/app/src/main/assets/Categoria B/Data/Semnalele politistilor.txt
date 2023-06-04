@@ -1,0 +1,355 @@
+59
+Cum procedati in aceasta situatie?
+a.	opriti si asteptati urmatorul semnal al politistului;
+b.	reduceti viteza si continuati deplasarea;
+c.	circulati obligatoriu pe directia indicata de bratul politistului.	
+1100
+y
+Conducatorul autocamionului poate patrunde in intersectie?
+a.	nu, in intersectie vor patrunde tramvaiul si autoturismul;
+b.	nu, indicatorul "Cedeaza trecerea" il obliga sa acorde prioritate celorlalte vehicule;
+c.	da.	
+1001
+y
+Cum veti proceda la semnalul politistului, atunci cand conduceti autoturismul din imagine?
+a.	va continuati deplasarea, semnalul politistului nu vi se adreseaza;
+b.	opriti, deoarece semnalul politistului vi se adreseaza;
+c.	schimbati directia de mers spre stanga.	
+1100
+y
+Cum trebuie sa procedeze conducatorul autoturismului verde la semnalul politistului din intersectie?
+a.	sa reduca viteza;
+b.	sa isi continue deplasarea;
+c.	sa opreasca.	
+1001
+y
+Scoaterea pe partea laterala a bastonului de catre politistul care insoteste o coloana de autovehicule obliga conducatorul:
+a.	sa opreasca autovehiculul cat mai aproape de marginea drumului;
+b.	sa reduca viteza si sa circule cat mai aproape de marginea drumului;
+c.	sa reduca viteza si sa opreasca in afara carosabilului imediat ce este posibil.	 
+1100
+y
+Cum trebuie sa procedeze conducatorul auto la semnalul politistului din imagine?
+a.	sa vireze spre dreapta;
+b.	sa opreasca;
+c.	semnalul se adreseaza numai conducatorilor care circula din sens opus.	
+1010
+y
+Politistul nu permite trecerea:
+a.	camionului;
+b.	tramvaiului;
+c.	autoturismului verde.	
+1010
+y
+Care dintre autovehicule au dreptul sa intre in intersectie?
+a.	autoturismul si motocicleta;
+b.	autoturismul si autocamionul;
+c.	autocamionul si motocicleta.	
+1100
+y
+Politistul din intersectie il semnalizeaza pe conducatorul autoturismului sa mareasca viteza. Cum trebuie sa procedeze acesta?
+a.	sa astepte lumina verde a semaforului;
+b.	sa respecte semnalul politistului;
+c.	sa se asigure si apoi sa-si continue deplasarea.
+1010
+y
+Cum trebuie sa procedeze conducatorul auto in situatia prezentata in imagine?
+a.	sa nu traverseze intersectia;
+b.	sa reduca viteza;
+c.	sa opreasca.	 
+1010
+y
+Ce autovehicule pot patrunde in intersectie?
+a.	motocicleta si autocamionul;
+b.	troleibuzul si motocicleta;
+c.	troleibuzul.	
+1100
+y
+Autoturismul poate patrunde in intersectia prezentata?
+a.	numai in caz de urgenta;
+b.	nu, in intersectie poate patrunde numai motocicleta;
+c.	da.	
+1010
+y
+Care dintre vehicule trebuie sa opreasca la semnalul politistului?
+a.	tramvaiele si autoturismul;
+b.	toate vehiculele;
+c.	motocicleta.	
+1100
+y
+Cui va permite trecerea politistul din intersectie?
+a.	niciunui vehicul;
+b.	motocicletei;
+c.	tramvaiului.	
+1010
+y
+La semnalul politistului trebuie sa opreasca:
+a.	autoturismul si autocamionul;
+b.	motocicleta si autoturismul;
+c.	autocamionul si bicicleta.	 
+1001
+y
+Ce comportament este corect in situatia prezentata, daca sunteti la volanul autoturismului verde?
+a.	intrati cu atentie in intersectie si virati numai la stanga;
+b.	aveti voie sa virati la dreapta;
+c.	opriti si nu intrati in intersectie.	
+1001
+y
+Cum trebuie sa procedati la semnalul agentului de circulatie?
+a.	mariti viteza;
+b.	reduceti viteza;
+c.	opriti.	 
+1001
+y
+Ce indica semnalul politistului de pe motocicleta?
+a.	oprire;
+b.	reducerea vitezei;
+c.	marirea vitezei.	              
+1010
+y
+Ce indica semnalul politistului din imagine?
+a.	marirea vitezei;
+b.	reducerea vitezei;
+c.	circularea cu prudenta.	             
+1100
+y
+Semnalul politistului indica:
+a.	prin intersectie se va circula cu viteza redusa;
+b.	nu se va circula pe directia inainte;
+c.	oprire.	               
+1001
+y
+Semnalele politistului indica:
+a.	reducerea vitezei;
+b.	marirea vitezei;
+c.	oprire.	         
+1100
+y
+Cum trebuie sa procedati la semnalul politistului rutier?
+a.	mariti viteza;
+b.	opriti;
+c.	reduceti viteza.	                          
+1010
+y
+La semnalul politistului din autovehicul trebuie:
+a.	sa mariti viteza;
+b.	sa reduceti viteza;
+c.	sa opriti?	 
+1001
+y
+Daca autovehiculul de politie transmite mesajul "coloana oficiala" aveti voie sa va atasati la o astfel de coloana?
+a.	nu;
+b.	da;
+c.	da, numai daca dispuneti de un autoturism performant.	 
+1100
+y
+Pozitia politistului din imagine semnifica:
+a.	drum blocat;
+b.	oprire;
+c.	nu se adreseaza conducatorilor auto.	 
+1010
+y
+Cum trebuie sa procedati la semnalul politistului cu bratul  ridicat vertical?
+a.	sa reduceti viteza si sa il ocoliti;
+b.	sa opriti, indiferent din ce directie va apropiati si sa asteptati urmatorul sau semnal;
+c.	sa reduceti viteza si sa circulati in directia permisa de pozitia bratului.
+1010
+n
+Ce obligatie au conducatorii de autovehicule care circula in spatele unei coloane oficiale, daca politistul care insoteste coloana scoate, pe partea laterala din dreapta bastonul reflectorizant?
+a.	sa opreasca cat mai aproape de marginea drumului, iar acolo unde este posibil, sa scoata vehiculul in afara partii carosabile;
+b.	sa reduca imediat viteza si sa circule cat mai aproape de marginea drumului;
+c.	sa reduca viteza si sa iasa in afara carosabilului imediat ce este posibil, prin viraj la dreapta.
+1100
+n
+Bratul drept al politistului, intins orizontal, indica "oprire" pentru:
+a.	vehiculele si pietonii care vin din fata si din spate;
+b.	vehiculele si pietonii care vin din fata;
+c.	vehiculele si pietonii care vin din spate.
+1001
+n
+Cum trebuie sa procedeze conducatorul unui autovehicul, cand politistul rutier se afla cu spatele si cu bratul stang intins orizontal?
+a.	sa opreasca, deoarece semnalul i se adreseaza;
+b.	sa isi continue deplasarea, deoarece semnalul de oprire nu i se adreseaza;
+c.	sa schimbe directia de mers spre stanga.
+1010
+n
+Politistul rutier se afla in intersectie cu fata catre conducatorul autovehiculului si ii adreseaza acestuia un alt semnal decat pozitia sa, care inseamna "oprire". Cum trebuie sa procedeze acesta?
+a.	sa respecte semnalul politistului;
+b.	sa isi continue mersul, deoarece semnele politistului sunt contradictorii;
+c.	sa opreasca si sa astepte semnalul pentru continuarea deplasarii.
+1100
+n
+Cum trebuie sa procedeze conducatorul auto daca lumina rosie a semaforului este in functiune, dar agentul de politie rutiera ii face semn sa treaca?
+a.	sa respecte semnalul facut de politistul rutier;
+b.	sa astepte lumina verde a semaforului care ii va permite trecerea;
+c.	sa astepte ca semnificatia luminii semaforului sa corespunda cu cea a semnalului politistului.
+1100
+n
+Semnalele date dintr-un autovehicul al politiei, care insoteste o coloana oficiala de vehicule, prin folosirea mijloacelor speciale de avertizare sonora si luminoasa va obliga la:
+a.	oprirea, de indata, in afara partii carosabile sau cat mai aproape de bordura ori acostament, pana la trecerea coloanei;
+b.	parasirea drumului pe prima strada la dreapta;
+c.	reducerea vitezei si deplasarea cat mai aproape de bordura sau acostament.
+1100
+n
+Ce semnificatie are, dupa coborarea bratelor, pozitia corpului unui politist care dirijeaza circulatia, pentru participantii la trafic care circula din fata si spatele sau?
+a.	permisiunea de a circula;
+b.	oprire;
+c.	nicio semnificatie.
+1010
+n
+Cum procedati in situatia in care semnalul rosu al semaforului este in functiune, iar agentul de politie rutiera va adreseaza semnalul de trecere?
+a.	asteptati aparitia semnalului de lumina verde a semaforului, care va permite sa circulati cu autovehiculul prin intersectie;
+b.	atrageti atentia politistului ca exista o neconcordanta intre semnalul sau si cel al semaforului;
+c.	respectati semnalul agentului de politie rutiera.
+1001
+n
+Ce tipuri de semnalizare vor fi respectate cu prioritate?
+a.	marcajele;
+b.	semnalele si indicatiile politistului;
+c.	semnalele speciale de avertizare, luminoase si/sau sonore.
+1010
+n
+Ce tipuri de semnalizare vor fi respectate cu prioritate?
+a.	semnalele luminoase;
+b.	semnalizarea temporara, care modifica regimul normal de desfasurare a circulatiei;
+c.	semnalele si indicatiile politistului.
+1001
+n
+Ce obligatii aveti la intalnirea unui vehicul care semnalizeaza cu luminile speciale de avertizare de culoare albastra si cu semnalele sonore?
+a.	nicio obligatie, semnalul albastru se adreseaza coloanelor in miscare;
+b.	sa opriti cat mai aproape de marginea drumului;
+c.	sa reduceti viteza, sa circulati cat mai aproape de bordura sau de acostament si sa acordati prioritate vehiculului respectiv.
+1001
+n
+Ce semnifica semnalul politistului rutier, aflat intr-un autovehicul al politiei, efectuat cu bratul, cu sau fara baston reflectorizant, scos pe partea laterala dreapta a vehiculului?
+a.	semnalul se adreseaza celor care circula din sens opus;
+b.	oprire pentru conducatorii vehiculelor care circula in spatele autovehiculului politiei;
+c.	reducerea vitezei de catre cei care circula in spatele autovehiculului politiei.
+1010
+n
+Cum trebuie sa procedeze conducatorul auto in situatia in care politistul se afla cu fata, avand bratul drept intins orizontal?
+a.	sa schimbe directia de mers spre stanga;
+b.	sa opreasca, deoarece semnalul i se adreseaza;
+c.	sa continue deplasarea, deoarece semnalul nu i se adreseaza.
+1001
+n
+Cum trebuie sa procedati la semnalul politistului orientat cu fata si cu bratul stang intins orizontal?
+a.	sa reduceti viteza;
+b.	sa opriti imediat;
+c.	sa va continuati deplasarea.
+1010
+n
+Ce semnifica bratul stang, intins orizontal, al politistului?
+a.	oprire pentru vehiculele care vin din fata;
+b.	oprire pentru vehiculele care vin din spate;
+c.	oprire pentru vehiculele care vin din fata si din spate.
+1100
+n
+Cum trebuie sa procedati atunci cand, intr-o intersectie, intalniti un politist orientat cu fata, care va face semn sa va continuati deplasarea?
+a.	opriti pana cand politistul isi schimba pozitia;
+b.	fiind un semnal in afara regulamentului, opriti si asteptati revenirea la o pozitie care sa va permita continuarea drumului;
+c.	va conformati semnalului politistului.
+1001
+n
+Ce obligatii aveti daca intalniti un vehicul cu semnalele speciale de avertizare luminoasa de culoare albastra in functiune?
+a.	nicio obligatie, semnalul albastru se adreseaza coloanelor in miscare;
+b.	acordati prioritate vehiculului respectiv;
+c.	opriti cat mai aproape de marginea drumului.
+1010
+n
+Sunteti obligat sa opriti autovehiculul pe care il conduceti:
+a.	la semnalul politistului care dirijeaza circulatia;
+b.	la semnalul pietonilor care traverseaza strada pe la coltul intersectiei fara marcaje;
+c.	la orice semnal al politistului, cu conditia ca acesta sa corespunda semnalului de culoare rosie a semaforului.
+1100
+n
+Cum procedati atunci cand, deplasandu-va cu autovehiculul pe un drum public, intalniti un politist rutier orientat cu spatele si cu bratele intinse orizontal?
+a.	reduceti viteza;
+b.	opriti autovehiculul;
+c.	va continuati drumul.
+1010
+n
+ Bratele politistului care dirijeaza circulatia, intinse orizontal semnifica:
+a.	oprire pentru toti participantii la trafic care circula numai din spatele acestuia;
+b.	oprire pentru toti participantii la trafic care, indiferent de sensul lor de mers, circula din directia sau directiile intersectate de bratele intinse ale acestuia;
+c.	oprire pentru toti participantii la trafic care circula numai din fata acestuia.
+1010
+n
+Ce obligatie aveti la semnalul politistului situat intr-o intersectie, cu bratul ridicat vertical?
+a.	sa circulati cu prudenta maxima;
+b.	sa reduceti viteza;
+c.	sa opriti, indiferent din ce directie circulati.
+1001
+n
+Cum procedati daca, intr-o intersectie, politistul este orientat cu spatele si cu bratul stang intins orizontal?
+a.	virati la stanga;
+b.	va continuati deplasarea;
+c.	reduceti viteza autovehiculului si opriti in spatele acestuia.
+1010
+n
+Semnalele politistului aflat intr-o intersectie, cu bratul drept intins orizontal, semnifica:
+a.	oprire pentru vehiculele si pietonii care vin din fata si din spatele acestuia;
+b.	oprire pentru vehiculele si pietonii care vin din fata acestuia;
+c.	oprire pentru vehiculele si pietonii care vin din spatele acestuia.
+1001
+n
+Ce semnifica rotirea vioaie a bratului politistului?
+a.	oprirea temporara a circulatiei;
+b.	marirea vitezei de deplasare sau grabirea traversarii drumului de catre pietoni;
+c.	reducerea vitezei de deplasare.
+1010
+n
+Aveti obligatia de a opri imediat autovehiculul la semnalele adresate de:
+a.	personalul autorizat din cadrul serviciului de examinari;
+b.	politistii comunitari;
+c.	politistii de frontiera.
+1001
+n
+Aveti obligatia de a opri imediat autovehiculul la semnalele adresate de:
+a.	agentii de cale ferata, la trecerile la nivel;
+b.	ofiterii sau subofiterii Jandarmeriei Romane;
+c.	politistii comunitari.
+1100
+n
+Aveti obligatia de a opri imediat autovehiculul la semnalele adresate de:
+a.	indrumatorii de circulatie ai Ministerului Apararii;
+b.	un conducator auto ramas in pana, pentru a-l remorca;
+c.	politistii comunitari.
+1100
+n
+Aveti obligatia de a opri imediat autovehiculul la semnalele adresate de:
+a.	politistii comunitari;
+b.	personalul autorizat din cadrul serviciului examinari;
+c.	personalul autorizat din zona lucrarilor pe drumurile publice.
+1001
+n
+Aveti obligatia de a opri imediat autovehiculul la semnalele adresate de:
+a.	membrii patrulelor scolare de circulatie, de la trecerile pentru pietoni din apropierea unitatilor de invatamant;
+b.	personalul autorizat din cadrul Ministerului Transporturilor;
+c.	lucratorii ce isi desfasoara activitatea in cadrul Administratiei Drumurilor.
+1100
+n
+Aveti obligatia de a opri imediat autovehiculul la semnalele adresate de:
+a.	conducatorii unor grupuri organizate;
+b.	personalul autorizat de la trecerile la nivel cu calea ferata industriala;
+c.	nevazatori, prin ridicarea bastonului alb, atunci cand acestia traverseaza strada.
+1001
+n
+La semnalul dat de personalul autorizat din zona lucrarilor publice pe drumurile publice, prin rotirea vioaie a bratului, sunteti obligat:
+a.	sa ocoliti obstacolul indicat de acesta;
+b.	sa mariti viteza de deplasare a autovehiculului;
+c.	sa ocoliti obstacolul creat in carosabil, circuland in sens giratoriu.
+1010
+n
+Bastonul alb, ridicat de un pieton care traverseaza strada printr-un loc nesemnalizat si nemarcat, va obliga:
+a.	sa reduceti viteza si sa circulati cu atentie;
+b.	nu aveti nicio obligatie, locul nefiind marcat sau semnalizat;
+c.	sa opriti imediat autovehiculul, pentru a permite trecerea pietonului.
+1001
+n
+Prin intersectia prezentata pot trece:
+a.      tramvaiul 1 si autoturismul;
+b.      motocicleta;
+c.      tramvaiul 1 si tramvaiul 2?
+1010
+y

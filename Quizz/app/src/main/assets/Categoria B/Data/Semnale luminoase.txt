@@ -1,0 +1,302 @@
+50
+Ce semnifica semnalul rosu al semaforului, care functioneaza concomitent cu cel galben?
+a.	oprire;
+b.	semaforul este in regim de avarie;
+c.	trecerea unei coloane de vehicule.	
+1100
+y
+Cum veti proceda corect in situatia data?
+a.	va continuati deplasarea, daca virati la stanga;
+b.	opriti, indiferent de directia de deplasare;
+c.	va continuati deplasarea, daca virati la dreapta.	
+1010
+y
+Semnalul verde al semaforului va permite:
+a.	sa circulati pe directia inainte sau la stanga;
+b.	sa circulati in orice directie;
+c.	sa circulati pe directia inainte sau la dreapta.	
+1001
+y
+In intersectia prezentata, veti respecta:
+a.	regula prioritatii de dreapta;
+b.	semnificatia indicatoarelor;
+c.	semnificatia luminii semaforului.	
+1001
+y
+Cum veti proceda in situatia data?
+a.	opriti si asteptati aparitia luminii de culoare verde;
+b.	reduceti viteza si traversati cu atentie intersectia;
+c.	acordati prioritate pietonilor, dupa care va continuati deplasarea.	 
+1100
+y
+Doriti sa schimbati directia de mers spre dreapta. Cum procedati?
+a.	semnalizati schimbarea directiei de mers, pietonii va acorda prioritate;
+b.	semnalizati schimbarea directiei de mers, acordati prioritate vehiculelor care circula din partea stanga;
+c.	semnalizati schimbarea directiei de mers, acordati prioritate de trecere pietonilor.	
+1001
+y
+Cum veti proceda corect in intersectia data?
+a.	respectati semnalul luminos, daca toate semafoarele au aceeasi culoare, in acelasi timp;
+b.	respectati semnificatia semaforului luminos pentru virajul la stanga;
+c.	respectati regulile generale de circulatie, daca semafoarele nu au aceeasi culoare.	
+1010
+y
+Cum veti proceda corect in aceasta situatie, semaforul fiind instalat deasupra intersectiei?
+a.	respectati semnificatia semaforului, indiferent de directia de mers, daca acesta este dublat de un alt semafor instalat inainte de intersectie;
+b.	respectati indicatiile semaforului, daca vizibilitatea va permite acest lucru;
+c.	nu aveti obligatia de a respecta indicatia semnalelor luminoase plasate deasupra intersectiei.	
+1100
+y
+Cum veti proceda corect daca intersectia care urmeaza este  blocata din cauza aglomeratiei?
+a.	claxonati si avansati printre celelalte vehicule;
+b.	va continuati deplasarea, deoarece semnalul verde va permite acest lucru;
+c.	opriti si asteptati deblocarea intersectiei, dupa care va continuati deplasarea numai la semnalul verde al semaforului.	
+1001
+y 
+Autovehiculul din fata traverseaza intersectia. Cum procedati?
+a.	opriti, deoarece trebuie sa va asigurati;
+b.	executati aceeasi manevra, daca nu sunt alte interdictii;
+c.	cedati trecerea autovehiculelor care vin din partea dreapta.	 
+1010
+y
+Semafoarele functioneaza cu lumina galbena intermitenta. Cum este corect sa procedati?
+a.	opriti si cedati trecerea;
+b.	reduceti viteza si cedati trecerea;
+c.	reduceti viteza si traversati intersectia.	
+1001
+y
+Cum veti proceda corect in situatia prezentata, daca vreti sa virati la dreapta?
+a.	opriti si asteptati culoarea verde;
+b.	virati la dreapta, cedand trecerea vehiculelor care au acest drept;
+c.	treceti fara nicio restrictie.	
+1010
+y
+In aceasta situatie opriti:
+a.	dupa trecerea pentru pietoni;
+b.	la linia transversala;
+c.	in locul cu vizibilitate maxima	
+1010
+y
+Care autoturism isi va continua deplasarea prin intersectie?
+a.	autoturismul verde;
+b.	autoturismul rosu;
+c.	autoturismul galben.
+1001
+y
+Care dintre vehicule isi pot continua deplasarea in intersectie?
+a.	tramvaiele, pentru ca au prioritate de trecere;
+b.	autoturismul verde;
+c.	autoturismul verde si autoturismul maro.	 
+1010
+y
+In ce ordine vor trece prin intersectie autoturismele la culoarea galbena intermitenta a semaforului?
+a.	rosu, albastru, galben;
+b.	rosu, galben, albastru;
+c.	galben, albastru, rosu.	
+1001
+y
+Care dintre autovehicule pot traversa intersectia din imagine?
+a.	autocamionul si autobuzul;
+b.	autoturismul verde si autoturismul rosu;
+c.	niciunul.	
+1001
+y
+Care autovehicul isi poate continua deplasarea in imaginea prezentata?
+a.	autoturismul rosu;
+b.	autoturismul verde;
+c.	autoduba.	
+1100
+y
+Care dintre autovehicule isi pot continua deplasarea?
+a.	autoturismul;
+b.	autobuzul si autocamionul;
+c.	toate trei.	
+1010
+y
+La semnalul galben intermitent al semaforului electric sunteti obligat:
+a.	sa opriti, deoarece nu puteti intra in intersectie;
+b.	sa reduceti viteza si sa va continuati deplasarea cu atentie, ocolind pietonii;
+c.	sa reduceti viteza si sa circulati respectand regulile aplicabile in acea intersectie.
+1001
+n
+Ce obligatii va revin daca, intr-o intersectie, virati la stanga pe semnalul verde al semaforului?
+a.	acordati prioritate de trecere mijloacelor de transport public de persoane;
+b.	acordati prioritate de trecere atat vehiculelor care circula din sens opus, cat si persoanelor aflate in traversare pe sensul de mers;
+c.	nicio obligatie.
+1010
+n
+Cum veti proceda daca, apropiindu-va de o intersectie, observati aprinse simultan luminile de culoare rosie si galbena a semaforului?
+a.	opriti si asteptati culoarea verde a semaforului;
+b.	reduceti viteza si va continuati drumul, daca intentionati sa virati la dreapta;
+c.	circulati cu prudenta, deoarece semaforul este defect.
+1100
+n
+Ce obligatie aveti atunci cand, daca vreti sa virati la dreapta, semaforul este insotit de lumina intermitenta de culoare verde, sub forma unei sageti pe fond negru catre dreapta?
+a.	niciuna, semnalul nu vi se adreseaza;
+b.	sa circulati in directia indicata de sageata, oricare ar fi in acel moment culoarea semaforului;
+c.	niciuna, semaforul are rol informativ.
+1010
+n
+Ce semnificatie are lumina de culoare rosie a semaforului, atat pentru conducatorii de vehicule, cat si pentru pietoni?
+a.	ii obliga pe conducatori sa opreasca, iar pe pietoni sa traverseze cu prudenta;
+b.	ii obliga atat pe conducatori, cat si pe pietoni sa se opreasca;
+c.	permite vehiculelor sa vireze la dreapta, cu respectarea prioritatii.
+1010
+n
+Cand trebuie respectata semnificatia indicatoarelor "Oprire" si "Cedeaza trecerea", instalate la intersectiile semaforizate?
+a.	atunci cand semafoarele nu functioneaza;
+b.	atunci cand traficul este redus;
+c.	atunci cand indicatoarele sunt instalate impreuna cu semaforul pe acelasi suport.
+1100
+n
+Daca intr-o intersectie intalniti semnalul verde al semaforului, precum si indicatorul "Cedeaza trecerea", sunteti obligat:
+a.	sa respectati semnificatia semnalului verde;
+b.	sa respectati semnificatia indicatorului;
+c.	sa respectati semnificatia semnalului verde, acordand prioritate de trecere vehiculelor care circula pe drumul prioritar.
+1100
+n
+Semaforul instalat pe trotuar are in functiune semnalul rosu, iar cel suspendat, pentru directia de mers la stanga, semnul verde. Daca doriti sa mergeti inainte, aveti dreptul sa intrati in intersectie?
+a.	nu, deoarece semaforul de pe trotuar, care vi se adreseaza, are semnalul rosu in functiune;
+b.	da, deoarece semaforul suspendat are semnalul verde in functiune;
+c.	nu, deoarece deplasarea pe directia inainte este permisa numai atunci cand semnalul verde este in functiune la ambele semafoare.
+1100
+n
+Va este permisa schimbarea de mers spre stanga, fiind incadrat corespunzator pe banda de circulatie, daca semaforul pentru aceasta manevra indica semnalul verde, iar cel pentru directia inainte, semnalul rosu?
+a.	da, deoarece semnalul care vi se adreseaza este verde;
+b.	nu, deoarece semafoarele sunt defazate;
+c.	nu, deoarece unul dintre semnale este rosu.
+1100
+n
+Cand deasupra fiecarei benzi de circulatie se afla in functiune cate un semafor, trebuie:
+a.	sa respectati semnificatia semnalului luminos al semaforului instalat pe trotuar;
+b.	sa respectati semnificatia semnalului luminos al semaforului instalat deasupra benzii din stanga;
+c.	sa respectati semnificatia semnalului luminos instalat deasupra benzii pe care va aflati.
+1001
+n
+Aveti obligatia de a ceda trecerea la schimbarea directiei de mers spre stanga, in timp ce semnalul verde este in functiune?
+a.	nu, cu exceptia in care, din sens opus, se apropie un mijloc de transport public;
+b.	nu, deoarece semnalul verde va confera prioritate de trecere;
+c.	da, atat vehiculelor care circula din sens opus, cat si pietonilor care traverseaza strada pe care urmeaza sa intrati, pe sensul dumneavoastra de mers.
+1001
+n
+Cand este interzisa schimbarea directiei de mers la dreapta, desi este in functiune semnalul verde?
+a.	cand semaforul nu este insotit de un semn aditional ce contine o sageata cu varful catre dreapta;
+b.	cand la dreapta se afla o strada cu sens unic;
+c.	cand banda pe care sunteti incadrat este semnalizata cu indicator si marcaj directional care indica mersul inainte.
+1001
+n
+Daca semaforul in functiune se afla instalat de cealalta parte a intersectiei, sunteti obligat:
+a.	sa respectati semnificatia semnalelor luminoase, doar daca semaforul este insotit de un semn aditional care indica directiile carora li se adreseaza semnalele;
+b.	sa respectati semnificatia semnalelor luminoase ale acestuia, daca un alt semafor instalat la intrarea in intersectie are in functiune un semnal similar;
+c.	nu sunteti obligat sa respectati semnificatia semnalelor luminoase, deoarece nu vi se adreseaza.
+1010
+n
+Daca semnalul verde este insotit de un indicator "inainte sau la dreapta", va este permis sa circulati:
+a.	in toate directiile, deoarece semnalele luminoase primeaza asupra semnalizarii rutiere;
+b.	numai la stanga;
+c.	numai inainte sau la dreapta.
+1001
+n
+Cate corpuri de iluminat are semaforul care se adreseaza pietonilor si biciclistilor?
+a.	patru corpuri;
+b.	doua corpuri;
+c.	trei corpuri.
+1010
+n
+Cum sunt semnalizate benzile de circulatie reversibila, care va permit sa va continuati deplasarea?
+a.	cu semnalul verde de forma unei sageti cu varful in jos;
+b.	cu dispozitive de culoare galbena intermitenta;
+c.	cu semnul rosu in cruce.
+1100
+n
+In care dintre urmatoarele situatii va este interzis sa executati virajul spre stanga la lumina de culoare verde a semaforului electric?
+a.	cand intalniti indicatorul "inainte sau la stanga";
+b.	cand intalniti indicatorul "inainte sau la dreapta";
+c.	cand va aflati pe o strada cu sens unic.
+1010
+n
+Ce semnificatie are lumina de culoare rosie a semaforului?
+a.	obliga atat conducatorii de vehicule, cat si pietonii sa opreasca;
+b.	ii obliga la oprire doar pe conducatorii auto care circula pe directia inainte, permitand in unele situatii virajul la dreapta, pietonilor fiindu-le interzisa traversarea;
+c.	nu permite intrarea in intersectie a autovehiculelor, ci doar traversarea strazii de catre pietoni.
+1100
+n
+Cum veti proceda daca, la intrarea intr-o intersectie, semaforul este pe semnalul de culoare verde, dar aceasta este blocata din cauza aglomeratiei?
+a.	claxonati si gasiti o modalitate de a avansa printre celelalte vehicule;
+b.	va continuati deplasarea, deoarece semnalul verde va permite acest lucru;
+c.	opriti si asteptati deblocarea, dupa care patrundeti in intersectie pe semnalul verde al semaforului.
+1001
+n
+Semafoarele de avertizare constituite dintr-un corp de iluminat de culoare galbena intermitenta va obliga:
+a.	sa opriti in orice situatie;
+b.	sa acordati prioritate de trecere;
+c.	sa circulati cu viteza redusa?
+1001
+n
+Ce obligatie aveti daca intr-o intersectie intalniti indicatorul "inainte sau la stanga" si semaforul se afla pe culoarea verde?
+a.	circulati numai inainte;
+b.	circulati inainte sau la stanga;
+c.	circulati in alta directie, deoarece culoarea verde va permite acest lucru.
+1010
+n
+Ce semnificatie are semnalul galben al semaforului?
+a.	permite schimbarea directiei de mers catre dreapta;
+b.	permite intrarea in intersectie daca urmeaza dupa lumina verde;
+c.	interzice intrarea in intersectie daca vehiculul poate fi oprit in conditii de siguranta.
+1001
+n
+Semnalul verde al semaforului permite deplasarea:
+a.	numai pe directia inainte;
+b.	pe oricare directie, daca printr-un mijloc de semnalizare nu se dispune altfel;
+c.	pe orice directie, daca vehiculul se afla pe banda din mijloc?
+1010
+n
+Ce semnificatie are semnalul galben intermitent al semaforului?
+a.	interzice intrarea in intersectie;
+b.	anunta aparitia semnalului rosu;
+c.	obliga conducatorii vehiculelor sa reduca viteza si sa circule respectand regulile de circulatie aplicabile in acea intersectie.
+1001
+n
+Lumina galbena intermitenta instalata in zona trecerilor pentru pietoni va obliga la:
+a.	reducerea vitezei si ocolirea cu grija a pietonilor;
+b.	reducerea vitezei si folosirea luminii farurilor, pentru avertizarea pietonilor care intentioneaza sa se angajeze in traversare;
+c.	reducerea vitezei si respectarea semnalizarii si a regulilor de circulatie aplicabile in acea zona?
+1001
+n
+Ce vehicule au voie sa patrunda in intersectie la culoarea rosie a semaforului?
+a.	niciun vehicul, cu exceptia celor destinate stingerii incendiilor, ale ambulantei si ale politiei, cand se deplaseaza in actiuni de interventie sau in misiuni care impun urgenta;
+b.	autovehiculele care vireaza la stanga;
+c.	autovehiculele politiei si cele care executa virajul la stanga.
+1100
+n
+Ce obligatii va revin in momentul apropierii de o intersectie, daca semnalul verde se schimba cu cel galben?
+a.	sa traversati intersectia cu viteza redusa;
+b.	sa grabiti traversarea;
+c.	sa opriti autovehiculul in fata marcajului de oprire sau a marcajului pentru trecerea pietonilor ori in dreptul semaforului.
+1001
+n
+Ce obligatie va revine atunci cand schimbati directia de mers spre dreapta, la semnalul verde al semaforului, in timp ce pietonii sunt angajati la randul lor in traversare?
+a.	sa semnalizati schimbarea directiei de mers si sa acordati prioritate de trecere pietonilor angajati in traversarea strazii pe care urmeaza sa intrati, pe sensul dvs. de mers;
+b.	sa semnalizati schimbarea directiei de mers si sa pastrati o distanta laterala suficienta fata de bordura din dreapta;
+c.	sa semnalizati schimbarea directiei de mers si sa va continuati deplasarea cu prudenta, pietonii fiind obligati sa va cedeze trecerea.
+1100
+n
+Ce semnificatie are semnalul rosu al semaforului?
+a.	obliga conducatorii vehiculelor, indiferent de directia de deplasare, sa opreasca;
+b.	obliga conducatorii vehiculelor care circula pe directia inainte sa opreasca;
+c.	permite trecerea autovehiculelor care schimba directia de mers spre stanga.
+1100
+n
+In cazul in care, intr-o intersectie, langa semaforul in stare de functionare este instalat indicatorul "Oprire", sunteti obligat sa respectati:
+a.	regula prioritatii de dreapta;
+b.	semnificatia indicatorului;
+c.	semnificatia luminii semaforului.
+1001
+n
+Va puteti apropia de vehiculul din fata?
+a.      da;
+b.      nu, pentru ca astfel blocati intersectia;
+c.      legea nu prevede obligatii in aceasta situatie.
+1010
+y
+

@@ -1,0 +1,181 @@
+30
+Ce obligatii aveti daca luminile rosii se aprind si se sting alternativ?
+a.	opriti, fara a depasi indicatorul;
+b.	reduceti viteza si opriti numai in cazul in care se apropie un tren;
+c.	reduceti viteza si, dupa ce va asigurati, va continuati deplasarea.	 
+1100
+y
+Unde opriti in situatia prezentata?
+a.	la cel putin 10 m;
+b.	in locul cu vizibilitate maxima, fara a depasi indicatorul;
+c.	la cel putin 5 m.	
+1010
+y
+Ce obligatii aveti in situatia prezentata?
+a.	opriti la 50 m de calea ferata;
+b.	nu depasiti alte vehicule;
+c.	reduceti viteza.	
+1001
+y
+Cum trebuie sa procedati in situatia prezentata?
+a.	reduceti viteza si va opriti in dreptul ultimului panou suplimentar;
+b.	reduceti viteza si va asigurati ca puteti traversa fara niciun pericol;
+c.	reduceti viteza si opriti la limita de vizibilitate maxima.	
+1010
+y
+Puteti efectua depasirea in situatia din imaginea alaturata?
+a.	da, daca functioneaza lumina intermitenta de culoare alba;
+b.	nu, intrucat depasirea este interzisa in aceasta situatie;
+c.	da, deoarece caruta se deplaseaza foarte incet.	 
+1010
+y
+Cum procedati in situatia data?
+a.	va continuati deplasarea, deoarece cele doua lumini rosii alternative indica permisiunea de a traversa calea ferata;
+b.	va continuati deplasarea daca semibarierele nu sunt coborate inca;
+c.	opriti.	
+1001
+y
+La ce distanta de trecerea la nivel cu calea ferata sunt instalate panourile suplimentare de avertizare?
+a.	primul la 90 m, al doilea la 60 m si al treilea la 100 m;
+b.	primul la 200 m, al doilea la 150 m si al treilea la 30 m;
+c.	primul la 150 m, al doilea la 100 m si al treilea la 50 m.
+1001
+n
+Cand functioneaza semnalul luminos intermitent de culoare alba, avand cadenta lenta?
+a.	pe timpul cat semnalele luminoase ale semaforului defect sunt stinse;
+b.	pe timpul cat semnalele luminoase de culoare rosie de la trecerea la nivel cu calea ferata sunt stinse;
+c.	pe timpul cat barierele ori semibarierele sunt in curs de coborare sau de ridicare.
+1010
+n
+Va apropiati de o trecere la nivel cu calea ferata curenta fara  bariere, in traversarea careia  s-a angajat o caruta aflata in fata. Puteti efectua depasirea in aceasta situatie?
+a.	da, intrucat caruta este un vehicul lent;
+b.	da, daca aceasta nu a ajuns inca la linia de tren;
+c.	nu.
+1001
+n
+Cum trebuie sa procedati atunci cand, apropiindu-va de o trecere la nivel cu calea ferata, prevazuta cu bariere (semibariere), cele doua lumini rosii functioneaza intermitent-alternativ?
+a.	opriti, deoarece barierele sunt inchise sau urmeaza sa coboare;
+b.	va continuati deplasarea fara interdictie, deoarece luminile semnalizeaza doar prezenta unei treceri la nivel cu calea ferata;
+c.	va continuati deplasarea, daca barierele nu sunt coborate.
+1100
+n
+Conducatorii auto aflati la o trecere la nivel cu o cale ferata industriala trebuie:
+a.	sa respecte semnalele agentului de cale ferata;
+b.	sa se asigure si sa mareasca viteza de deplasare;
+c.	sa sporeasca atentia?
+1100
+n
+Cum trebuie sa procedati atunci cand, la apropierea de o trecere la nivel cu calea ferata fara bariere, luminile rosii din dreptul indicatorului de atentie in cruce se aprind si se sting alternativ?
+a.	reduceti viteza si dupa ce va asigurati, va continuati deplasarea;
+b.	reduceti viteza si opriti numai in cazul apropierii trenului;
+c.	opriti vehiculul fara a depasi indicatorul.
+1001
+n
+Unde vor opri conducatorii de vehicule la intalnirea indicatorului de avertizare in cruce, amplasat la trecerile la nivel cu o cale ferata fara bariere?
+a.	in locul cu vizibilitate maxima, fara a depasi indicatorul;
+b.	la cel mult 5 m de calea ferata;
+c.	cat mai aproape de calea ferata, dar nu mai putin de 5 m de aceasta.
+1100
+n
+Cum trebuie sa procedati la trecerea la nivel cu calea ferata, atunci cand barierele sunt ridicate?
+a.	sa opriti autovehiculul in locul in care vizibilitatea este maxima, fara a depasi indicatorul de prioritate in cruce;
+b.	sa reduceti viteza, fara a depasi linia continua pentru oprire;
+c.	sa reduceti viteza autovehiculului si sa traversati cu atentie, asigurandu-va ca din partea stanga sau din partea dreapta nu se apropie un vehicul feroviar.
+1001
+n
+La ce va obliga semnalul agentilor cailor ferate aflati la trecerea la nivel cu o cale ferata industriala din orase, executat cu un fanion rosu?
+a.	sa opriti;
+b.	sa reduceti viteza, sa va asigurati, iar daca trenul este la mai mult de 50 m de pasaj, sa treceti cu atentie;
+c.	nu aveti nicio obligatie, agentul dirijeaza garniturile de tren.
+1100
+n
+Ce obligatii aveti la semnalele agentilor cailor ferate, plasati la trecerea la nivel cu o cale ferata?
+a.	sa va conformati semnificatiei semnalelor acestora;
+b.	sa reduceti viteza si sa va asigurati, iar daca trenul nu este in miscare, puteti continua traversarea caii ferate cu atentie;
+c.	nicio obligatie, agentii cailor ferate dirijeaza garniturile de tren.
+1100
+n
+Cum veti proceda daca, la trecerea la nivel cu calea ferata, constatati ca un vehicul este imobilizat pe calea ferata?
+a.	opriti si anuntati telefonic politia despre acest incident;
+b.	va continuati drumul, deoarece degajarea caii ferate se va face de catre personalul calificat;
+c.	acordati sprijin pentru scoaterea vehiculului de pe calea ferata sau, daca nu este posibil, semnalizati prezenta acestuia.
+1001
+n
+Cum procedati atunci cand urmeaza sa traversati o trecere la nivel cu calea ferata simpla, fara bariere?
+a.	opriti, sau daca nu este cazul, doar reduceti viteza, va asigurati, traversati calea ferata, dupa care va continuati drumul;
+b.	opriti, fara a depasi indicatorul in cruce, va angajati si traversati numai dupa ce v-ati asigurat ca nu exista niciun pericol;
+c.	reduceti viteza, va asigurati in stanga si in dreapta, dupa care traversati cu atentie.
+1010
+n
+Ce obligatii aveti la trecerea la nivel cu calea ferata curenta prevazuta cu bariere, daca acestea sunt ridicate?
+a.	ziua dati semnale sonore, iar noaptea aprindeti faza de drum intermitenta, apoi traversati;
+b.	va asigurati ca nu sunteti depasit de un alt vehicul si va angajati in traversarea caii ferate;
+c.	reduceti viteza, va asigurati ca din partea stanga sau din partea dreapta nu se apropie un vehicul feroviar, apoi va angajati in traversare.
+1001
+n
+Ce obligatii aveti daca autovehiculul pe care il conduceti ramane imobilizat pe calea ferata?
+a.	sa scoateti imediat pasagerii din vehicul si sa eliberati platforma caii ferate sau, cand nu este posibil, sa semnalizati prezenta vehiculului cu orice mijloc adecvat;
+b.	sa anuntati politia;
+c.	sa porniti autovehiculul prin orice mijloace.
+1100
+n
+Prin ce se semnalizeaza interzicerea trecerii la nivel cu calea ferata curenta, fara bariere, prevazuta cu instalatie de semnalizare automata?
+a.	prin dispozitive optice cu lumini alternative rosii si albe;
+b.	prin dispozitivele cu lumini intermitent - alternative rosii si stingerea semnalizarii reprezentata de lumina intermitent alba;
+c.	prin semnalele luminoase intermitente de culoare alba.
+1010
+n
+Ce obligatii va revin la semnalul agentului de cale ferata la trecerile la nivel cu calea ferata, executat cu un dispozitiv cu lumina rosie ori cu bastonul reflectorizant?
+a.	sa reduceti viteza si sa opriti numai daca circula un vehicul feroviar;
+b.	sa opriti autovehiculul;
+c.	sa reduceti viteza doar pana traversati calea ferata.
+1010
+n
+La calea ferata curenta prevazuta cu bariere, atunci cand semnalele sonore si luminoase de culoare rosie sunt in functiune, sunteti avertizat ca:
+a.	trenul se apropie, urmand ca barierele sa se inchida automat;
+b.	trebuie sa traversati de urgenta calea ferata;
+c.	instalatia de inchidere si deschidere a barierelor nu functioneaza normal.
+1100
+n
+Unde trebuie sa asteptati daca va aflati la o trecere de cale ferata cu bariera coborata?
+a.	la panoul cu doua dungi;
+b.	in fata indicatorului in cruce;
+c.	in fata barierei.
+1001
+n
+Cum procedati atunci cand va apropiati de o trecere peste calea ferata si observati ca se coboara semibariera?
+a.	opriti in fata semibarierei;
+b.	daca nu se apropie trenul, ocoliti semibariera;
+c.	accelerati si treceti cat mai repede peste calea ferata.
+1100
+n
+Cand este permisa trecerea la nivel cu o cale ferata fara bariere, prevazuta cu semnalizare luminoasa, daca tocmai a trecut un tren?
+a.	atunci cand pleaca vehiculele aflate de cealalta parte a caii ferate;
+b.	dupa ce s-a stins lumina rosie intermitenta;
+c.	dupa ce a trecut ultimul vagon.
+1010
+n
+Cum procedati atunci cand va apropiati de o trecere la nivel cu calea ferata si observati ca se coboara bariera?
+a.	opriti in fata barierei;
+b.	pentru a nu fi lovit de bariera, o ocoliti cu atentie prin stanga;
+c.	accelerati si treceti fara ezitare peste calea ferata.
+1100
+n
+Cum veti proceda corect daca, la apropierea de o trecere la nivel cu calea ferata curenta fara bariere, luminile rosii si semnalele sonore sunt in functiune?
+a.	grabiti trecerea, daca observati ca trenul nu se apropie;
+b.	reduceti viteza si opriti, daca trenul se apropie;
+c.	reduceti viteza si opriti in locul in care exista vizibilitate maxima asupra caii ferate, fara a trece de indicatoare sau marcajul de oprire.
+1001
+n
+Cum veti proceda corect daca, la apropierea de o trecere la nivel cu o cale ferata prevazuta cu semibariere automate, semnalele sonore si luminile rosii sunt in functiune?
+a.	ocoliti semibariera si va continuati drumul, daca trenul nu se apropie;
+b.	reduceti viteza si opriti inaintea semibarierelor;
+c.	mariti viteza pentru a nu fi surprins de inchiderea semibarierei.
+1010
+n
+Cum veti proceda corect la intalnirea indicatoarelor "Oprire" si "Trecere la nivel cu o cale ferata dubla fara bariere"?
+a.	opriti si va asigurati, la 1 m de calea ferata;
+b.	opriti in locul in care exista vizibilitate maxima asupra caii ferate, fara a depasi indicatoarele mentionate sau marcajul pentru oprire;
+c.	reduceti viteza si traversati cu atentie linia ferata.
+1010
+n

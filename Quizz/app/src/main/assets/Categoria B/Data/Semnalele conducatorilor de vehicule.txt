@@ -1,0 +1,259 @@
+43
+Este permisa folosirea luminilor de ceata noaptea, daca cerul este senin?
+a.	da;
+b.	nu;
+c.	regulamentul nu precizeaza.
+1010
+y
+In situatia data, pentru a va semnaliza prezenta, veti schimba alternativ luminile de drum cu luminile de intalnire?
+a.	se folosesc numai luminile de drum;
+b.	da;
+c.	nu.	
+1010
+y
+In situatia data, veti circula:
+a.	cu luminile de intalnire;
+b.	fara lumini;
+c.	numai cu luminile de pozitie.	
+1100
+y
+Cum veti proceda regulamentar daca stationati?
+a.	folositi luminile de pozitie;
+b.	folositi luminile de avarie;
+c.	stingeti toate luminile.	 
+1001
+y
+In situatia din imagine trebuie aprinse atat luminile de intalnire, cat si luminile de ceata?
+a.	ramane la aprecierea conducatorului auto;
+b.	da;
+c.	nu.	 
+1010
+y
+Cand ninge abundent, veti folosi:
+a.	luminile de pozitie;
+b.	luminile de intalnire ale farurilor;
+c.	avertizarea sonora.	
+1010
+y
+Pe ploaie, veti aprinde luminile de ceata din spate?
+a.	da, daca exista in dotare;
+b.	da;
+c.	nu.	
+1001
+y
+Ce lumini va trebui sa aprindeti in aceasta situatie, pe langa luminile de intalnire?
+a.	luminile de ceata din fata si din spate, daca exista;
+b.	luminile de drum;
+c.	luminile de avarie.	
+1100
+y
+In situatia data, pe langa luminile de intalnire trebuie sa circulati cu:
+a.	semnalizatoarele in functiune;
+b.	luminile de ceata;
+c.	luminile de drum.	
+1010
+y
+In aceasta situatie veti circula cu:
+a.	luminile de intalnire;
+b.	luminile de pozitie;
+c.	luminile de drum.	 
+1100
+y
+Cand se foloseste lumina de drum?
+a.	in mers, atat in localitati, cat si in afara acestora sau pe autostrazi, dupa gradul de iluminare a drumului public;
+b.	noaptea, in afara localitatilor, iar in localitati numai in cazul in care circulatia se desfasoara pe artere rutiere cu mai multe benzi pe sens;
+c.	noaptea, in afara localitatilor.
+1100
+n
+In ce situatie sunteti obligat, pe timp de noapte, sa schimbati lumina de drum cu cea de intalnire?
+a.	cand circulati in localitate, pe un drum cu mai multe benzi pe sens;
+b.	cand drumul este neiluminat;
+c.	in cazul in care din sens opus se apropie un autovehicul, de la o distanta de cel putin 200 m.
+1001
+n
+Cum trebuie sa procedati noaptea, cand sunteti orbit de lumina farurilor unui autovehicul care circula din sens opus?
+a.	mentineti  in functiune luminile de intalnire, reduceti viteza de deplasare si opriti daca este cazul;
+b.	puneti sau mentineti in functiune luminile de drum, pentru a observa mai bine drumul pe directia de deplasare;
+c.	aprindeti alternativ luminile de drum si de intalnire, pentru a-l avertiza pe celalalt conducator ca circula incorect.
+1100
+n
+In ce situatie se poate folosi semnalizarea cu mijloace de avertizare sonora intr-o localitate in care claxonatul este interzis?
+a.	in intersectiile nedirijate;
+b.	la trecerile de pietoni;
+c.	ori de cate ori este necesar, pentru evitarea unui pericol imediat.
+1001
+n
+De la ce distanta fata de vehiculul care circula din sens opus, pe timp de noapte, sunteti obligat sa folositi lumina de intalnire?
+a.	de la cel putin 100 m;
+b.	de la cel putin 200 m;
+c.	de la cel putin 150 m.
+1010
+n
+Ce semnifica balansarea, in plan vertical, a bratului drept al unui biciclist?
+a.	intentia de a opri;
+b.	intentia de a se angaja in depasire;
+c.	intentia de a schimba directia de mers la dreapta;
+1100
+n
+Cum trebuie sa procedati atunci cand intrati, pe timp de zi, intr-un tunel iluminat necorespunzator?
+a.	sa aprindeti luminile intermitente de avertizare;
+b.	sa aprindeti luminile de intalnire;
+c.	sa claxonati.
+1010
+n
+Cand se schimba in mod repetat, pe timp de noapte, lumina de drum cu cea de intalnire?
+a.	la intalnirea vehiculelor care vin din sens opus;
+b.	la semnalizarea conducatorului de autovehicule care s-a angajat intr-o depasire periculoasa;
+c.	in intersectiile care nu sunt dirijate prin semnale luminoase sau de catre un politist rutier.
+1001
+n
+Prin distanta de 100 m pentru semnalizarea schimbarii directiei de mers in afara  localitatii se intelege:
+a.	distanta parcursa din momentul semnalizarii intentiei de a efectua manevra si locul unde se produce schimbarea directiei de mers;
+b.	distanta fata de vehiculul care circula din spate;
+c.	distanta fata de locul terminarii manevrei de depasire.
+1100
+n
+Ce semnifica bratul stang, intins orizontal, al unui biciclist?
+a.	intentia de a opri;
+b.	intentia de a schimba directia de mers la stanga sau de a depasi;
+c.	faptul ca nu trebuie depasit.
+1010
+n
+Cand se foloseste avertizarea sonora?
+a.	la trecerea pe langa biciclisti;
+b.	in localitati, la apropierea de o trecere pentru pietoni;
+c.	ori de cate ori este necesar, pentru evitarea unui pericol imediat.
+1001
+n
+De la ce distanta trebuie sa folositi mijloacele de avertizare sonora, pentru a preveni pietonii si pe ceilalti conducatori de vehicule?
+a.	de la cel putin 25 m de acestia;
+b.	legea nu prevede o anumita distanta;
+c.	de la cel mult 30 m de acestia.
+1100
+n
+Ce mijloace de semnalizare se pot folosi, pentru evitarea unui pericol imediat, in zona de actiune a indicatorului "Claxonarea interzisa"?
+a.	atat mijloacele de avertizare sonora, cat si cele luminoase;
+b.	niciun mijloc de semnalizare;
+c.	numai mijloacele de semnalizare luminoasa.
+1100
+n
+Cum este semnalizata utilizarea franei de serviciu?
+a.	cu luminile de avarie din fata si din spate;
+b.	cu luminile de culoare portocalie;
+c.	cu luminile rosii din spate.
+1001
+n
+Cum trebuie sa semnalizati intentia de a depasi alte vehicule, atunci cand conduceti autovehiculul noaptea, pe un drum neiluminat dintr-o localitate?
+a.	prin folosirea luminii de drum sau a claxonului;
+b.	cu luminile indicatoare de directie;
+c.	cu luminile farurilor.
+1010
+n
+Ce lumini trebuie sa folositi pentru a semnaliza vehiculul oprit pe partea carosabila a drumului public?
+a.	luminile intermitente de culoare galbena;
+b.	luminile de pozitie sau de stationare;
+c.	luminile de intalnire.
+1010
+n
+Cand se folosesc luminile de avarie?
+a.	cand luminile de drum s-au defectat;
+b.	cand sunteti dezorientat in privinta drumului;
+c.	cand vehiculul este imobilizat involuntar pe partea carosabila sau in timp ce sunteti remorcat.
+1001
+n
+Puteti opri sau stationa regulamentar, cu toate luminile stinse, pe un drum iluminat, daca vehiculul pe care il conduceti este vizibil de la o distanta de cel putin:
+a.	200 m;
+b.	50 m;
+c.	150 m.
+1010
+n
+Pe ce categorie de drumuri sunteti obligat sa folositi luminile de intalnire in timpul zilei?
+a.	pe autostrazi, drumuri expres si nationale europene;
+b.	pe toate categoriile de drumuri;
+c.	pe drumurile judetene, comunale si locale.
+1100
+n
+Cum trebuie sa procedati atunci cand circulati pe timp de noapte si din sens opus se apropie un alt autovehicul?
+a.	sa folositi luminile de intalnire de la cel putin 200 m;
+b.	sa reduceti viteza;
+c.	sa opriti pe marginea din dreapta  a drumului.
+1110
+n
+Ce trebuie sa aveti in vedere atunci cand un vehicul are luminile de avarie aprinse?
+a.	vehiculul este parcat;
+b.	vehiculul va vira la dreapta sau la stanga;
+c.	vehiculul a ramas in pana sau este remorcat.
+1001
+n
+Semnalizarea schimbarii directiei de mers trebuie mentinuta:
+a.	pe intreaga durata a executarii manevrei;
+b.	10 secunde de la inceperea manevrei;
+c.	legea nu prevede nimic cu privire la acest aspect.
+1100
+n
+Ce obligatii va revin atunci cand circulati pe timpul noptii si va apropiati de un alt autovehicul, care circula in fata?
+a.	sa folositi luminile de intalnire de la o distanta de cel putin 100 m;
+b.	sa reduceti viteza si sa circulati cu atentie sporita;
+c.	sa nu va angajati in depasirea acestuia.
+1100
+n
+Distanta de 50 m necesara pentru semnalizarea schimbarii directiei de mers in localitati semnifica:
+a.	distanta fata de locul in care se termina executarea manevrei de depasire;
+b.	distanta fata de vehiculul care se deplaseaza in spatele dumneavoastra;
+c.	distanta dintre locul in care se semnalizeaza intentia de a depasi si locul in care se incepe manevra.
+1001
+n
+Ce masuri trebuie sa luati atunci cand circulati in conditii atmosferice ce impiedica mult vizibilitatea?
+a.	sa folositi luminile de intalnire;
+b.	sa circulati pe distante scurte si cu luminile de pozitie in functiune;
+c.	sa folositi luminile de pozitie si sa circulati cat mai aproape de marginea din dreapta a drumului.
+1100
+n
+In ce situatie sunteti obligat sa folositi luminile de intalnire sau de drum?
+a.	in cazul stationarii pe timp de noapte pe partea carosabila a drumurilor nationale sau in cazul parcarii autovehiculului in locuri special amenajate, dar neiluminate;
+b.	in cazul arterelor de circulatie slab iluminate, cand vizibilitatea este redusa, in mers, atat in localitati, cat si in afara acestora;
+c.	pe timp de zi pe drumurile nationale, in situatiile in care traficul este supraaglomerat.
+1010
+n
+Ce categorii de vehicule au obligatia de a folosi luminile de intalnire pe timp de zi?
+a.	autovehiculele care insotesc coloane militare sau transporta grupuri de persoane;
+b.	motocicletele si mopedele;
+c.	autovehiculele care tracteaza alte vehicule sau care transporta produse periculoase.
+1111
+n
+Luminile de avarie se folosesc:
+a.	cand circulatia este blocata pe sensul de mers;
+b.	cand un vehicul a ramas in pana sau a fost avariat, fiind imobilizat pe carosabil;
+c.	cand vehiculul se deplaseaza foarte lent si constituie un pericol pentru ceilalti participanti la trafic.
+1111
+n
+Cum este corect sa procedati atunci cand circulati pe timpul noptii, in conditii atmosferice ce impiedica mult vizibilitatea?
+a.	folositi luminile de drum si circulati cat mai aproape de marginea din dreapta a drumului;
+b.	opriti si asteptati modificarea conditiilor atmosferice;
+c.	folositi luminile de intalnire si semnalizati prin schimbarea luminii de intalnire cu cea de drum, la trecerea prin intersectiile cu circulatie nedirijata.
+1001
+n
+Luminile de avarie se folosesc atunci cand:
+a.	vehiculul se deplaseaza foarte lent, din motive obiective;
+b.	se circula in coloana, cu viteza redusa;
+c.	se circula pe un drum alunecos.
+1100
+n
+In ce situatie sunteti obligat sa folositi luminile de intalnire pe timp de zi?
+a.	cand circulati cu viteza redusa;
+b.	cand tractati alte vehicule;
+c.	cand circulati pe drumuri judetene.
+1010
+n
+Pe timp de zi, luminile de pozitie se folosesc atunci cand autovehiculul este oprit:
+a.	pentru urcarea sau coborarea pasagerilor;
+b.	din cauza unor avarii;
+c.	pentru ca vizibilitatea este redusa.
+1001
+n
+In situatia data, pentru a va semnaliza prezenta, veti schimba alternativ luminile de drum cu luminile de intalnire?
+a.      da, dupa trecerea autocamionului;
+b.      nu;
+c.      se folosesc numai luminile de drum.
+1100
+y
