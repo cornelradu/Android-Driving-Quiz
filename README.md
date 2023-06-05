@@ -1,4 +1,5 @@
 # Android-Driving-Quiz
 
-![1](https://github.com/cornelradu/Android-Driving-Quiz/assets/3815479/d31a1093-0afa-407e-a03e-7fb33cbb66c3)
-![2](https://github.com/cornelradu/Android-Driving-Quiz/assets/3815479/4f7d69d9-2fca-4a5e-8372-5248d20f0fd0)
+
+![1](https://github.com/cornelradu/Android-Driving-Quiz/assets/3815479/254d1b0b-8f69-4bc6-b99a-d001abdfc39d)
+![2](https://github.com/cornelradu/Android-Driving-Quiz/assets/3815479/59f0282a-1d8e-4b6a-b713-da27dfd957ea)
