@@ -1,0 +1,16 @@
+Circulatia pe autostrazi=26
+Conduita preventiva=35,36
+Depasirea=51,52
+Indicatoare si marcaje rutiere=39,40,41,55,56
+Intoarcerea si mersul inapoi=26
+Masuri de prim ajutor=26
+Notiuni de mecanica auto=51,52
+Obligatiile conducatorilor de autovehicule=51,52
+Oprirea, stationarea, parcarea=30,31
+Pozitia in timpul mersului=26
+Prioritatea de trecere=51,52
+Reguli generale=26
+Semnalele conducatorilor de vehicule=26
+Semnalele politistilor=26
+Trecerea la nivel cu calea ferata=26
+Viteza si distanta dintre vehicule=26

@@ -1,0 +1,5 @@
+Indicatoare si marcaje rutiere=349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367
+Masuri de prim ajutor=57
+Prioritatea de trecere=134,135,136,137
+Semnalele politistilor=57
+Viteza si distanta dintre vehicule=81

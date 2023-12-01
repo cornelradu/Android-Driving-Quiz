@@ -1,0 +1,11 @@
+Conduita preventiva=49,50
+Depasirea=65,66
+Indicatoare si marcaje rutiere=70,71,72,73,74,75,76,77,78,79,80
+Masuri de prim ajutor=33
+Obligatiile conducatorilor de autovehicule=65,66
+Oprirea, stationarea, parcarea=44,45
+Prioritatea de trecere=63,64
+Reguli generale=33
+Semnalele conducatorilor de vehicule=33
+Semnalele politistilor=33
+Viteza si distanta dintre vehicule=34

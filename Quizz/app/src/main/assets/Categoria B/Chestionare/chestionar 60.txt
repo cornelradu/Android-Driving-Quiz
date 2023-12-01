@@ -1,0 +1,14 @@
+Indicatoare si marcaje rutiere=1,2
+Masuri de prim ajutor=1,2,3,4
+Prioritatea de trecere=1,2,3
+Semnalele politistilor=1
+Notiuni de mecanica auto=13,14
+Obligatiile conducatorilor de autovehicule=13,14
+Oprirea, stationarea, parcarea=7
+Pozitia in timpul mersului=7
+Prioritatea de trecere=13,14
+Reguli generale=7
+Sanctiuni si infractiuni=19,20,21
+Semnale luminoase=13,14
+Semnalele conducatorilor de vehicule=7
+Semnalele politistilor=7

@@ -1,0 +1,5 @@
+Indicatoare si marcaje rutiere=313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330
+Masuri de prim ajutor=55
+Prioritatea de trecere=126,127,128,129
+Semnalele politistilor=55
+Viteza si distanta dintre vehicule=77,78

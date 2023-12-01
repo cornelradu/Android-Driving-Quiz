@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"  package="com.example.quizz">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.quizz">
 
     <application
         android:allowBackup="true"
@@ -11,9 +12,23 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Quizz"
-        tools:targetApi="31"
         android:windowSoftInputMode="adjustResize|stateAlwaysVisible"
-        >
+        tools:targetApi="31">
+        <activity
+            android:name=".ui.ResultInfoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.ChestionareSelectateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.AntrenamentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.MediuDeInvatareActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.SimulareActivity"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
