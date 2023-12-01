@@ -15,12 +15,18 @@ public class Category {
     AssetManager assetManager;
     Map<String, Chapter> chapterMap;
 
+    private String chestionareFolder;
     public int getNoQuestions(){
         return this.numberQuestions;
+    }
+
+    public AssetManager getAssetManager(){
+        return this.assetManager;
     }
     public Category(AssetManager assetManager, String category){
         this.assetManager = assetManager;
 
+        chestionareFolder = "Categoria B/Data";
         try {
             String[] filelist = assetManager.list("Categoria B/Data");
             chapterMap = new HashMap<String, Chapter>();

@@ -1,0 +1,6 @@
+Conduita preventiva=104,105,106,107
+Indicatoare si marcaje rutiere=254,255,256,257,258,259,260,261,262,263,264,265,266,267
+Masuri de prim ajutor=51
+Prioritatea de trecere=110,111,112,113
+Semnalele politistilor=51
+Viteza si distanta dintre vehicule=69,70
