@@ -1,0 +1,6 @@
+Masuri de prim ajutor=23,24,25
+Oprirea, stationarea, parcarea=21,22,23
+Prioritatea de trecere=37,38,39,40,41,42,43
+Sanctiuni si infractiuni=21,22,23,24,25,26
+Semnale luminoase=19
+Semnalele politistilor=19

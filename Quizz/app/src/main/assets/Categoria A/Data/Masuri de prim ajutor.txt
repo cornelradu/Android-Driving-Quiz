@@ -1,0 +1,151 @@
+25
+Cum se face imobilizarea unui brat fracturat?
+a.	cuprinzand atat osul fracturat, cat si cele doua articulatii - superioara si inferioara;
+b.	cuprinzand articulatia superioara si osul fracturat;
+c.	in dreptul osului fracturat.
+1100
+n
+Cu ce este recomandabil sa fie transportate persoanele accidentate, care prezinta fracturi de coloana?
+a.	cu mijloace de transport cu platforma (de tip furgoneta sau camion), chiar daca au viteza de deplasare mai mica, daca ambulanta nu se poate deplasa la locul accidentului;
+b.	cu orice mijloc de transport, daca acesta se deplaseaza in directia unei unitati sanitare;
+c.	doar cu autoturisme, deoarece astfel se asigura rapiditate in deplasare.
+1100
+n
+Persoanele ranite trebuie scoase din autovehicul:
+a.	prin impingere;
+b.	prin tragere;
+c.	prin ridicare?
+1001
+n
+Ce se va avea in vedere in cazul ranilor cu hemoragie, in prima faza?
+a.	curatarea ranii;
+b.	oprirea hemoragiei;
+c.	pansarea ranii.
+1010
+n
+In vederea opririi hemoragiei, bratul se va lega strans:
+a.	deasupra ranii;
+b.	in dreptul ranii;
+c.	sub rana.
+1100
+n
+Fractura labei piciorului se imobilizeaza astfel:
+a.	de la degete pana la genunchi, cu atele sau cu un bandaj gros;
+b.	de la glezna pana la sold, cu o fasa;
+c.	se suspenda piciorul intr-o chinga.
+1100
+n
+Cum trebuie asezata o persoana ranita intr-un mijloc de transport, daca prezinta leziuni ale coloanei vertebrale?
+a.	orizontal, cu fata in sus;
+b.	in pozitie sezanda;
+c.	persoana nu trebuie miscata pana la sosirea ambulantei.
+1001
+n
+Precizeaza daca este obligatorie dotarea motocicletei cu trusa medicala de prim ajutor:
+a.	da, pentru toate autovehiculele care circula pe drumurile publice;
+b.	da, numai la autovehiculele cu o greutate mai mare de 3,5 t;
+c.	nu, este doar o recomandare.
+1100
+n
+In ce scop se folosesc substantele antiseptice?
+a.	pentru oprirea hemoragiei;
+b.	pentru dezinfectarea ranilor;
+c.	pentru calmarea durerilor.
+1010
+n
+Cum este verificat pulsul in cazul unui accidentat care nu respira?
+a.	pe partea laterala a epiglotei (Marul lui Adam), in scobitura dintre trahee si muschii gatului;
+b.	langa ureche;
+c.	sub mandibula.
+1100
+n
+Cum se procedeaza in cazul unei fracturi de clavicula, cand umarul se afla intr-o pozitie atarnanda, usor inainte si in jos?
+a.	se aduce umarul in pozitie normala;
+b.	se lasa bratul liber;
+c.	se aseaza bratul intr-o esarfa.
+1001
+n
+Cum trebuie sa fie asezata victima care a pierdut mult sange?
+a.	cu fata in sus;
+b.	cu picioarele situate mai sus decat nivelul corpului;
+c.	cu fata in jos.
+1010
+n
+Cea mai periculoasa hemoragie este:
+a.	cea care determina o pierdere rapida a sangelui;
+b.	cea care determina o sangerare continua si lenta;
+c.	orice sangerare vizibila.
+1100
+n
+Cum se actioneaza in cazul unui accident de circulatie cu victime si cu deformarea accentuata a caroseriei sau cu blocarea usilor, daca ocupantii vehiculelor sunt imobilizati?
+a.	se apeleaza la serviciile specializate ale unitatilor  pentru situatii de urgenta, care intervin cu utilaje de descarcerare;
+b.	se extrag victimele rapid si ferm;
+c.	se scot rapid victimele, cu ajutorul celor din jur.
+1100
+n
+Cum se poate realiza transportarea victimelor la spital?
+a.	cu o ambulanta insotita de un medic;
+b.	cu o ambulanta special dotata in acest sens;
+c.	cu vehiculul care a provocat accidentul, daca starea victimei permite acest lucru.
+1111
+n
+Cum se face dezinfectarea plagilor ce necesita a fi pansate?
+a.	cu ser fiziologic;
+b.	cu apa oxigenata sau iod;
+c.	cu apa potabila.
+1010
+n
+Cum se va opri o hemoragie produsa la unul dintre membrele unei persoane ranite?
+a.	prin actiunea compresiva asupra vasului lezat sau prin aplicarea garoului;
+b.	prin dezinfectarea si pansarea ranii si aplicarea atelelor;
+c.	prin ridicarea membrului accidentat in pozitie verticala.
+1100
+n
+Cum va fi ridicata o persoana grav ranita, victima unui accident de circulatie?
+a.	cu atentie, mentinandu-se in acelasi plan capul, gatul si toracele;
+b.	de umeri si de picioare, de catre doua persoane;
+c.	mai intai de cap, apoi de torace si picioare.
+1100
+n
+Cum se executa masajul cardiac, atunci cand victimei unui accident de circulatie i s-au oprit bataile inimii (stop cardiac)?
+a.	prin respiratie artificiala si incrucisarea ritmica a bratelor victimei;
+b.	prin apasarea ritmica a toracelui victimei cu podul palmelor suprapuse, in dreptul inimii;
+c.	prin lovirea cu palmele a toracelui victimei.
+1010
+n
+Cum se face imobilizarea membrului inferior fracturat al unei victime a unui accident de circulatie?
+a.	prin folosirea atelelor;
+b.	prin bandajarea stransa a locului fracturii;
+c.	prin folosirea unui pansament compresiv.
+1100
+n
+Cum se face respiratia artificiala, atunci cand gura unui ranit ramane inclestata?
+a.	prin narile victimei;
+b.	prin gura inchisa a victimei;
+c.	in acest caz nu se face respiratie artificiala.
+1100
+n
+Pentru imobilizarea unei fracturi, atelele trebuie sa fie:
+a.	suficient de lungi pentru a acoperi in  intregime atat zona de deasupra, cat si cea de sub fractura;
+b.	usoare;
+c.	rigide.
+1111
+n
+Cum trebuie sa procedezi cu persoanele accidentate, cu arsuri multiple pe corp si membre?
+a.	trebuie transportate urgent la o unitate medicala;
+b.	trebuie dezbracate rapid de haine, dupa stingerea flacarilor;
+c.	este necesar sa fie spalate, bandajate si apoi transportate la cea mai apropiata unitate sanitara.
+1100
+n
+Ce functii indeplineste un bandaj de tifon aplicat pe o rana deschisa?
+a.	protejeaza impotriva infectarii ranii;
+b.	scade tensiunea arteriala;
+c.	opreste hemoragia.
+1101
+n
+Simptomele stopului cardiac, pe care le prezinta o persoana, victima a unui accident de circulatie, sunt:
+a.	lipsa pulsului;
+b.	aparitia hemoragiei pe gura;
+c.	leziuni profunde in zona toracelui.
+1100
+n

@@ -15,6 +15,18 @@
         android:windowSoftInputMode="adjustResize|stateAlwaysVisible"
         tools:targetApi="31">
         <activity
+            android:name=".ui.ExamineazaRaspunsuriGresite"
+            android:exported="false" />
+        <activity
+            android:name=".ui.SelecteazaCategoriaChestionareSelectate"
+            android:exported="false" />
+        <activity
+            android:name=".ui.SelecteazaCategoriaMediuDeInvatare"
+            android:exported="false" />
+        <activity
+            android:name=".ui.SelecteazaCategoriaSimulareActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.ResultInfoActivity"
             android:exported="false" />
         <activity

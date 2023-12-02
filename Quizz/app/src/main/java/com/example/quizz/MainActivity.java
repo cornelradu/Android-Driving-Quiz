@@ -8,6 +8,9 @@ import android.widget.Button;
 import com.example.quizz.logic.Category;
 import com.example.quizz.ui.ChestionareSelectateActivity;
 import com.example.quizz.ui.MediuDeInvatareActivity;
+import com.example.quizz.ui.SelecteazaCategoriaChestionareSelectate;
+import com.example.quizz.ui.SelecteazaCategoriaMediuDeInvatare;
+import com.example.quizz.ui.SelecteazaCategoriaSimulareActivity;
 import com.example.quizz.ui.SimulareActivity;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -31,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 // Start SecondActivity when the button is clicked
-                Intent intent = new Intent(MainActivity.this, SimulareActivity.class);
+                Intent intent = new Intent(MainActivity.this, SelecteazaCategoriaSimulareActivity.class);
                 intent.putExtra("chestionar", 0);
                 startActivity(intent);
             }
@@ -42,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 // Start SecondActivity when the button is clicked
-                Intent intent = new Intent(MainActivity.this, MediuDeInvatareActivity.class);
+                Intent intent = new Intent(MainActivity.this, SelecteazaCategoriaMediuDeInvatare.class);
                 startActivity(intent);
             }
         });
@@ -52,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 // Start SecondActivity when the button is clicked
-                Intent intent = new Intent(MainActivity.this, ChestionareSelectateActivity.class);
+                Intent intent = new Intent(MainActivity.this, SelecteazaCategoriaChestionareSelectate.class);
                 startActivity(intent);
             }
         });

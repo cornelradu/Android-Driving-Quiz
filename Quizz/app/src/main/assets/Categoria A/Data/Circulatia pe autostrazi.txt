@@ -1,0 +1,97 @@
+16
+Poti intoarce, in caz de urgenta, folosind racordurile dintre cele doua directii de mers ale unei autostrazi?
+a.	nu;
+b.	da, pentru ca in aceasta zona poti sa intorci pe celalalt sens de mers;
+c.	nu, daca nu este spatiu suficient pentru a patrunde in siguranta cu autovehiculul.
+1100
+n
+Caror vehicule le este interzisa circulatia pe autostrazi?
+a.	celor care, prin constructie sau din alte cauze, nu pot depasi viteza de 50 km/h;
+b.	motocicletelor si autovehiculelor care nu pot circula cu mai mult de 60 km/h;
+c.	autovehiculelor care transporta incarcaturi periculoase.
+1100
+n
+Este permisa manevra de intoarcere pe autostrada?
+a.	da;
+b.	nu;
+c.	nu, cu exceptia cazurilor cand pe directia inainte circulatia este blocata.
+1010
+n
+Ce se interzice pe autostrada?
+a.	executarea de lucrari pe partea carosabila pe timp de noapte;
+b.	circulatia autovehiculelor in coloana;
+c.	invatarea conducerii unui vehicul, incercarea prototipurilor de sasiuri si de vehicule cu motor.
+1001
+n
+Ce manevre sunt interzise pe autostrada?
+a.	circulatia sau stationarea pe banda de urgenta;
+b.	folosirea benzii de accelerare pentru a schimba directia de mers;
+c.	deplasarea cu o viteza inferioara limitei maxime permise.
+1100
+n
+Este permisa patrunderea pe racordurile dintre cele doua parti carosabile ale unei autostrazi?
+a.	da, pentru oprire in caz de urgenta;
+b.	nu;
+c.	da, pentru intoarcere, in zona intersectiilor.
+1010
+n
+Ce manevre sunt interzise pe autostrada?
+a.	deplasarea sau stationarea pe banda de urgenta, cu exceptia cazurilor justificate;
+b.	deplasarea cu o viteza mai mica de 60 km/h;
+c.	folosirea benzii de decelerare pentru schimbarea directiei de mers.
+1100
+n
+Cu ce viteza vei circula pe autostrada, atunci cand vizibilitatea este sub 100 m, in conditii de ceata, ploi torentiale si ninsori abundente?
+a.	130 km/h;
+b.	110 km/h;
+c.	50 km/h.
+1001
+n
+La circulatia pe autostrazi iti este interzis:
+a.	sa opresti pentru a remedia o defectiune;
+b.	sa stationezi pe banda de urgenta, cu exceptia cazurilor justificate;
+c.	sa depasesti alte autovehicule.
+1010
+n
+Ce obligatii ai atunci cand urmeaza sa parasesti autostrada?
+a.	sa circuli pe prima banda cu o viteza de maximum 60 km/h;
+b.	sa reduci viteza incepand cu 300 m inainte de iesirea de pe autostrada, in dreptul panoului care marcheaza aceasta distanta;
+c.	sa semnalizezi din timp si sa te angajezi pe banda de iesire (de decelerare).
+1001
+n
+Pe unde vor circula vehiculele de interventie, daca pe o autostrada cu trei benzi s-a blocat circulatia?
+a.	pe contrasens;
+b.	pe banda de urgenta;
+c.	pe acostament.
+1010
+n
+Cum procedezi daca ai trecut din greseala de iesirea de pe autostrada, pe care intentionai sa te angajezi?
+a.	opresti pe banda de urgenta si circuli incet cu spatele;
+b.	circuli mai departe pana la urmatoarea iesire;
+c.	intorci si circuli inapoi pe banda laterala.
+1010
+n
+Cum procedezi daca, pe autostrada, ai o defectiune tehnica?
+a.	aprinzi proiectoarele;
+b.	parasesti carosabilul, opresti pe banda de urgenta si il semnalizezi;
+c.	aprinzi luminile de pozitie.
+1010
+n
+Caror categorii de autovehicule le este interzis sa circule pe autostrada?
+a.	motocicletelor cu si fara atas;
+b.	celor care, prin constructie, nu pot depasi viteza de 50 km/h;
+c.	tractoarelor si masinilor agricole autopropulsate.
+1011
+n
+Cum vei proceda corect daca intri pe autostrada folosind banda de accelerare?
+a.	maresti viteza, intrucat banda pe care circuli este special creata in acest scop;
+b.	nu ai nicio obligatie, deoarece autostrada are suficiente benzi pentru a permite circulatia tuturor vehiculelor;
+c.	cedezi trecerea autovehiculelor care circula pe prima banda a autostrazii si nu stanjenesti in niciun fel circulatia acestora.
+1101
+n
+Daca circuli pe autostrada cu motocicleta avand in spatele tau un pasager, ai urmatoarele obligatii:
+a.	iti este interzisa folosirea telefonului mobil, cu exceptia celor prevazute cu dispozitive de tipul "maini libere";
+b.	pasagerul trebuie sa poarte casca de protectie;
+c.	nu ai nicio obligatie, pasagerul trebuie sa-si ia toate masurile de protectie.
+1110
+n

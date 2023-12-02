@@ -23,10 +23,10 @@ public class Quiz {
         List<Question> qList = new ArrayList<>();
 
         try {
-            String[] filelist = c.getAssetManager().list("Categoria B/Chestionare");
+            String[] filelist = c.getAssetManager().list(c.getCategoryName() + "/Chestionare");
             for(String file : filelist){
                 if(file.equals("chestionar " + chestionar + ".txt")){
-                    InputStreamReader reader = new InputStreamReader(c.getAssetManager().open("Categoria B/Chestionare/" + file));
+                    InputStreamReader reader = new InputStreamReader(c.getAssetManager().open(c.getCategoryName() + "/Chestionare/" + file));
                     BufferedReader bufferedReader = new BufferedReader(reader);
 
 

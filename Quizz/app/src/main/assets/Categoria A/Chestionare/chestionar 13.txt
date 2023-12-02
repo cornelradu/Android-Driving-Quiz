@@ -1,0 +1,11 @@
+Circulatia pe autostrazi=13
+Indicatoare si marcaje rutiere=36,37,38,39,40,41,42,43,44
+Masuri de prim ajutor=13
+Obligatiile conducatorilor de autovehicule=13
+Oprirea, stationarea, parcarea=13
+Prioritatea de trecere=25,26
+Sanctiuni si infractiuni=13
+Semnale luminoase=13
+Semnalele conducatorilor de vehicule=13
+Semnalele politistilor=13
+Trecerea la nivel cu calea ferata=13

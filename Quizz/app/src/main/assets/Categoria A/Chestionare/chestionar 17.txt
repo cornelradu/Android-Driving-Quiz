@@ -1,0 +1,8 @@
+Indicatoare si marcaje rutiere=76,77,78,79,80,81,82
+Masuri de prim ajutor=17,18
+Obligatiile conducatorilor de autovehicule=17,18,19,20
+Oprirea, stationarea, parcarea=17,18
+Prioritatea de trecere=33,34
+Sanctiuni si infractiuni=17
+Semnale luminoase=17
+Semnalele politistilor=17

@@ -19,34 +19,96 @@
             android:layout_height="800dp"
             android:layout_marginTop="0dp">
 
-            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            <LinearLayout
                 android:id="@+id/info_bar"
                 android:layout_width="match_parent"
                 android:layout_height="40dp"
                 android:paddingLeft="16dp"
                 android:paddingRight="16dp"
                 android:orientation="horizontal">
-                <TextView
-                    android:id="@+id/initial_questions"
+
+                <LinearLayout
+                    android:id="@+id/initial_questions_info_bar"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="0 intrebari initiale"
                     android:layout_weight="0.33"
-                    android:textColor="@color/blue"/>
-                <TextView
-                    android:id="@+id/remaining_questions"
+                    android:layout_height="40dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/initial_questions_num"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.25"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/border_shape"
+                        android:paddingLeft="10dp"
+                        android:text="26"
+                        android:textColor="@color/blue" />
+
+                    <TextView
+                        android:id="@+id/initial_questions"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="intrebari\n initiale"
+                        android:layout_weight="0.75"
+                        android:textColor="@color/blue"/>
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/remaining_questions_info_bar"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="0 intrebari ramase"
                     android:layout_weight="0.33"
-                    android:textColor="@color/black"/>
-                <TextView
-                    android:id="@+id/correct_answers"
+                    android:layout_height="40dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/remaining_questions_num"
+                        android:layout_width="39dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.25"
+                        android:background="@drawable/border_shape"
+                        android:layout_marginTop="10dp"
+                        android:paddingLeft="10dp"
+                        android:text="26"
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/remaining_questions"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="intrebari \n ramase"
+                        android:layout_weight="0.75"
+                        android:textColor="@color/black"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/correct_answers_info_bar"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="0 Raspunsuri corecte"
                     android:layout_weight="0.33"
-                    android:textColor="@color/green"/>
+                    android:layout_height="40dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/correct_answers_num"
+                        android:layout_width="52dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.25"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/border_shape"
+                        android:paddingLeft="10dp"
+                        android:text="0"
+                        android:textColor="@color/green" />
+
+                    <TextView
+                        android:id="@+id/correct_answers"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Raspunsuri \n corecte"
+                        android:layout_weight="0.33"
+                        android:textColor="@color/green"/>
+                </LinearLayout>
+
             </LinearLayout>
 
             <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -59,13 +121,32 @@
                 android:layout_marginTop="30dp"
                 android:orientation="horizontal">
 
-                <TextView
-                    android:id="@+id/wrong_answers"
+                <LinearLayout
+                    android:id="@+id/wrong_answers_info_bar"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="0 Raspunsuri gresite"
-                    android:layout_weight="0.50"
-                    android:textColor="@color/red"/>
+                    android:layout_weight="0.5"
+                    android:layout_height="40dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/wrong_answers_num"
+                        android:layout_width="52dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.25"
+                        android:background="@drawable/border_shape"
+                        android:paddingLeft="10dp"
+                        android:text="0"
+                        android:textColor="@color/red" />
+
+                    <TextView
+                        android:id="@+id/wrong_answers"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Raspunsuri gresite"
+                        android:layout_weight="0.50"
+                        android:textColor="@color/red"/>
+                </LinearLayout>
+
                 <TextView
                     android:id="@+id/remaining_time"
                     android:layout_width="match_parent"
@@ -96,7 +177,7 @@
                 android:id="@+id/answer1"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:layout_marginTop="5dp"
+                android:layout_marginTop="30dp"
                 android:layout_below="@+id/imageView"
                 android:paddingHorizontal="10dp"
                 android:textStyle="bold"

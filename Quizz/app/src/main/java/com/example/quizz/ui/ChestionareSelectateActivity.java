@@ -17,7 +17,7 @@ import java.util.Map;
 
 public class ChestionareSelectateActivity extends AppCompatActivity {
 
-    void createButton(int index){
+    void createButton(int index, String category){
         Button button = new Button(this);
         button.setText("Chestionar " + index);
 
@@ -43,6 +43,7 @@ public class ChestionareSelectateActivity extends AppCompatActivity {
         button.setOnClickListener(v -> {
             Intent intent = new Intent(ChestionareSelectateActivity.this, SimulareActivity.class);
             intent.putExtra("chestionar", index);
+            intent.putExtra("categoria", category);
             startActivity(intent);
 
         });
@@ -55,10 +56,18 @@ public class ChestionareSelectateActivity extends AppCompatActivity {
 
         AssetManager assetManager = this.getAssets();
 
-        Category category = new Category(assetManager, "Categoria B");
+        String categoryStr = this.getIntent().getStringExtra("categoria");
+        Category category = new Category(assetManager, categoryStr);
 
-        for(int index = 1; index <= 60; index++){
-            createButton(index);
+        int num = 0;
+        if(categoryStr.equals("Categoria A")){
+            num = 21;
+        } else if (categoryStr.equals("Categoria B")){
+            num = 60;
+        }
+
+        for(int index = 1; index <= num; index++){
+            createButton(index, categoryStr);
         }
     }
 }

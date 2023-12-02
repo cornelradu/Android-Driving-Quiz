@@ -1,0 +1,49 @@
+8
+Unde montezi, la motocicleta, semnul distinctiv specific conducatorilor cu o vechime mai mica de un an de la data obtinerii permisului de conducere?
+a.	in partea din spate a motocicletei, langa numarul de inmatriculare;
+b.	in partea din fata a motocicletei, deasupra rotii;
+c.	pe partea din spate a castii de protectie.
+1100
+n
+Iti este permis, cand conduci motocicleta, sa tractezi alte vehicule?
+a.	nu;
+b.	da, o remorca usoara cu o singura axa;
+c.	acest aspect nu este reglementat legal.
+1010
+n
+Iti este permis sa conduci motocicleta pe drumurile publice fara sa asiguri contactul cu partea carosabila pe ambele roti?
+a.	da;
+b.	nu;
+c.	acest aspect nu este reglementat legal.
+1010
+n
+Ce iti este interzis in timp ce conduci motocicleta?
+a.	sa folosesti ochelari de protectie;
+b.	sa te asiguri in oglinda retrovizoare;
+c.	sa lasi ghidonul liber.
+1001
+n
+Permisul de conducere valabil pentru categoria A iti permite sa conduci:
+a.	autoturisme de mic litraj;
+b.	motociclete cu sau fara atas;
+c.	motociclete si autoturisme.
+1010
+n
+In timp ce conduci iti este interzis:
+a.	sa transporti persoane aflate sub influenta bauturilor alcoolice;
+b.	sa folosesti telefonul mobil, cu exceptia celui prevazut cu dispozitiv tip "maini libere";
+c.	sa schimbi treptele de viteza in curbe.
+1110
+n
+Care este definitia motocicletei?
+a.	un vehicul cu 2, 3 sau 4 roti, a carui viteza nu depaseste 45 km/h, dotat cu un motor a carui capacitate cilindrica nu depaseste 50 cmc;
+b.	un autovehicul cu 2 roti, cu sau fara atas, echipat cu un motor a carui capacitate cilindrica este mai mare de 50 cmc si/sau a carui viteza maxima,  prin constructie, depaseste 45 km/h;
+c.	un vehicul cu 2 roti, a carui viteza depaseste 80 km/h  si a carui capacitate cilindrica este mai mare de 125 cmc sau care are o putere mai mare 4 kw, in cazul celor dotate cu motor electric.
+1010
+n
+Care este limita maxima de viteza cu care ai voie sa conduci un autovehicul apartinand categoriei A, pe autostrazi?
+a.	90 km/h;
+b.	130 km/h;
+c.	100 km/h.
+1010
+n

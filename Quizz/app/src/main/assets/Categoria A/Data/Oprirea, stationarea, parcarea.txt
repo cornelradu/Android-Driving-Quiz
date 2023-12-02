@@ -1,0 +1,139 @@
+23
+Oprirea motocicletelor pe drumurile publice este interzisa:
+a.	in intersectiile cu sens giratoriu;
+b.	pe arterele cu un singur sens de circulatie;
+c.	in zona de actiune a indicatorului "Stationarea interzisa".
+1100
+n
+In care dintre situatiile de mai jos este interzisa oprirea motocicletelor pe drumurile publice?
+a.	la o distanta mai mica de 25 m inainte si dupa indicatorul statiei pentru mijloacele de transport public de persoane;
+b.	pe partea carosabila a drumurilor nationale;
+c.	la mai putin de 50 m de cel mai apropiat colt al intersectiei.
+1100
+n
+Unde este interzisa oprirea voluntara?
+a.	in intersectiile dirijate;
+b.	pe drumurile cu prioritate;
+c.	pe sectoarele de drum neiluminate.
+1100
+n
+Intr-o intersectie cu sens giratoriu, iti este interzis:
+a.	sa opresti motocicleta, in afara situatiilor impuse de trafic;
+b.	sa reduci viteza, intrucat se creeaza pericolul de blocare;
+c.	sa intorci, prin ocolirea sensului giratoriu.
+1100
+n
+Este permisa oprirea voluntara a motocicletei in tuneluri?
+a.	da;
+b.	numai daca lungimea tunelului depaseste 1000 m;
+c.	nu.
+1001
+n
+Pe ce drumuri sunt permise oprirea si stationarea vehiculelor si pe partea stanga, in sensul de mers?
+a.	pe drumurile cu sens unic, daca ramane libera cel putin o banda de circulatie;
+b.	pe orice drum;
+c.	pe drumurile cu trafic redus.
+1100
+n
+Unde este permisa stationarea pe partea stanga in directia de mers?
+a.	pe strazile cu sens unic;
+b.	pe soselele cu banda laterala consolidata;
+c.	in nicio situatie.
+1100
+n
+In care dintre situatiile de mai jos este interzisa oprirea?
+a.	in intersectiile cu sens giratoriu;
+b.	pe strazile cu sens unic;
+c.	in dreptul indicatorului "Parcarea interzisa".
+1100
+n
+Este permisa stationarea motocicletei pe partea carosabila, daca un drum public este neiluminat?
+a.	da, dar numai in interiorul localitatilor;
+b.	da, daca sunt aprinse luminile de pozitie sau de stationare;
+c.	nu.
+1010
+n
+Care este deosebirea dintre oprire si stationare?
+a.	deosebirea consta in durata de imobilizare a motocicletei;
+b.	niciuna;
+c.	deosebirea consta in modul de asezare si de asigurare a motocicletei pe drum.
+1100
+n
+Cum vei parca regulamentar intr-o piata cu sens giratoriu?
+a.	partial pe trotuar;
+b.	paralel cu bordura trotuarului si cat mai aproape de aceasta;
+c.	in acest loc nu este permisa parcarea.
+1001
+n
+Este permisa stationarea motocicletei in zona de actiune a indicatorului "Drum ingustat"?
+a.	nu;
+b.	da;
+c.	legea nu prevede acest aspect.
+1100
+n
+In care dintre situatiile urmatoare este interzisa oprirea?
+a.	la mai putin de 50 m de cel mai apropiat colt al intersectiei;
+b.	in curbe si pe sectoarele de drum cu vizibilitate redusa sub 50 m;
+c.	in zona de actiune a indicatorului "Stationarea interzisa".
+1010
+n
+Unde este interzisa oprirea?
+a.	pe drumul cu sens unic;
+b.	la o distanta mai mica de 25 m de coltul intersectiei;
+c.	la o distanta de 5 m in spatele ultimului vagon de tramvai oprit in statia fara refugiu pentru pietoni.
+1010
+n
+In care dintre locurile de mai jos este interzisa oprirea?
+a.	pe sectoarele de drum la inceputul carora se afla indicatorul "Drum cu prioritate";
+b.	pe sectoarele de drum neiluminate;
+c.	pe sectoarele de drum unde se afla indicatorul "Drum ingustat".
+1001
+n
+Este permisa oprirea in dreptul statiei de tramvai prevazuta cu refugiu pentru pietoni?
+a.	nu, deoarece se interzice prin lege;
+b.	da, cand tramvaiul nu se afla in statie;
+c.	da, deoarece in astfel de statii este permisa stationarea.
+1100
+n
+Unde este interzisa stationarea?
+a.	pe sectoarele de drum unde este interzisa depasirea;
+b.	in zona de actiune a indicatorului "Circulatie in ambele sensuri";
+c.	pe partea carosabila a drumurilor nationale.
+1100
+n
+Cum procedezi daca ramai in pana intr-un tunel?
+a.	motorul trebuie sa functioneze, pentru a putea folosi luminile de avarie;
+b.	opresti functionarea motorului;
+c.	tractezi obligatoriu motocicleta pana la iesirea din tunel.
+1010
+n
+Cand circuli pe un drum national european iti este interzisa:
+a.	remorcarea altui autovehicul;
+b.	folosirea mijloacelor de avertizare sonora;
+c.	stationarea voluntara pe partea carosabila.
+1001
+n
+Unde este interzisa oprirea vehiculelor?
+a.	in zona de actiune a indicatorului "Oprirea interzisa";
+b.	pe partea carosabila a drumurilor nationale;
+c.	in dreptul cailor de acces ce deservesc proprietatile alaturate drumurilor publice.
+1100
+n
+Oprirea este interzisa:
+a.	la o distanta mai mica de 25 m de coltul intersectiei;
+b.	la o distanta mai mica de 25 m inainte si dupa indicatorul de statie pentru mijloacele de transport public de persoane;
+c.	la o distanta de 5 m in spatele ultimului vagon de tramvai oprit intr-o statie fara refugiu pentru pietoni.
+1110
+n
+Oprirea este interzisa:
+a.	pe strazile unde circulatia se desfasoara in sens unic;
+b.	in zona de actiune a indicatorului care interzice depasirea;
+c.	in dreptul altui vehicul care se afla oprit, daca prin aceasta se stanjeneste circulatia a doua vehicule venind din sensuri opuse.
+1011
+n
+Unde este interzisa oprirea?
+a.	in zona de actiune a indicatorului "Drum ingustat";
+b.	in zona de actiune a indicatoarelor care interzic depasirea;
+c.	in dreptul altui vehicul stationat, daca prin aceasta se stanjeneste circulatia a doua vehicule venind din sensuri opuse.
+1111
+n

@@ -1,0 +1,295 @@
+49
+Ordinea de trecere a autovehiculelor prin intersectie este:
+a.	bicicleta, autoturismul, motocicleta;
+b.	autoturismul, bicicleta, motocicleta;
+c.	bicicleta, motocicleta, autoturismul.
+1001
+y
+Care dintre cele doua autovehicule au prioritate?
+a.	autoturismul, pentru ca circula pe un drum prioritar;
+b.	motocicleta, deoarece circula din dreapta;
+c.	motocicleta, pentru ca se afla pe drumul principal.
+1100
+y
+Care dintre autovehicule au prioritate de trecere?
+a.	autocamionul si autoturismul;
+b.	autocamionul si motocicleta;
+c.	tramvaiul si motocicleta.
+1010
+y
+Ordinea de intrare in  intersectie este:
+a.	autoturismul, autocamionul, motocicleta;
+b.	motocicleta, autoturismul, autocamionul;
+c.	autoturismul, motocicleta, autocamionul.
+1001
+y
+In intersectia din imagine au prioritate de trecere:
+a.	motocicleta si autobuzul;
+b.	motocicleta;
+c.	autobuzul si autoturismul.
+1001
+y
+Care este ordinea de trecere a autovehiculelor?
+a.	autocamionul, autoturismul, motocicleta;
+b.	motocicleta, autocamionul, autoturismul;
+c.	autoturismul, motocicleta, autocamionul.
+1001
+y
+Care dintre cei doi conducatori de vehicule trebuie sa acorde prioritate pietonilor?
+a.	motociclistul;
+b.	ambii conducatori;
+c.	conducatorul autoturismului.
+1100
+y
+Care este ordinea de trecere a autovehiculelor?
+a.	motocicleta, autocamionul, autoturismul;
+b.	autocamionul, autoturismul, motocicleta;
+c.	motocicleta, autoturismul, autocamionul.
+1100
+y
+Care este ordinea de trecere prin intersectie a vehiculelor din imagine?
+a.	bicicleta, motocicleta, autocamionul;
+b.	motocicleta, autocamionul, bicicleta;
+c.	bicicleta, autocamionul, motocicleta?
+1001
+y
+Motociclistul trebuie sa cedeze trecerea:
+a.	bicicletei;
+b.	autobuzului;
+c.	ambelor vehicule.
+1001
+y
+Ce autovehicul trece primul prin intersectie si de ce?
+a.	tramvaiul, deoarece este in mers;
+b.	tramvaiul, deoarece este mijloc de transport in comun;
+c.	motocicleta deoarece vine din dreapta.
+1100
+y
+Care dintre autovehicule au prioritate de trecere in intersectia prezentata?
+a.	motocicleta si autoturismul;
+b.	autobuzul si autoturismul;
+c.	autocamionul si motocicleta.
+1001
+y
+Care este ordinea de intrare in intersectie a autovehiculelor?
+a.	motocicleta, autoturismul, bicicleta;
+b.	autoturismul, motocicleta, bicicleta;
+c.	bicicleta, motocicleta, autoturismul.
+1010
+y
+Motociclistul va intra in intersectie:
+a.	primul;
+b.	ultimul;
+c.	al doilea.
+1001
+y
+In ce ordine vor trece prin intersectie autovehiculele din imagine?
+a.	autoturismul,  motocicleta, autocamionul;
+b.	autoturismul, autocamionul, motocicleta;
+c.	motocicleta, autoturismul, autocamionul.
+1100
+y
+Care dintre indicatoare confera dreptul la prioritate?
+a.	"Prioritate pentru circulatia din sens invers";
+b.	"Drum cu prioritate";
+c.	"Circulatie in ambele sensuri".
+1010
+n
+Cum trebuie sa procedeze motociclistul la intalnirea indicatorului "Prioritate pentru circulatia din sens invers"?
+a.	opreste si acorda prioritate numai pietonilor;
+b.	continua sa circule, deoarece gabaritul ii permite acest lucru;
+c.	opreste si cedeaza trecerea vehiculelor care vin din sens opus.
+1001
+n
+Intr-o intersectie cu sens giratoriu au prioritate:
+a.	vehiculele aflate deja in intersectie, fata de cele care urmeaza sa intre;
+b.	vehiculele care circula din dreapta, fata de cele care circula din stanga;
+c.	vehiculele care vireaza la dreapta.
+1100
+n
+Cum trebuie sa procedezi la intalnirea indicatorului "Cedeaza trecerea"?
+a.	reduci viteza si intri in intersectie;
+b.	opresti si dai prioritate numai autovehiculelor;
+c.	reduci viteza, te asiguri, iar daca pe drumul transversal circula alte vehicule le acorzi prioritate.
+1001
+n
+Atunci cand intalnesti un grup de pietoni angajati  in traversare printr-un loc semnalizat cu indicator, ai obligatia:
+a.	sa-ti semnalizezi sonor prezenta;
+b.	sa opresti si sa acorzi prioritate pietonilor aflati in traversare pe sensul tau de mers;
+c.	sa reduci viteza si sa circuli cu atentie printre pietoni.
+1010
+n
+Esti obligat sa acorzi prioritate la intalnirea indicatorului:
+a.	"Oprire";
+b.	"Drum cu prioritate";
+c.	"Intersectie cu un drum fara prioritate".
+1100
+n
+Ce categorii de vehicule au prioritate pe un drum ingustat, in panta?
+a.	numai vehiculele trase sau impinse sau vehiculele cu tractiune animala;
+b.	motocicletele si motoretele care urca;
+c.	toate vehiculele care urca, daca spatiul de trecere existent este insuficient.
+1001
+n
+Ce categorii de vehicule au prioritate de trecere?
+a.	vehiculele care se pun in miscare la culoarea verde a semaforului;
+b.	vehiculele care urca, fata de cele care coboara, daca pe sensul de mers al celor care urca se afla un obstacol imobil;
+c.	vehiculele care executa virajul spre dreapta, fata de cele care circula din sens opus.
+1010
+n
+Caror pietoni este obligat motociclistul sa le acorde prioritate?
+a.	celor care traverseaza pe la coltul intersectiei;
+b.	celor care traverseaza prin locuri semnalizate cu indicatoare sau marcaje pentru trecerea pietonilor, aflati pe sensul lui de mers;
+c.	celor care traverseaza in grup.
+1010
+n
+Ce obligatii are motociclistul la intalnirea indicatorului "Prioritate fata de circulatia din sens invers"?
+a.	opreste si acorda prioritate numai autocamioanelor;
+b.	opreste si cedeaza trecerea tuturor vehiculelor;
+c.	continua sa circule, avand prioritate de trecere.
+1001
+n
+Ce categorii de vehicule nu au prioritate de trecere?
+a.	vehiculele care urmeaza sa intre intr-o intersectie cu sens giratoriu, fata de vehiculele care circula intr-o asemenea intersectie;
+b.	autovehiculele din serviciile regulate de transport public care se pun in miscare din statia prevazuta cu alveola;
+c.	vehiculele care au un regim de circulatie prioritar, atunci cand se deplaseaza in misiuni.
+1100
+n
+Esti obligat,  intr-o intersectie nedirijata,  sa acorzi prioritate de trecere unui autovehicul al ambulantei care circula din partea stanga,  avand in functiune dispozitivul special cu lumini de culoare albastra si pe cel sonor?
+a.	da;
+b.	nu, deoarece in acest caz se aplica regula prioritatii de dreapta;
+c.	nu, deoarece ambulanta nu face parte din categoria autovehiculelor cu regim prioritar.
+1100
+n
+Esti obligat,  intr-o intersectie nedirijata, sa acorzi prioritate de trecere unui autovehicul destinat stingerii incendiilor, care circula din stanga, avand in functiune semnalizarea speciala luminoasa si sonora?
+a.	nu, deoarece se aplica regula prioritatii de dreapta;
+b.	da;
+c.	nu, deoarece autovehiculul destinat stingerii incendiilor nu face parte din categoria autovehiculelor cu regim prioritar.
+1010
+n
+Ce obligatii ai la iesirea dintr-o curte, pe un drum public?
+a.	sa cedezi trecerea numai autovehiculelor;
+b.	sa cedezi trecerea tuturor vehiculelor care circula in acel moment pe drumul public;
+c.	sa cedezi trecerea numai autovehiculelor care vin din dreapta.
+1010
+n
+Ce vehicule fac exceptie de la obligatia acordarii prioritatii de trecere?
+a.	autovehiculele  din serviciile regulate de transport public, care se pun in miscare din statia prevazuta cu alveola;
+b.	autovehiculele care se pun in miscare de pe loc fata de cele care circula;
+c.	autovehiculele care ies din curti sau garaje.
+1100
+n
+Cum procedezi  cand te apropii de o intersectie unde, in afara semaforului care are in functiune  semnalul de culoare verde,  intalnesti si indicatorul  "Cedeaza trecerea"?
+a.	respecti semnificatia indicatorului rutier;
+b.	respecti semnificatia culorii semaforului;
+c.	respecti  semnificatia  semaforului si acorzi prioritate de trecere vehiculelor care circula pe drumul prioritar.
+1010
+n
+La plecarea de pe loc cu motocicleta, iti revin urmatoarele obligatii:
+a.	sa eviti ambalarea excesiva a motorului;
+b.	sa eviti bruscarea comenzilor motocicletei;
+c.	sa acorzi prioritate de trecere vehiculelor care circula pe drum, indiferent de directia de mers?
+1001
+n
+Cum trebuie sa procedezi, atunci cand intri pe autostrada folosind banda de accelerare?
+a.	sa semnalizezi stanga, pentru a-i preveni pe ceilalti conducatori sa iti acorde prioritate;
+b.	sa cedezi trecerea autovehiculelor care circula pe prima banda a autostrazii si sa nu stanjenesti in niciun fel circulatia acestora;
+c.	sa opresti si sa te asiguri din fata si din spate.
+1010
+n
+Cum vei proceda daca, intr-o intersectie, intalnesti semnalul de culoare verde al semaforului, precum si indicatorul "Oprire"?
+a.	respecti semnificatia culorii semaforului;
+b.	respecti semnificatia indicatorului rutier;
+c.	circuli cu atentie si acorzi prioritate de trecere vehiculelor de pe drumul transversal.
+1100
+n
+Neacordarea prioritatii se refera la:
+a.	nerespectarea dispozitiilor legale privind asigurarea si semnalizarea in intersectii;
+b.	nerespectarea semnificatiei semnalizarii rutiere de obligare sau de avertizare;
+c.	obligarea celor care au prioritate de trecere de a-si modifica brusc directia sau viteza de deplasare ori sa opreasca.
+1001
+n
+Ce obligatii iti revin atunci cand, pe un drum public, intalnesti autovehicule apartinand Serviciului de Ambulanta sau Serviciului Roman de Informatii, care folosesc mijloacele de avertizare luminoasa si sonora?
+a.	sa opresti imediat pe partea dreapta a partii carosabile;
+b.	sa circuli in regim normal, dar cu prudenta si cu luminile intermitente de avarie  in functiune;
+c.	sa reduci viteza si sa eliberezi banda pe care te deplasezi sau sa circuli cat mai aproape de bordura ori de acostament.
+1001
+n
+Biciclistii si conducatorii de vehicule cu tractiune animala sunt obligati sa acorde intotdeauna prioritate?
+a.	da, daca circula pe drumuri judetene sau comunale;
+b.	nu, daca semnalizarea rutiera nu prevede acest lucru;
+c.	da, deoarece viteza de deplasare este mica.
+1010
+n
+Cui acorzi prioritate daca circuli intr-o intersectie cu sens giratoriu?
+a.	vehiculelor care urmeaza sa intre  in  intersectie;
+b.	niciunui vehicul;
+c.	autobuzelor si troleibuzelor.
+1010
+n
+Cui esti obligat sa acorzi prioritate la iesirea din zonele rezidentiale  sau  pietonale?
+a.	pietonilor de pe sensul opus de circulatie;
+b.	autovehiculelor;
+c.	tuturor vehiculelor cu care te intersectezi.
+1001
+n
+Cui se acorda prioritate  de trecere la intersectia nedirijata dintre un drum national si unul judetean, comunal sau local?
+a.	vehiculelor care vin din dreapta;
+b.	vehiculelor care circula pe drumul judetean, comunal sau local;
+c.	vehiculelor care circula pe drumul national.
+1001
+n
+Cui se acorda  prioritate  de trecere la intersectia nedirijata dintre un drum judetean si unul comunal sau local?
+a.	vehiculelor care circula pe drumul comunal sau local;
+b.	vehiculelor care circula pe drumul judetean;
+c.	vehiculelor care vin din dreapta.
+1010
+n
+Cui se acorda prioritate  de trecere la intersectia nedirijata dintre un drum comunal si unul local?
+a.	vehiculelor care circula pe drumul local;
+b.	vehiculelor care circula pe drumul comunal;
+c.	vehiculelor care vin din dreapta.
+1010
+n
+Te apropii de un drum forestier, care intra in sosea din partea dreapta si de pe care iese un alt autovehicul. Cine trebuie sa astepte?
+a.	tu, pentru ca acorzi prioritate de dreapta;
+b.	autovehiculul care iese de pe drumul forestier;
+c.	autovehiculul care circula cu viteza mai mare.
+1010
+n
+Care dintre conducatorii de vehicule, ce se apropie simultan de o intersectie are prioritate de trecere, in situatia in care unul intalneste indicatorul "Oprire", iar celalalt indicatorul "Cedeaza trecerea"?
+a.	conducatorul care circula din dreapta;
+b.	conducatorul care intalneste indicatorul "Cedeaza trecerea";
+c.	conducatorul care intalneste indicatorul "Oprire".
+1100
+n
+Cum procedezi corect daca, aflandu-te in interiorul unei intersectii cu circulatie in sens giratoriu, observi ca pe un drum lateral circula o coloana cu regim de circulatie prioritar?
+a.	iti continui drumul, deoarece ai prioritate de trecere in sensul giratoriu;
+b.	opresti si acorzi prioritate coloanei cu regim prioritar;
+c.	virezi la dreapta si parasesti intersectia.
+1010
+n
+Care este regula prioritatii de trecere la intersectia a doua drumuri de aceeasi categorie, cu circulatie nedirijata?
+a.	prioritatea primului sosit;
+b.	prioritatea de dreapta;
+c.	prioritatea de drum principal.
+1010
+n
+La intalnirea carui indicator au prioritate de trecere motocicletele?
+a.	"Intersectie cu un drum fara prioritate";
+b.	"Sens unic";
+c.	"Drum cu prioritate".
+1101
+n
+Intr-o intersectie esti obligat:
+a.	sa acorzi prioritate de trecere atunci cand pietonii angajati regulamentar in traversare se afla pe sensul tau de mers;
+b.	sa circuli cat mai aproape de bordura din dreapta a drumului;
+c.	sa circuli cu o viteza care sa nu depaseasca 30 km/h in localitati sau 50 km/h in afara localitatilor, daca drumul are cel mult o banda pe sens, iar pietonii aflati pe trotuar in apropierea partii carosabile intentioneaza sa traverseze.
+1101
+n
+Ce vehicule nu au prioritate de trecere?
+a.	vehiculele care se pun in miscare, fata de cele care circula pe drumul public;
+b.	vehiculele care coboara o panta, fata de vehiculele care urca, daca sunt de aceeasi categorie;
+c.	vehiculele care executa virajul spre stanga, fata de cele care circula din sens opus.
+1101
+n

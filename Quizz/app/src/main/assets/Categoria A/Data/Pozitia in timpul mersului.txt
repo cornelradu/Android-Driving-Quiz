@@ -1,0 +1,55 @@
+8
+Ce rand vor ocupa, in intersectiile fara marcaje,  motociclistii care vor sa circule pe directia inainte?
+a.	randul din dreapta;
+b.	randul din stanga;
+c.	oricare dintre randuri.
+1001
+n
+Ce rand trebuie sa ocupi si de la ce distanta, pentru a putea executa virajul la stanga intr-o intersectie nedirijata?
+a.	randul din stanga, de la o distanta de cel putin 50 m;
+b.	randul de langa bordura, de la o distanta de cel putin 50 m;
+c.	randul din mijloc, de la o distanta de cel putin 100 m.
+1100
+n
+Poti folosi banda de langa axul drumului pe o autostrada atunci cand:
+a.	conduci motocicleta cu viteza maxima admisa;
+b.	efectuezi depasirea altor autovehicule,  daca celelalte benzi in directia de mers sunt ocupate;
+c.	nu esti precedat de alte autovehicule.
+1010
+n
+Pe care dintre benzi trebuie sa te incadrezi si de la ce distanta fata de intersectie, pentru a schimba directia de mers spre dreapta, intr-o localitate?
+a.	pe oricare banda, de la cel putin 50 m;
+b.	pe banda de langa axul drumului, de la cel putin 100 m;
+c.	pe banda din dreapta, de la cel putin 50 m.
+1001
+n
+Cum se face schimbarea directiei de mers spre stanga, intr-o intersectie neprevazuta cu marcaje de ghidare?
+a.	prin stanga centrului imaginar al intersectiei, fara a intersecta traiectoria celor care se deplaseaza din sens opus si care vireaza la stanga;
+b.	prin ocolirea centrului imaginar al intersectiei;
+c.	la libera intelegere cu cei care se deplaseaza din sens opus.
+1100
+n
+Cum trebuie sa te incadrezi daca intentionezi sa schimbi directia de mers spre stanga, intr-o intersectie prin care circula si tramvaie, iar spatiul dintre sina din dreapta si bordura trotuarului permite deplasarea vehiculelor doar pe un singur rand?
+a.	pe singurul rand ramas la dispozitie, lasand liber traseul tramvaiului;
+b.	pe linia de tramvai;
+c.	in aceasta situatie nu se poate schimba directia de mers spre stanga.
+1100
+n
+Ce obligatii ai daca intentionezi sa intri pe prima strada la dreapta, intr-o intersectie cu sens giratoriu?
+a.	ocolesti sensul giratoriu, apoi schimbi directia de mers spre dreapta;
+b.	semnalizezi intentia de a executa manevra, te asiguri, te angajezi cat mai aproape de marginea din dreapta, apoi intri pe strada respectiva;
+c.	opresti motocicleta, te asiguri si executi schimbarea directiei de mers spre dreapta.
+1010
+n
+Cum procedezi la apropierea de o intersectie in care semnalul luminos ori un indicator de prioritate permite intrarea, dar in care risti sa ramai imobilizat din cauza aglomerarii circulatiei?
+a.	iti continui deplasarea, deoarece ai prioritate;
+b.	iti este interzisa intrarea in intersectie;
+c.	nu iti revine nicio obligatie.
+1010
+n
+Pe drumul public cu cel mult doua benzi pe sens si cu o a treia banda pe care este amplasata linia tramvaiului langa axul drumului, conducatorii de motociclete:
+a.	pot folosi banda pe care este amplasata linia tramvaiului, fara sa incomodeze circulatia acestuia;
+b.	nu pot folosi banda pe care este amplasata linia tramvaiului;
+c.	legal, nu este prevazut.
+1100
+n

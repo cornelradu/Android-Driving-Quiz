@@ -1,0 +1,145 @@
+24
+Precizeaza daca motociclistul 1 din imaginea alaturata executa corect depasirea:
+a.	nu, deoarece incalca semnificatia indicatorului;
+b.	da, procedeaza regulamentar;
+c.	nu, deoarece din sens invers se apropie un autoturism.
+1010
+y
+Precizeaza daca motociclistul din imaginea alaturata s-a angajat regulamentar in depasire:
+a.	da;
+b.	nu, deoarece la mica distanta urmeaza o trecere la nivel cu calea ferata;
+c.	nu, deoarece vehiculul este prea lung.
+1100
+y
+Precizeaza daca motociclistul din imaginea alaturata executa corect depasirea:
+a.	da, daca din sens opus nu se apropie un alt autovehicul;
+b.	nu, deoarece a trecut peste marcajul longitudinal continuu;
+c.	da, daca are viteza suficient de mare.
+1010
+y
+Motociclistul din imaginea alaturata depaseste corect autocamionul?
+a.	da, deoarece nu circula niciun tren;
+b.	nu, in acest caz depasirea este interzisa;
+c.	nu, deoarece trece de axul drumului.
+1010
+y
+Motociclistul din imaginea alaturata depaseste corect autocamionul?
+a.	da, deoarece din sens invers nu se apropie niciun vehicul;
+b.	nu, deoarece a trecut de axul drumului;
+c.	nu, deoarece indicatorul din imagine interzice depasirea.
+1100
+y
+Poate fi depasit autocamionul din imagine de catre motocicleta, pe partea dreapta, in cazul in care autocamionul se deplaseaza cu o viteza mai mica de 40 km/h?
+a.	da, deoarece motocicleta are gabarit mic;
+b.	nu, in acest caz este interzisa depasirea prin partea dreapta;
+c.	nu, deoarece axul drumului este marcat cu linie continua.
+1010
+y
+Depaseste corect motociclistul din imagine cele doua autovehicule?
+a.	nu, deoarece se afla la mai putin de 50 m de coltul intersectiei;
+b.	nu, deoarece regulamentul interzice aceasta manevra;
+c.	da, deoarece indicatorul nu interzice acest lucru.
+1010
+y
+Motociclistul din imaginea alaturata procedeaza corect?
+a.	nu, pentru ca nu s-a asigurat si nu a semnalizat;
+b.	da, deoarece conducatorul autocamionului semnalizeaza apropierea de marginea din dreapta a drumului;
+c.	da, deoarece din sens invers nu circula alt autovehicul.
+1100
+y
+Care dintre cei doi conducatori procedeaza neregulamentar?
+a.	niciunul;
+b.	ambii conducatori;
+c.	motociclistul, deoarece nu s-a apropiat de marginea din dreapta a drumului, cu toate ca a fost semnalizat ca urmeaza sa fie depasit.
+1001
+y
+Motociclistul depaseste corect autocamionul?
+a.	nu, deoarece din sens invers se apropie un autovehicul;
+b.	da, depasirea este, in acest caz, regulamentara;
+c.	nu, deoarece indicatorul interzice depasirea.
+1010
+y
+Precizeaza daca motociclistul din imaginea alaturata depaseste regulamentar:
+a.	da, legea permite manevra;
+b.	nu, deoarece sunt pietoni pe partea carosabila;
+c.	nu, deoarece tramvaiul nu are usile inchise.
+1100
+y
+Depasirea efectuata de motociclistul din imagine este corecta?
+a.	nu, deoarece se afla la mai putin de 50 m de coltul intersectiei;
+b.	nu, deoarece din sens invers circula un alt autovehicul;
+c.	da, procedeaza regulamentar.
+1001
+y
+Depasirea autocamionului de catre motocicleta este efectuata regulamentar?
+a.	da, deoarece din sens invers nu circula niciun vehicul;
+b.	da, deoarece motocicleta are gabarit mic si poate depasi oriunde;
+c.	nu, depasirea este, in acest caz, interzisa.
+1001
+y
+Cum poate fi depasit un vehicul care a semnalizat intentia de a schimba directia de mers spre stanga?
+a.	prin partea stanga;
+b.	prin partea dreapta;
+c.	pe oricare parte.
+1010
+n
+Depasirea se defineste astfel:
+a.	trecerea unui vehicul inaintea altuia aflat pe acelasi sens de circulatie, prin schimbarea directiei de mers sau iesirea din banda pe care s-a aflat initial;
+b.	trecerea unui vehicul pe langa altul, care circula din sens opus;
+c.	trecerea unui vehicul pe langa altul, care circula pe banda alaturata in aceeasi directie de mers.
+1100
+n
+Se considera depasire faptul ca un vehicul de pe o banda circula mai repede decat un vehicul de pe alta banda, in aceeasi directie de mers?
+a.	da;
+b.	nu; 
+c.	legea nu prevede nimic in acest sens.
+1010
+n
+Intentia de depasire se semnalizeaza:
+a.	in momentul in care incepe manevra;
+b.	atunci cand in spatele motocicletei se afla alte vehicule;
+c.	inainte de inceperea manevrei.
+1001
+n
+Cand este interzisa depasirea unei motociclete?
+a.	la intrarea intr-o intersectie;
+b.	pe trecerile pentru pietoni;
+c.	in zona de actiune  a  indicatorului "Depasirea autovehiculelor, cu exceptia motocicletelor fara atas, interzisa".
+1010
+n
+O motocicleta poate depasi un tramvai prin stanga atunci cand:
+a.	drumul este mai lat de 7 m;
+b.	tramvaiul este oprit intr-o statie cu refugiu pentru pietoni;
+c.	intre sina din dreapta si bordura trotuarului nu exista spatiu suficient pentru depasire.
+1001
+n
+In localitate esti obligat sa semnalizezi schimbarea directiei de mers de la:
+a.	cel putin 50 m;
+b.	100 m;
+c.	25 m?
+1100
+n
+Ce obligatii ai atunci cand vrei sa executi o depasire?
+a.	sa te apropii de axul drumului, sa semnalizezi si sa revii pe partea dreapta dupa depasire;
+b.	sa te asiguri, sa semnalizezi intentia, sa pastrezi o distanta laterala suficient de mare fata de vehiculul depasit si sa reintri pe partea dreapta, dupa ce te-ai convins ca aceasta se poate face fara pericol;
+c.	sa te asiguri ca din fata nu se apropie niciun vehicul.
+1010
+n
+Pe ce parte poate fi depasit, de regula, un tramvai in mers?
+a.	pe partea stanga;
+b.	pe oricare parte;
+c.	pe partea dreapta.
+1001
+n
+Ce obligatii ai daca urmeaza sa fii depasit?
+a.	sa reduci viteza;
+b.	sa nu maresti viteza si sa te angajezi cat mai aproape de marginea din dreapta a drumului;
+c.	nu ai nicio obligatie.
+1010
+n
+Ai voie sa depasesti atunci cand din sens invers circula un alt autovehicul?
+a.	da, daca pentru efectuarea manevrei nu treci peste axul drumului;
+b.	da, daca acel vehicul se deplaseaza cat mai spre dreapta drumului;
+c.	nu.
+1100
+n

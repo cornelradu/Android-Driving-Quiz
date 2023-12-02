@@ -48,6 +48,7 @@ public class MediuDeInvatareActivity extends AppCompatActivity {
         button.setOnClickListener(v -> {
             Intent intent = new Intent(MediuDeInvatareActivity.this, AntrenamentActivity.class);
             intent.putExtra("chapter_name", originalChapterName);
+            intent.putExtra("categoria", this.getIntent().getStringExtra("categoria"));
             startActivity(intent);
 
         });
@@ -59,7 +60,7 @@ public class MediuDeInvatareActivity extends AppCompatActivity {
         setContentView(R.layout.activity_mediu_de_invatare);
 
         AssetManager assetManager = this.getAssets();
-        Category category = new Category(assetManager, "Categoria B");
+        Category category = new Category(assetManager, this.getIntent().getStringExtra("categoria"));
         Map<String, Chapter> chapters = category.getChapterMap();
         int index = 0;
         for(Map.Entry<String, Chapter> entry : chapters.entrySet()) {

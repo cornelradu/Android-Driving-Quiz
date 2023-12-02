@@ -1,0 +1,493 @@
+82
+Ce semnifica indicatorul din imagine?
+a.	"Prioritate pentru circulatia din sens invers";
+b.	"Circulatia interzisa in ambele sensuri";
+c.	"Circulatie in ambele sensuri".	
+1001
+y
+Indicatorul din imagine semnifica:
+a.	"Trecere obligatorie pentru copii";
+b.	"Accesul interzis copiilor neinsotiti";
+c.	"Copii".	
+1001
+y
+Indicatorul din imagine semnifica:
+a.	"Drum alunecos";
+b.	"Drum cu denivelari";
+c.	"Drum in lucru".	
+1010
+y
+In situatia data esti obligat:
+a.	sa circuli cu prudenta, intrucat indicatorul presemnalizeaza o trecere pentru pietoni;
+b.	sa reduci viteza;
+c.	sa claxonezi, pentru a avertiza pietonii.	
+1100
+y
+Indicatorul din imagine semnifica:
+a.	urmeaza o intersectie cu un drum fara prioritate;
+b.	este interzisa schimbarea directiei de mers la dreapta in prima intersectie;
+c.	urmeaza un sector de drum ingustat temporar.	 
+1100
+y
+La intalnirea indicatorului, esti obligat:
+a.	sa circuli cu atentie, deoarece urmeaza o curba la stanga;
+b.	sa schimbi obligatoriu directia de mers spre stanga;
+c.	sa reduci viteza, deoarece urmeaza o intersectie periculoasa.	
+1100
+y
+Accesul caror categorii de vehicule este permis pe segmentul de drum la inceputul caruia este instalat indicatorul?
+a.	al autovehiculelor;
+b.	al vehiculelor fara motor;
+c.	al mopedelor si al motocicletelor.	
+1010
+y
+In situatia data iti este interzis:
+a.	indicatorul se adreseaza conducatorilor mijloacelor de transport public de persoane;
+b.	sa circuli cu o viteza mai mica de 60 km/h;
+c.	sa circuli cu o viteza mai mare de 60 km/h.	
+1001
+y
+Cui se adreseaza interdictia impusa de indicatorul din imagine?
+a.	tuturor vehiculelor;
+b.	autoturismelor si motocicletelor;
+c.	autovehiculelor, cu exceptia motocicletelor fara atas.	
+1001
+y
+In dreptul caruia dintre cele doua indicatoare din imagine sunteti obligat sa acordati prioritate in intersectia ce urmeaza?
+a.	la al doilea indicator intalnit;
+b.	la ambele indicatoare;
+c.	la primul indicator intalnit.	 
+1100
+y
+Cum veti proceda la intalnirea indicatorului insotit de panoul aditional din imagine?
+a.	acordati prioritate numai vehiculelor ce transporta marfuri periculoase;
+b.	acordati prioritate  doar vehiculelor care circula din dreapta;
+c.	opriti, va asigurati si acordati prioritate vehiculelor care circula in intersectie.	
+1001
+y
+Caror vehicule trebuie sa le acordati prioritate, la intalnirea indicatorului?
+a.	vehiculelor care circula din dreapta;
+b.	niciunui vehicul;
+c.	vehiculelor care circula din sens opus si vireaza la stanga.	
+1010
+y
+Cum trebuie sa procedati la intalnirea indicatorului?
+a.	ocoliti centrul intersectiei prin stanga;
+b.	acordati prioritate vehiculelor care circula in intersectie;
+c.	circulati cu o viteza maxima de 40 Km/h.
+1010
+y
+Ce obligatie aveti la intalnirea indicatorului din imagine?
+a.	nu aveti nicio obligatie;
+b.	sa cedati trecerea tuturor autovehiculelor;
+c.	sa intoarceti, deoarece urmeaza un sector de drum interzis circulatiei autovehiculelor.	
+1100
+y
+Ce semnifica indicatorul din imagine?
+a.	limitare de viteza pentru vehiculele care transporta marfuri;
+b.	viteza minima obligatorie;
+c.	viteza maxima obligatorie.	 
+1010
+y
+Indicatorul semnifica:
+a.	drum destinat autovehiculelor cu greutatea pe osie mai mare de 7 t;
+b.	presemnalizarea traseului de urmat in cazul in care masa autovehiculului este mai mare de 7 t;
+c.	presemnalizarea traseului de urmat pentru autovehiculele ce transporta marfuri periculoase.	
+1010
+y
+Ce semnifica indicatorul?
+a.	drum destinat exclusiv vehiculelor cu gabarit depasit;
+b.	intrarea pe autostrada;
+c.	apropierea de o bariera.	
+1010
+y
+Ce semnifica indicatorul din imagine?
+a.	"drum pentru pietoni";
+b.	"copii";
+c.	"presemnalizare trecere pietoni".
+1010
+y
+Ce obligatie aveti la intalnirea indicatorului alaturat?
+a.	sunteti obligat sa schimbati directia de mers;
+b.	sunteti obligat sa virati la dreapta in prima intersectie;
+c.	sunteti obligat sa ocoliti prin dreapta locul unde este amplasat indicatorul.
+1001
+y
+Indicatorul din imagine semnifica:
+a.	prioritate pentru circulatia din sens invers;
+b.	prioritate fata de circulatia din sens invers;
+c.	obligatoriu inainte.
+1010
+y
+Cum veti proceda la intalnirea indicatorului alaturat, insotit de panoul aditional?
+a.	va continuati deplasarea cu atentie sporita, deoarece urmeaza un sector de drum ingustat;
+b.	acordati prioritate de trecere tuturor vehiculelor care circula din contrasens;
+c.	acordati prioritate de trecere autocamioanelor si autobuzelor.
+1100
+y
+Ce semnifica panoul aditional care insoteste indicatorul din imagine?
+a.	oprirea interzisa;
+b.	sfarsitul zonei in care oprirea este interzisa;
+c.	stationarea interzisa inainte si dupa locul unde este instalat indicatorul.
+1010
+y
+Caror vehicule le este interzis accesul la intalnirea indicatorului?
+a.	motocicletelor;
+b.	tuturor vehiculelor;
+c.	autoturismelor.
+1010
+y
+Ce semnifica indicatorul insotit de panoul aditional din imagine?
+a.	curba dubla sau o succesiune de curbe pe o distanta de 3,5 km, prima curba fiind la stanga;
+b.	curba la stanga, la o distanta de 3,5 km de indicator;
+c.	curba deosebit de periculoasa peste 3,5 km.
+1100
+y
+Care indicator se adreseaza motociclistilor?
+a.	indicatorul 1;
+b.	indicatorul 2;
+c.	indicatorul 3.
+1001
+y
+Ce obligatii aveti la intalnirea indicatorului?
+a.	reduceti viteza, va asigurati, si daca in acel moment pe drumul prioritar circula alte vehicule, opriti pentru a le acorda prioritate;
+b.	opriti in dreptul indicatorului si acordati prioritate tuturor autovehiculelor care circula in intersectie;
+c.	va continuati deplasarea deoarece sunteti pe drum cu prioritate.
+1100
+y
+Ce semnifica indicatorul?
+a.	pasaj peste calea ferata;
+b.	trecere la nivel cu linii de tramvai;
+c.	trecere la nivel cu o cale ferata fara bariere.
+1001
+y
+Ce informeaza indicatorul din imagine?
+a.	sectorul de drum ce urmeaza are o banda destinata circulatiei vehiculelor lente;
+b.	sfarsitul benzii de langa marginea carosabilului;
+c.	abatere temporara prin partea dreapta.
+1100
+y
+Ce va avertizeaza indicatorul din imagine?
+a.	urmeaza o denivelare pentru limitarea vitezei;
+b.	urmeaza un drum cu denivelari;
+c.	urmeaza un drum lunecos.
+1010
+y
+Care dintre cele doua indicatoare semnifica drum cu sens unic?
+a.	indicatorul 1;
+b.	niciunul din cele doua indicatoare;
+c.	indicatorul 2.
+1001
+y	
+Ce va avertizeaza indicatorul din imagine?
+a.	urmeaza o rampa de 10 grade;
+b.	urmeaza un drum alunecos;
+c.	urmeaza o coborare periculoasa.
+1001
+y
+Ce semnifica indicatorul?
+a.	stationarea interzisa;
+b.	sfarsitul sectorului de drum unde depasirea este interzisa;
+c.	circulatia interzisa autoturismelor.
+1010
+y
+Cum trebuie sa  procedati la intalnirea indicatorului?
+a.	semnalizati sonor intrarea in curba;
+b.	semnalizati inscrierea in curba prin mijloace specifice;
+c.	reduceti viteza si circulati cu atentie, deoarece urmeaza o curba deosebit de periculoasa.
+1001
+y
+Ce semnifica indicatorul din imagine?
+a.	sfarsitul drumului cu prioritate;
+b.	drum cu prioritate;
+c.	sfarsitul tuturor restrictiilor.
+1100
+y
+Indicatorul din imagine interzice:
+a.	sa circulati cu o viteza de 30 km/h;
+b.	sa circulati cu o viteza mai mica de 30 km/h;
+c.	sa circulati cu o viteza mai mare de 30 km/h.
+1001
+y
+Ce va avertizeaza indicatorul insotit de panoul aditional din imagine?
+a.	urmeaza o portiune de drum in rampa pe o distanta de 300 m;
+b.	urmeaza o portiune de drum cu acostament periculos, la 300 m de indicator;
+c.	urmeaza o coborare periculoasa, la 300 m de indicator.
+1001
+y
+Ce avertizeaza indicatorul din imagine?
+a.	urmeaza o trecere la nivel cu linia de tramvai;
+b.	urmeaza o statie de tramvai;
+c.	urmeaza o trecere la nivel cu o cale ferata fara bariere.
+1100
+y
+Ce categorii de vehicule poate depasi motociclistul care intalneste indicatorul din imagine?
+a.	vehicule fara motor, mopede si motociclete fara atas;
+b.	orice autovehicul, indicatorul se adreseaza doar conducatorilor de autoturisme;
+c.	autovehicule ce transporta marfa.
+1100
+y
+Ce obligatii aveti la intalnirea indicatorului?
+a.	opriti in locul cu vizibilitate maxima si acordati prioritate vehiculelor care vin din dreapta;
+b.	opriti in locul cu vizibilitate maxima, fara sa depasiti coltul intersectiei, va asigurati si acordati prioritate de trecere vehiculelor care circula pe drumul cu prioritate;
+c.	reduceti viteza, va asigurati si continuati deplasarea daca nu trece alt vehicul in acel moment.
+1010
+y
+Indicatorul din imagine semnifica:
+a.	oprirea interzisa;
+b.	stationarea interzisa;
+c.	sfarsitul tuturor restrictiilor.
+1001
+y
+Ce semnifica indicatorul alaturat?
+a.	drum cu prioritate;
+b.	sfarsitul drumului cu prioritate;
+c.	drum temporar inchis.
+1100
+y
+Care dintre indicatoarele alaturate va confera prioritate de trecere?
+a.	niciunul;
+b.	indicatorul 1;
+c.	indicatorul 2.
+1100
+y	
+Care din indicatoarele din imagine va permite schimbarea directiei de deplasare spre stanga sau spre dreapta?
+a.	indicatorul 1;
+b.	indicatorul 2;
+c.	niciunul.
+1010
+y	
+Ce semnifica indicatorul insotit de panoul aditional din imagine?
+a.	sfarsitul zonei unde este interzisa stationarea;
+b.	sfarsitul zonei unde este interzisa oprirea;
+c.	inceputul zonei unde este interzisa oprirea.
+1001
+y
+Ce avertizeaza indicatorul din imagine?
+a.	urmeaza un sector de drum cu acostament periculos;
+b.	urmeaza un sector de drum pe care se executa lucrari pe partea carosabila;
+c.	urmeaza un sector de drum in panta.
+1010
+y
+Care dintre cele doua indicatoare va obliga sa schimbati directia de mers pe prima strada la dreapta?
+a.	niciunul;
+b.	indicatorul 1;
+c.	indicatorul 2.
+1001
+y	
+Ce categorii de vehicule au dreptul sa patrunda pe sectorul de drum semnalizat de acest indicator?
+a.	autoturismele si motocicletele;
+b.	autobuzele si autoutilitarele;
+c.	vehiculele fara motor.
+1001
+y
+Care dintre cele doua indicatoare semnifica  "Statie de tramvai"?
+a.	niciunul;
+b.	indicatorul 1;
+c.	indicatorul 2.
+1010
+y
+Ce semnifica indicatorul din imagine?
+a.	semafoare;
+b.	presemnalizarea unei amenajari rutiere care ofera posibilitatea intoarcerii vehiculelor;
+c.	trecere la nivel cu o cale ferata prevazuta cu instalatie de semnalizare luminoasa.
+1100
+y
+Ce avertizeaza indicatorul?
+a.	urmeaza o trecere la nivel cu calea ferata prevazuta cu bariere sau semibariere;
+b.	urmeaza o trecere la nivel cu o cale ferata simpla, fara bariere;
+c.	urmeaza o trecere pentru pietoni.
+1100
+y
+Accesul caror tipuri de vehicule este interzis de catre indicatorul alaturat:
+a.	tuturor autovehiculelor, cu exceptia motocicletelor fara atas;
+b.	tuturor autovehiculelor;
+c.	autoturismelor.
+1100
+y
+Indicatorul din imagine interzice accesul:
+a.	motocicletelor;
+b.	bicicletelor;
+c.	autovehiculelor, cu exceptia motocicletelor fara atas.
+1100
+y
+Aveti dreptul sa circulati cu motocicleta pe sectorul de drum pe care este instalat indicatorul alaturat?
+a.	da, deoarece indicatorul nu se adreseaza conducatorilor de motociclete;
+b.	nu;
+c.	da, numai in caz de urgenta.
+1010
+y
+Ce semnifica indicatorul?
+a.	denivelare pentru limitarea vitezei;
+b.	acostament periculos;
+c.	drum cu denivelari.
+1001
+y
+Ce informeaza indicatorul alaturat?
+a.	urmeaza o zona rezidentiala;
+b.	urmeaza o zona cu viteza recomandata de 30 km/h;
+c.	urmeaza o zona cu viteza minima obligatorie de 30 km/h.
+1010
+y
+Care dintre cele doua indicatoare va confera prioritate in prima intersectie pe sensul de mers?
+a.	indicatorul 1;
+b.	indicatorul 2;
+c.	niciunul din cele doua indicatoare.
+1010
+y	
+Unde se instaleaza indicatorul:
+a.	la trecerile la nivel cu o cale ferata dubla, fara bariere;
+b.	la trecerile la nivel cu o cale ferata simpla cu bariere sau semibariere;
+c.	la trecerile la nivel cu o cale ferata dubla cu bariere sau semibariere.
+1100
+y
+Cum veti proceda la intalnirea indicatorului, insotit de panoul aditional:
+a.	acordati prioritate vehiculelor care circula din partea dreapta;
+b.	va continuati deplasarea deoarece indicatorul va confera prioritate;
+c.	acordati prioritate vehiculelor care circula pe drumul prioritar, indicat prin linia groasa pe panoul aditional.
+1001
+y
+In intersectia aflata la 100 m de indicatorul 1, veti intalni:
+a.	niciunul dintre celelalte doua indicatoare;
+b.	indicatorul 3;
+c.	indicatorul 2.
+1010
+y	
+Care dintre indicatoarele alaturate semnifica sfarsitul drumului cu prioritate?
+a.	indicatorul 1;
+b.	indicatorul 2;
+c.	ambele.
+1100
+y	
+Care dintre indicatoarele alaturate obliga la schimbarea directiei de mers spre dreapta, dupa depasirea locului unde este instalat?
+a.	indicatorul 2;
+b.	indicatorul 1;
+c.	ambele indicatoare.
+1100
+y	
+La intalnirea carui indicator nu este permisa schimbarea directiei de mers la dreapta sau la stanga?
+a.	a indicatorului 1;
+b.	a indicatorului 2;
+c.	a ambelor indicatoare.
+1010
+y	
+Care dintre indicatoarele de mai jos semnifica o cale rutiera cu sens unic?
+a.	indicatorul 2;
+b.	indicatorul 1;
+c.	ambele indicatoare.
+1001
+y	
+Ce avertizeaza indicatorul alaturat?
+a.	apropierea de o iesire spre un chei sau mal abrupt;
+b.	apropierea de un pod mobil;
+c.	apropierea de o trecere la nivel cu o cale ferata cu bariere sau semibariere.
+1010
+y
+Care dintre indicatoarele alaturate confera prioritate de trecere?
+a.	indicatorul 1;
+b.	indicatorul 2;
+c.	indicatorul 3.
+1100
+y
+Ce semnifica panourile din imagine?
+a.	panouri suplimentare la nodurile rutiere de pe autostrazi;
+b.	balize directionale de ocolire a obstacolelor prin stanga;
+c.	panouri suplimentare pentru trecerea la nivel cu calea ferata.
+1001
+y
+Panourile alaturate semnifica:
+a.	panouri suplimentare la nodurile rutiere de pe autostrazi;
+b.	presemnalizarea pe autostrada pentru spatiul de servicii;
+c.	panouri suplimentare pentru trecerea la nivel cu calea ferata.
+1100
+y
+Ce semnifica indicatorul din imagine?
+a.	presemnalizare intersectie cu sens giratoriu;
+b.	accesul interzis;
+c.	circulatia interzisa in ambele sensuri.
+1001
+y
+Ce semnifica indicatorul din imagine?
+a.	accesul interzis;
+b.	circulatia interzisa in ambele sensuri;
+c.	drum fara iesire.
+1100
+y
+Care din cele doua indicatoare nu va confera prioritate de trecere?
+a.	indicatorul 1;
+b.	indicatorul 2;
+c.	ambele indicatoare.
+1001
+y	
+Ce semnifica indicatorul din imagine?
+a.	viteza recomandata;
+b.	limitare de viteza;
+c.	viteza minima obligatorie.
+1100
+y
+Ce semnifica indicatorul alaturat?
+a.	presemnalizarea unei treceri pentru pietoni;
+b.	trecere pentru pietoni;
+c.	presemnalizarea unui loc de joaca pentru copii.
+1100
+y
+Ce semnifica indicatorul:
+a.	trecere la nivel cu o cale ferata simpla, fara bariere;
+b.	trecere la nivel cu o calea ferata simpla, fara bariere, prevazuta cu instalatie de semnalizare luminoasa automata;
+c.	trecere la nivel cu o cale ferata dubla, fara bariere.
+1100
+y
+Cum veti proceda la intalnirea indicatorului alaturat?
+a.	virati obligatoriu la dreapta;
+b.	acordati prioritate vehiculelor care circula in sensul giratoriu;
+c.	ocoliti centrul intersectiei prin stanga.
+1010
+y
+Care este banda de circulatie pe care va incadrati pentru a vira la stanga, intr-o intersectie semnalizata cu astfel de marcaje?
+a.	banda de circulatie nr. 4;
+b.	banda de circulatie nr. 1;
+c.	oricare din benzile de circulatie.
+1100
+y
+Ce semnifica marcajul rutier alaturat?
+a.	marcajul benzii de stocaj pentru virajul la dreapta;
+b.	marcajul benzii suplimentare pentru vehicule lente;
+c.	marcaj pe o banda de decelerare.
+1001
+y
+Marcajul rutier semnifica:
+a.	marcajul benzii de stocaj pentru virajul la stanga;
+b.	deviere temporara a circulatiei;
+c.	marcaj pe o banda de accelerare.
+1001
+y
+Ce semnifica marcajul rutier alaturat?
+a.	spatiu pentru oprirea in caz de urgenta;
+b.	marcaj de traversare pentru pietoni;
+c.	marcaj transversal de oprire.
+1001
+y
+Ce semnifica marcajul rutier din imagine?
+a.	marcaj de traversare pentru biciclete;
+b.	marcaj transversal de cedare a trecerii;
+c.	marcaj pentru spatii interzise.
+1010
+y
+Marcajul rutier alaturat semnifica:
+a.	marcaj pentru spatii interzise;
+b.	marcaj de traversare pentru pietoni;
+c.	marcaj de traversare pentru biciclete.
+1010
+y
+Poti trece pe sensul opus de mers, la intalnirea unui astfel de marcaj rutier?
+a.	da;
+b.	legea nu face referire la acest aspect;
+c.	nu.
+1001
+y
+Poti trece pe sensul opus de mers, la intalnirea unui astfel de marcaj rutier?
+a.	da;
+b.	legal, nu este stabilit acest aspect;
+c.	nu.
+1100
+y

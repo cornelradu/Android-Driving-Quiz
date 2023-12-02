@@ -1,0 +1,37 @@
+18
+Circulatia pe autostrazi
+1
+Conducere ecologica
+1
+Conduita preventiva
+1
+Depasirea
+2
+Indicatoare si marcaje rutiere
+1
+Intoarcerea si mersul inapoi
+1
+Masuri de prim ajutor
+1
+Obligatiile conducatorilor de vehicule
+1
+Oprirea, stationarea, parcarea
+1
+Pozitia in timpul mersului
+1
+Prioritatea de trecere
+2
+Reguli generale
+1
+Sanctiuni si infractiuni
+1
+Semnale luminoase
+1
+Semnalele conducatorilor de vehicule
+1
+Semnalele politistului
+1
+Trecerea la nivel cu calea ferata
+1
+Viteza si distanta dintre vehicule
+1

@@ -1,0 +1,14 @@
+Circulatia pe autostrazi=9
+Conducere ecologica=9
+Conduita preventiva=9
+Depasirea=17,18
+Indicatoare si marcaje rutiere=13,14,15,16,17
+Masuri de prim ajutor=9
+Obligatiile conducatorilor de autovehicule=9
+Oprirea, stationarea, parcarea=9
+Prioritatea de trecere=17,18
+Sanctiuni si infractiuni=9
+Semnale luminoase=9
+Semnalele conducatorilor de vehicule=9
+Semnalele politistilor=9
+Trecerea la nivel cu calea ferata=9

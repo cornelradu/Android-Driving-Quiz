@@ -1,0 +1,17 @@
+Circulatia pe autostrazi=7
+Conducere ecologica=7
+Conduita preventiva=7
+Depasirea=13,14
+Indicatoare si marcaje rutiere=9,10
+Masuri de prim ajutor=7
+Obligatiile conducatorilor de autovehicule=7
+Oprirea, stationarea, parcarea=7
+Pozitia in timpul mersului=7
+Prioritatea de trecere=13,14
+Reguli generale=7
+Sanctiuni si infractiuni=7
+Semnale luminoase=7
+Semnalele conducatorilor de vehicule=7
+Semnalele politistilor=7
+Trecerea la nivel cu calea ferata=7
+Viteza si distanta dintre vehicule=7
