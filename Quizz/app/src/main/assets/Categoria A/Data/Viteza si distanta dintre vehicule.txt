@@ -1,0 +1,49 @@
+8
+Care este limita maxima de viteza cu care ai voie sa conduci un autovehicul apartinand categoriei A, pe autostrazi?
+a.	130 km/h;
+b.	100 km/h;
+c.	90 km/h.
+1100
+n
+Care este limita maxima de viteza cu care ai voie sa conduci un autovehicul de categoria A in localitati?
+a.	70 km/h;
+b.	90 km/h;
+c.	50 km/h.
+1001
+n
+Care este limita maxima de viteza cu care ai voie sa conduci, pe drumurile nationale europene din afara localitatilor, un autovehicul apartinand categoriei A?
+a.	90 km/h;
+b.	70 km/h;
+c.	100 km/h.
+1001
+n
+Care este limita maxima de viteza cu care ai voie sa conduci, pe drumurile nationale europene din localitati, un autovehicul apartinand categoriei A?
+a.	70 km/h;
+b.	100 km/h;
+c.	50 km/h.
+1001
+n
+Care este limita maxima de viteza cu care ai voie sa conduci, pe drumurile judetene din afara localitatilor, un autovehicul apartinand categoriei A?
+a.	70 km/h;
+b.	50 km/h;
+c.	90 km/h.
+1001
+n
+Care este limita maxima de viteza cu care ai voie sa conduci, pe drumurile nationale europene din afara localitatilor, un autovehicul apartinand subcategoriei A1?
+a.	70 km/h;
+b.	50 km/h;
+c.	80 km/h.
+1001
+n
+Care este limita maxima de viteza cu care ai voie sa conduci, pe drumurile nationale europene din localitati, un autovehicul apartinand subcategoriei A1?
+a.	80 km/h;
+b.	50 km/h;
+c.	100 km/h.
+1010
+n
+Viteza maxima admisa pe autostrazi pentru autovehicule apartinand subcategoriei A1, conduse de persoane care au mai putin de 1 an de practica de conducere, este de:
+a.	70 km/h;
+b.	50 km/h;
+c.	90 km/h.
+1100
+n

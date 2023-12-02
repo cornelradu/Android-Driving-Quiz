@@ -1,0 +1,247 @@
+41
+Imobilizarea unei motociclete de catre politistul rutier se dispune pentru:
+a.	lipsa trusei medicale de prim ajutor;
+b.	refuzul de legitimare;
+c.	lipsa triunghiurilor reflectorizante.
+1010
+n
+Punctele de penalizare se aplica pentru:
+a.	nerespectarea semnificatiei indicatorului "Drum cu denivelari";
+b.	nerespectarea semnificatiei indicatorului "Copii";
+c.	nerespectarea semnificatiei indicatorului "Oprire", instalat la trecerea la nivel cu o cale ferata?
+1001
+n
+Cand se aplica suspendarea exercitarii dreptului de a conduce?
+a.	atunci cand titularul permisului de conducere nu a respectat semnificatia indicatorului "Ocolire", instalat pe refugiul statiilor de tramvai;
+b.	atunci cand permisul de conducere are valabilitatea expirata;
+c.	atunci cand titularul permisului de conducere a savarsit contraventii care cumuleaza 15 puncte de penalizare.
+1001
+n
+Punctele de penalizare se aplica pentru:
+a.	conducerea unei motociclete avand permisul de conducere deteriorat;
+b.	circulatia sau stationarea pe spatiul interzis care separa cele doua sensuri de circulatie pe autostrada;
+c.	circulatia cu viteza redusa.
+1010
+n
+Cand se aplica suspendarea exercitarii dreptului de a conduce?
+a.	in cazul utilizarii detectoarelor antiradar;
+b.	in cazul nerespectarii semnificatiei culorii galbene a semaforului;
+c.	in cazul nerespectarii regulilor de circulatie la trecerea unei coloane oficiale.
+1001
+n
+Esti obligat sa te supui recoltarii probelor biologice, in cazul unui accident de circulatie din care a rezultat moartea sau vatamarea integritatii corporale ori a sanatatii unor persoane?
+a.	da, dar numai daca esti vinovat de producerea accidentului;
+b.	da, in mod neconditionat;
+c.	nu, daca ai fost testat cu un aparat autorizat.
+1010
+n
+Vei fi pedepsit penal daca, in timp ce conduci motocicleta pe drumurile publice, refuzi recoltarea unor probe biologice in vederea stabilirii alcoolemiei?
+a.	numai daca esti implicat intr-un accident de circulatie;
+b.	da;
+c.	nu.
+1010
+n
+Repararea unei motociclete cu urme de accident, fara autorizatia politiei, constituie:
+a.	contraventie, si se sanctioneaza cu amenda;
+b.	infractiune, si se pedepseste cu inchisoare sau cu amenda penala;
+c.	abatere administrativa, si se sanctioneaza cu retragerea autorizatiei de functionare.
+1010
+n
+Principalele sanctiuni contraventionale sunt:
+a.	amenda si avertismentul;
+b.	amenda penala;
+c.	amenda, punctele de penalizare, precum si suspendarea exercitarii dreptului de a conduce autovehicule.
+1001
+n
+In ce situatie se retine permisul de conducere?
+a.	atunci cand nu se respecta normele referitoare la prioritatea de trecere a pietonilor;
+b.	atunci cand nu se respecta obligatia de reducere a vitezei;
+c.	atunci cand se incalca normele legale referitoare la stationare.
+1100
+n
+Permisul de conducere se retine:
+a.	in cazul repararii motocicletei fara autorizatia politiei;
+b.	in cazul incalcarii obligatiilor  privind semnificatia luminilor rosii la trecerea la nivel cu calea ferata prevazuta cu bariere;
+c.	atunci cand motocicleta nu este dotata cu oglinzi retrovizoare.
+1010
+n
+Cum se sanctioneaza trecerea cu motocicleta la semnalul luminos de culoare rosie?
+a.	cu amenda contraventionala si puncte de penalizare;
+b.	cu amenda penala;
+c.	cu amenda contraventionala si suspendarea exercitarii dreptului de a conduce autovehiculul.
+1001
+n
+Neacordarea prioritatii de catre conducatorii de motociclete pietonilor angajati in traversarea drumurilor publice, atunci cand acestia au acest drept, se sanctioneaza prin:
+a.	anularea permisului de conducere;
+b.	amenda contraventionala si puncte de penalizare;
+c.	amenda contraventionala si suspendarea exercitarii dreptului de a conduce autovehicule.
+1001
+n
+Nerespectarea semnalelor politistilor la trecerea coloanelor oficiale sau intercalarea intr-o astfel de coloana se sanctioneaza:
+a.	cu amenda penala;
+b.	cu amenda contraventionala si puncte de penalizare;
+c.	cu suspendarea exercitarii  dreptului de a conduce autotovehicule si aplicarea unei amenzi contraventionale.
+1001
+n
+Conducatorul unei motociclete angajat intr-un accident din care a rezultat moartea sau ranirea unei persoane poate parasi locul faptei fara incuviintarea politiei?
+a.	da, daca accidentul nu s-a produs din vina sa;
+b.	da, daca motocicleta a blocat circulatia;
+c.	nu, intrucat fapta constituie infractiune.
+1001
+n
+Care dintre faptele de mai jos, comise intr-un interval de 12 luni de la restituirea permisului de conducere, atrag sanctiunea contraventionala de suspendare a exercitarii dreptului de a conduce autovehicule, pentru 60 de zile?
+a.	incalcarea dispozitiilor legale cu privire la semnalizarea schimbarii directiei de mers;
+b.	acumularea din nou a cel putin 15 puncte de penalizare;
+c.	incalcarea dispozitiilor legale cu privire la folosirea luminilor din dotare pe timp de noapte.
+1010
+n
+Depasirea pe partea dreapta a sensului de mers, fara semnalizare si incadrare corespunzatoare directiei de deplasare, se sanctioneaza cu:
+a.	amenda contraventionala;
+b.	amenda contraventionala si puncte de penalizare;
+c.	amenda contraventionala si suspendarea exercitarii dreptului de a conduce autovehiculul.
+1001
+n
+Ce masuri se iau in cazul conducerii pe drumurile publice a unei motociclete cu defectiuni grave la mecanismul de directie?
+a.	amenda contraventionala;
+b.	amenda contraventionala, retinerea certificatului de inmatriculare, precum si retinerea permisului de conducere in vederea suspendarii exercitarii dreptului de a conduce autovehicule;
+c.	amenda contraventionala si retinerea certificatului de inmatriculare.
+1010
+n
+Permisul de conducere se retine pentru:
+a.	incalcarea semnificatiei luminii de culoare galbena a semaforului;
+b.	neefectuarea examenului medical;
+c.	depasirea cu mai mult de 50 km/h a vitezei maxime admise.
+1001
+n
+Care dintre faptele de mai jos se considera infractiune si se pedepseste ca atare?
+a.	parasirea locului accidentului care a avut ca urmare avarii;
+b.	sustragerea de la obligatia de a supune motocicleta inspectiei tehnice periodice;
+c.	repararea motocicletei ce prezinta urme de accident, fara autorizatia politiei.
+1001
+n
+Nerespectarea de catre conducatori a obligatiei de a opri la semnalele agentilor de cale ferata se sanctioneaza cu:
+a.	retinerea permisului de conducere;
+b.	amenda contraventionala;
+c.	amenda contraventionala si puncte de penalizare.
+1001
+n
+Masura retinerii permisului de conducere este aplicata pentru:
+a.	nerespectarea dispozitiilor legale referitoare la oprire si stationare;
+b.	nerespectarea semnalelor, indicatiilor si dispozitiilor politistului rutier aflat in exercitarea atributiilor de serviciu;
+c.	incalcarea normelor legale referitoare la semnalizarea vehiculelor.
+1010
+n
+In care dintre situatiile de mai jos se retine certificatul de inmatriculare al motocicletei, fara drept de circulatie?
+a.	cand luminile de pozitie nu functioneaza;
+b.	cand este instalat un mijloc tehnic de detectare a prezentei aparatelor radar;
+c.	cand sistemul de franare este defect.
+1001
+n
+Nerespectarea de catre conducatorul de motocicleta a obligatiei de a nu mari viteza de deplasare si de a circula cat mai aproape de marginea din dreapta a partii carosabile, atunci cand urmeaza sa fie depasit, se sanctioneaza cu:
+a.	suspendarea exercitarii dreptului de a conduce autovehicule si amenda contraventionala;
+b.	amenda contraventionala si puncte de penalizare;
+c.	amenda penala.
+1100
+n
+Exercitarea dreptului de a conduce autovehicule se suspenda:
+a.	in cazul neopririi la semnalul agentului de cale ferata;
+b.	in cazul depasirii in mod repetat, cu mai mult de 20 km/h, a vitezei maxime legale;
+c.	in cazul neprezentarii in termen de 24 de ore la unitatea de politie competenta pe raza careia s-a produs un accident cu avarierea vehiculului.
+1001
+n
+Pentru care dintre faptele de mai jos se aplica sanctiuni contraventionale?
+a.	punerea in circulatie sau conducerea pe drumurile publice a unei motociclete neinmatriculate;
+b.	conducerea motocicletei sub influenta bauturilor alcoolice, avand o imbibatie sub 0,8 g/l alcool pur in sange;
+c.	conducerea pe drumurile publice a unei motociclete de catre o persoana fara permis de conducere.
+1010
+n
+Permisul de conducere se restituie dupa promovarea testului de cunoastere a regulilor de circulatie, daca a fost retinut pentru:
+a.	conducerea sub influenta bauturilor alcoolice;
+b.	conducerea cu viteza redusa, in mod nejustificat;
+c.	neindeplinirea obligatiei de preschimbare a certificatului de inmatriculare in cazurile prevazute de lege.
+1100
+n
+Se aplica puncte de penalizare pentru:
+a.	conducerea motocicletei fara una din placutele cu numarul de inmatriculare;
+b.	conducerea motocicletei de catre o alta persoana decat proprietarul;
+c.	noxele motorului, daca depasesc limita legala admisa.
+1100
+n
+Permisul de conducere se anuleaza pentru:
+a.	nerespectarea semnalelor politistilor la trecerea coloanelor oficiale;
+b.	conducerea unei motociclete sub influenta bauturilor alcoolice;
+c.	infractiunea care a avut ca rezultat uciderea sau vatamarea corporala a unei persoane, savarsita ca urmare a nerespectarii regulilor de circulatie.
+1001
+n
+Exercitarea dreptului de a conduce se suspenda pentru:
+a.	depasirea cu cel mult 30 km/h a vitezei maxime admise;
+b.	circulatia pe sens opus, cu exceptia cazurilor in care se efectueaza regulamentar manevra de depasire;
+c.	cumul de 10 puncte de penalizare.
+1010
+n
+In ce situatie va fi imobilizata o motocicleta?
+a.	cand starea tehnica a pneurilor este necorespunzatoare;
+b.	cand numarul de inmatriculare sau inregistrare este fals;
+c.	cand conducatorul motocicletei refuza sa poarte vesta reflectorizanta.
+1010
+n
+In ce situatie esti sanctionat cu amenda contraventionala si suspendarea dreptului de a conduce?
+a.	la depasirea cu mai mult de 30 km/h a vitezei maxime admise;
+b.	la depasirea cu 20 km/h a vitezei maxime admise;
+c.	la depasirea cu mai mult de 50 km/h a vitezei maxime admise.
+1001
+n
+Conducatorul unei motociclete care a cumulat 15 puncte de penalizare este sanctionat:
+a.	cu suspendarea dreptului de a conduce autovehicule pentru o perioada de 30 de zile;
+b.	cu amenda contraventionala;
+c.	cu amenda contraventionala si suspendarea exercitarii dreptului de a conduce, pentru o perioada de 60 de zile.
+1100
+n
+Cum se pedepseste distrugerea, degradarea sau aducerea in stare de neintrebuintare in mod intentionat, a indicatoarelor, semafoarelor sau amenajarilor rutiere?
+a.	penal;
+b.	cu amenda contraventionala si puncte de penalizare;
+c.	cu suspendarea exercitarii dreptului de a conduce autovehicule.
+1100
+n
+Ce masura se ia atunci cand titularul permisului de conducere a fost declarat inapt pentru a conduce autovehicule, de catre o institutie medicala autorizata?
+a.	i se aplica sanctiunile contraventionale complementare;
+b.	i se retrage permisul de conducere;
+c.	va fi reexaminat de catre autoritatea competenta.
+1010
+n
+Permisul de conducere se anuleaza:
+a.	in urma unei condamnari, printr-o hotarare definitiva, pentru o infractiune la regimul circulatiei;
+b.	pentru incalcarea dispozitiilor legale referitoare la obligatia de a semnaliza schimbarea directiei de mers;
+c.	pentru incalcarea dispozitiilor legale referitoare la folosirea luminilor de intalnire pe timp de noapte, in afara localitatilor.
+1100
+n
+Care dintre urmatoarele actiuni se pedepsesc penal?
+a.	organizarea sau participarea la concursuri neautorizate cu vehicule sau animale,  pe drumurile publice;
+b.	instalarea de mijloace de semnalizare rutiera sau modificarea pozitiei acestora fara autorizatie legala;
+c.	blocarea cu intentie a drumului public, daca se pune in pericol siguranta circulatiei.
+1111
+n
+Care dintre faptele de mai jos constituie infractiune si se pedepseste ca atare?
+a.	conducerea pe drumul public a unei motociclete fara certificat de inmatriculare;
+b.	conducerea pe drumul public a unei motociclete neinmatriculate;
+c.	conducerea pe drumul public a unei motociclete cu numar de inmatriculare fals.
+1011
+n
+Pentru care dintre faptele de mai jos se aplica masura retinerii permisului de conducere?
+a.	pentru nerespectarea dispozitiilor legale referitoare la depasire;
+b.	pentru neoprirea la semnalul regulamentar al politistului;
+c.	pentru nerespectarea normelor privind folosirea luminilor pe timp de noapte.
+1110
+n
+Certificatul de inmatriculare sau de inregistrare se retine:
+a.	daca zgomotul in mers sau stationare depaseste limita legala admisa;
+b.	cand inspectia tehnica periodica a expirat;
+c.	cand motorul emite noxe poluante peste limitele legale admise.
+1111
+n
+Punctele de penalizare se aplica pentru:
+a.	depasirea cu 31-40 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus;
+b.	nerespectarea semnificatiei indicatorului "Oprire", instalat la trecerea la nivel cu o cale ferata;
+c.	depasirea cu 10-20 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus.
+1111
+n

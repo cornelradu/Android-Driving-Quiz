@@ -1,0 +1,19 @@
+3
+Este permisa intoarcerea unei motociclete oprite in fata barierelor instalate la trecerea la nivel cu calea ferata?
+a.	nu, intoarcerea in acest loc este interzisa;
+b.	da, daca motociclistul s-a asigurat in prealabil;
+c.	da, deoarece din sens opus nu circula alte vehicule, barierele fiind lasate.
+1100
+n
+Unde este interzisa intoarcerea motocicletei?
+a.	pe portiunile de drum unde este interzisa oprirea;
+b.	pe sectoarele de drum marcate cu o linie continua;
+c.	pe sectoarele de drum unde este interzisa stationarea.
+1110
+n
+Unde este interzisa intoarcerea motocicletei?
+a.	in locurile unde soliditatea drumului nu permite;
+b.	la o distanta mai mica de 25 m de trecerile pentru pietoni;
+c.	pe arterele cu circulatie intensa.
+1110
+n

@@ -1,0 +1,9 @@
+Circulatia pe autostrazi=15
+Indicatoare si marcaje rutiere=54,55,56,57,58,59,60,61,62,63,64
+Masuri de prim ajutor=15
+Obligatiile conducatorilor de autovehicule=15
+Oprirea, stationarea, parcarea=15
+Prioritatea de trecere=29,30
+Sanctiuni si infractiuni=15
+Semnale luminoase=15
+Semnalele politistilor=15

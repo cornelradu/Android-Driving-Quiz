@@ -10,6 +10,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Simulare"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
         android:layout_marginTop="20dp" />
 
     <Button
@@ -17,12 +19,16 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Mediu de invatare"
-        android:layout_marginTop="80dp" />
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/buttonSimulare"
+        android:layout_marginTop="20dp" />
 
     <Button
         android:id="@+id/buttonChestionareSelectate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/buttonMediuDeInvatare"
         android:text="Chestionare selectate"
-        android:layout_marginTop="140dp" />
+        android:layout_marginTop="20dp" />
 </RelativeLayout>

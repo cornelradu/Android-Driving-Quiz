@@ -1,0 +1,85 @@
+14
+In care dintre situatii  esti obligat, pe timp de noapte, sa schimbi lumina de drum cu cea de intalnire?
+a.	cand circuli in localitate, pe un drum cu mai multe benzi pe sens;
+b.	cand drumul este neiluminat;
+c.	in cazul in care din sens opus se apropie un autovehicul, de la o distanta de cel putin 200 m.
+1001
+n
+In ce situatii se poate folosi semnalizarea cu mijloace de avertizare sonora intr-o localitate in care claxonatul este interzis?
+a.	in intersectiile nedirijate;
+b.	la trecerile pentru pietoni;
+c.	ori de cate ori este necesar, pentu evitarea unui pericol imediat.
+1001
+n
+De la ce distanta fata de vehiculul care circula din sens opus, pe timp de noapte, esti obligat sa folosesti lumina de intalnire?
+a.	de la cel putin 150 m;
+b.	de la cel putin 100 m;
+c.	de la cel putin 200 m.
+1001
+n
+Schimbarea repetata a luminii de drum cu lumina de intalnire, pe timp de noapte, se foloseste:
+a.	in intersectiile care nu sunt dirijate prin semnale luminoase sau de catre un politist rutier;
+b.	la semnalizarea conducatorului de motocicleta care s-a angajat intr-o depasire periculoasa;
+c.	la intalnirea vehiculelor care vin din sens opus.
+1100
+n
+Prin distanta de 100 m pentru semnalizarea schimbarii directiei de mers in afara localitatii se intelege:
+a.	distanta parcursa din momentul semnalizarii intentiei de a efectua manevra si locul unde se produce schimbarea directiei de mers;
+b.	distanta fata de locul terminarii manevrei de depasire;
+c.	distanta fata de vehiculul care circula din spate.
+1100
+n
+De la ce distanta trebuie sa folosesti mijloacele de avertizare sonora, pentru a preveni pietonii si pe ceilalti conducatori de vehicule?
+a.	de la cel mult 30 m de acestia;
+b.	de la cel putin 25 m de acestia;
+c.	legea nu prevede o anumita distanta.
+1010
+n
+Cand ai obligatia de a folosi sistemul de lumini al motocicletei pe care o conduci?
+a.	la intalnirea cortegiilor;
+b.	pe toata durata deplasarii acesteia pe drumul public;
+c.	cand parchezi motocicleta in locuri special amenajate,  dar neiluminate in mod corespunzator.
+1010
+n
+Cand se folosesc luminile de avarie?
+a.	cand luminile de drum s-au defectat;
+b.	cand esti dezorientat in privinta traseului de urmat;
+c.	cand motocicleta este imobilizata involuntar pe partea carosabila sau in timp ce  esti remorcat.
+1001
+n
+Esti obligat sa folosesti luminile de intalnire in timpul zilei:
+a.	numai pe drumurile judetene, comunale si locale;
+b.	pe toate categoriile de drumuri;
+c.	numai pe autostrazi.
+1010
+n
+Cum trebuie sa procedezi atunci  cand circuli pe timp de noapte si din sens opus se apropie un alt autovehicul?
+a.	sa folosesti luminile de intalnire de la cel putin 200 m;
+b.	sa reduci viteza;
+c.	sa te angajezi cat mai aproape de marginea din dreapta a drumului.
+1110
+n
+Semnalizarea schimbarii directiei de mers trebuie mentinuta:
+a.	pe intreaga durata a executarii manevrei;
+b.	10 secunde de la inceperea manevrei;
+c.	legea nu prevede nimic cu privire la acest aspect.
+1100
+n
+Ce masuri trebuie sa iei atunci cand circuli in conditii atmosferice ce impiedica mult vizibilitatea?
+a.	sa circuli pe distante scurte si cu luminile de pozitie in functiune;
+b.	sa folosesti luminile de intalnire;
+c.	sa folosesti luminile de pozitie si sa circuli cat mai aproape de marginea din dreapta a drumului.
+1010
+n
+Cum trebuie sa semnalizezi intentia de a depasi alte vehicule, atunci cand conduci motocicleta noaptea, pe un drum neiluminat dintr-o localitate?
+a.	prin folosirea luminii de drum sau a claxonului;
+b.	cu luminile farurilor;
+c.	cu luminile indicatoare de directie.
+1001
+n
+Cum trebuie sa procedezi atunci cand intri, pe timp de zi, intr-un tunel iluminat necorespunzator?
+a.	circuli cu luminile de intalnire;
+b.	claxonezi;
+c.	aprinzi lumina intermitenta de avertizare.
+1100
+n

@@ -12,7 +12,9 @@ public class Question {
 
     String chapterName;
 
-    public Question(String question, String answer1, String answer2, String answer3, int correctAnswer, boolean hasImage, int num, String chapterName){
+    int id;
+
+    public Question(String question, String answer1, String answer2, String answer3, int correctAnswer, boolean hasImage, int num, String chapterName, int id){
         this.question = question;
         this.answer1 = answer1;
         this.answer2 = answer2;
@@ -21,6 +23,7 @@ public class Question {
         this.hasImage = hasImage;
         this.num = num;
         this.chapterName = chapterName;
+        this.id = id;
     }
 
     public String getQuestion(){
@@ -46,5 +49,9 @@ public class Question {
 
     public int getCorrectAnswer(){
         return this.correctAnswer;
+    }
+
+    public int getId(){
+        return this.id;
     }
 }

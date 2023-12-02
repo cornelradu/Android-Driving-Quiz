@@ -1,0 +1,7 @@
+Masuri de prim ajutor=19,20,21,22
+Obligatiile conducatorilor de autovehicule=21,22,23,24,25,26,27
+Oprirea, stationarea, parcarea=19,20
+Prioritatea de trecere=35,36
+Sanctiuni si infractiuni=18,19,20
+Semnale luminoase=18
+Semnalele politistilor=18

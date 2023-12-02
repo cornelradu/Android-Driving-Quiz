@@ -1,0 +1,163 @@
+27
+Ce obligatii ai daca ai obtinut permis de conducere pentru motociclete de mai putin de un an?
+a.	sa emiti semnale acustice ori de cate ori efectuezi o depasire;
+b.	sa circuli cu semnul distinctiv aplicat regulamentar;
+c.	sa circuli cu faza de drum in functiune, inclusiv pe timp de zi.
+1010
+n
+Cand este obligat sa opreasca conducatorul unei motociclete?
+a.	la semnalul nevazatorilor care traverseaza strada;
+b.	la apropierea de o intersectie;
+c.	la semnalul conducatorului de pietoni.
+1100
+n
+Cum trebuie sa procedezi atunci cand ajungi in spatele unui tramvai oprit intr-o statie fara refugiu pentru pietoni?
+a.	sa opresti in spatele acestuia si sa iti reiei deplasarea numai dupa ce usile tramvaiului au fost inchise;
+b.	legea nu face referire la o astfel de situatie;
+c.	sa maresti viteza si sa iti continui deplasarea.
+1100
+n
+Ce obligatii legale iti revin daca ai accidentat un pieton care traversa strada neregulamentar?
+a.	te prezinti de urgenta la cea mai apropiata unitate de politie;
+b.	anunti imediat politia, nu modifici sau stergi urmele accidentului si ramai pe loc;
+c.	deoarece vinovatia nu iti apartine, poti continua drumul daca accidentul nu este grav.
+1010
+n
+In cazul implicarii intr-un accident, poti parasi locul acestuia fara incuviintarea politiei, daca a rezultat vatamarea integritatii corporale a unei persoane?
+a.	da, daca accidentul nu s-a produs din vina ta;
+b.	da, in cazul in care motocicleta ta nu a fost avariata;
+c.	nu, intrucat savarsesti o infractiune.
+1001
+n
+Ce masuri trebuie sa ia conducatorul unei motociclete, angajat intr-un accident cu avarii usoare?
+a.	scoate motocicleta in afara partii carosabile sau, daca nu este posibil, o deplaseaza cat mai aproape de marginea drumului, dupa care anunta in termen de 24 de ore cea mai apropiata unitate de politie competenta, pentru constatarea si intocmirea documentelor legale;
+b.	anunta politia, fara a schimba pozitia motocicletei;
+c.	asteapta sosirea politistului din zona.
+1100
+n
+Prezenta, intr-o intersectie, a unei ambulante ce se deplaseaza la o interventie ii obliga pe ceilalti conducatori:
+a.	sa respecte semnificatia culorii semaforului;
+b.	sa reduca viteza si sa-si continue drumul cu atentie;
+c.	sa acorde prioritate de trecere ambulantei.
+1001
+n
+Poti schimba pozitia motocicletei daca esti implicat intr-un accident de circulatie?
+a.	da, dupa ce ai anuntat politia;
+b.	da, dupa ce ai acordat primul ajutor victimelor;
+c.	da, daca accidentul s-a soldat numai cu avarii.
+1001
+n
+Intr-un accident de circulatie din care a rezultat moartea sau vatamarea unei persoane, conducatorul de vehicul poate sa paraseasca locul faptei?
+a.	nu, fara incuviintarea politiei;
+b.	da, cu conditia sa lase motocicleta la locul accidentului;
+c.	da, daca victima a fost transportata la spital.
+1100
+n
+Cand esti obligat sa opresti?
+a.	la semnalul conducatorilor grupurilor organizate;
+b.	la semnalul patrulelor scolare de circulatie la trecerile pentru pietoni din apropierea unitatilor scolare;
+c.	cand te apropii de o intersectie sau cand esti semnalizat cu farurile de un alt participant la trafic.
+1010
+n
+Daca ai cunostinta de producerea unui accident de circulatie, in urma caruia a rezultat moartea sau vatamarea corporala a unei persoane, esti obligat:
+a.	sa opresti, sa anunti de indata politia si sa apelezi numarul national unic pentru apeluri de urgenta 112;
+b.	legal, nu iti revine nicio obligatie;
+c.	sa te informezi asupra imprejurarilor care au determinat accidentul.
+1100
+n
+Cat timp ai posibilitatea de a circula pe drumurile publice cu motocicleta avariata?
+a.	pana la expirarea asigurarii obligatorii de raspundere civila auto;
+b.	cel mult 10 zile de la data constatarii evenimentului;
+c.	cel mult 30 zile de la data producerii avariei.
+1001
+n
+Ce obligatii ai la semnalul membrilor patrulelor scolare de circulatie, la trecerile pentru pietoni din apropierea unitatilor de invatamant?
+a.	sa treci pe banda de langa axul drumului;
+b.	sa reduci viteza si sa circuli cu atentie;
+c.	sa opresti.
+1001
+n
+In care dintre situatii iti este interzis sa circuli pe drumurile publice?
+a.	atunci cand motocicleta nu are asigurare obligatorie de raspundere civila, pentru caz de pagube produse tertilor prin accidente de circulatie;
+b.	atunci cand certificatul de inmatriculare este deteriorat;
+c.	atunci cand conducatorul motocicletei nu a platit taxa de folosire a drumurilor publice.
+1100
+n
+Unde trebuie sa se deplaseze conducatorii de motociclete angajati intr-un accident de circulatie, in urma caruia au rezultat pagube materiale, pentru a obtine actul de constatare?
+a.	la serviciul judetean de politie rutiera;
+b.	la cea mai apropiata unitate de politie competenta, in maximum 24 de ore;
+c.	la unitatea de politie in raza careia domiciliaza.
+1010
+n
+Care dintre urmatoarele obligatii iti revin in calitate de conducator al unei motociclete?
+a.	sa mentii curate placutele cu numarul de inmatriculare, pentru a fi vizibile;
+b.	sa reduci viteza, atunci cand treci pe langa un politist rutier aflat in serviciu pe drumul public;
+c.	sa circuli cu o viteza inferioara celei prescrise de indicatorul "Viteza minima obligatorie".
+1100
+n
+Ce le este interzis conducatorilor de motociclete?
+a.	sa claxoneze;
+b.	sa lase ghidonul liber;
+c.	sa foloseasca luminile de avarie.
+1010
+n
+Ce obligatii iti revin atunci cand un politist iti solicita documentele pentru control?
+a.	sa prezinti certificatul de inmatriculare si cartea de identitate a motocicletei;
+b.	sa inmanezi documentele prevazute de lege;
+c.	sa prezinti documentele personale.
+1010
+n
+Ce obligatii are conducatorul unei motociclete la cererea politistului rutier, impreuna cu reprezentantul Registrului Auto Roman?
+a.	sa-l transporte la unitatea de politie;
+b.	sa prezinte documentele de calatorie;
+c.	sa permita controlul starii tehnice a motocicletei, precum si al bunurilor transportate.
+1001
+n
+Ce obligatie are conducatorul unei motociclete imobilizate intr-un pasaj subteran?
+a.	sa tracteze motocicleta pana la iesirea din pasajul subteran;
+b.	sa opreasca motorul si sa actioneze luminile de avarie;
+c.	sa anunte imediat pompierii in legatura cu locul in care se afla.
+1010
+n
+Conducatorilor de motociclete le este interzis:
+a.	sa foloseasca luminile de avarie in localitati;
+b.	sa foloseasca telefoanele mobile in timpul mersului, fara sa aiba sistem de tip "maini libere";
+c.	sa se angajeze in discutii cu alti participanti la trafic.
+1010
+n
+Ce obligatii are conducatorul unei motociclete?
+a.	sa se prezinte la termen, la unitatea de politie care l-a citat pentru solutionarea oricarei probleme legate de calitatea sa de conducator;
+b.	sa nu conduca dupa ce a consumat medicamente impotriva bolilor cronice;
+c.	sa anunte imediat cea mai apropiata unitate de politie, daca s-a imbolnavit.
+1100
+n
+Semnalele date dintr-un autovehicul al politiei, ce insoteste o coloana oficiala, prin folosirea avertizoarelor sonore si luminoase, te obliga la:
+a.	oprirea de indata pe partea dreapta a drumului, cat mai aproape de trotuar  sau  de  acostament ori, daca este posibil, in afara partii carosabile;
+b.	reducerea vitezei si deplasarea pe langa bordura sau acostament;
+c.	intrarea pe prima strada in dreapta.
+1100
+n
+Ce obligatie ii revine detinatorului unei motociclete, daca acesta a imprumutat-o unei persoane spre a fi condusa pe drumurile publice?
+a.	niciuna, deoarece persoana respectiva raspunde pentru faptele sale;
+b.	sa instruiasca acea persoana cu privire la folosirea motocicletei;
+c.	sa comunice, la solicitarea politiei, datele de identitate ale acestei persoane.
+1001
+n
+in calitate de conducator al unei motociclete, esti obligat:
+a.	sa te prezinti la verificarea medicala periodica, potrivit legii;
+b.	sa transporti politisti, la cererea acestora;
+c.	sa permiti controlul starii tehnice a motocicletei, precum si al bunurilor transportate in conditiile legii?
+1101
+n
+Conducatorilor de motociclete le este interzis:
+a.	sa savarseasca acte sau gesturi obscene;
+b.	sa ameninte participantii la trafic cu violente;
+c.	sa adreseze celorlalti participanti la trafic expresii jignitoare sau vulgare.
+1111
+n
+Cine are obligatia de a purta casca de protectie pe timpul deplasarii pe drumurile publice cu motocicleta?
+a.	persoanele transportate pe motocicleta;
+b.	conducatorii acestora;
+c.	purtarea castii de protectie este facultativa.
+1110
+n

@@ -1,0 +1,13 @@
+Circulatia pe autostrazi=11
+Conduita preventiva=11
+Depasirea=21,22
+Indicatoare si marcaje rutiere=24,25,26,27,28,29
+Masuri de prim ajutor=11
+Obligatiile conducatorilor de autovehicule=11
+Oprirea, stationarea, parcarea=11
+Prioritatea de trecere=21,22
+Sanctiuni si infractiuni=11
+Semnale luminoase=11
+Semnalele conducatorilor de vehicule=11
+Semnalele politistilor=11
+Trecerea la nivel cu calea ferata=11

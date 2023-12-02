@@ -5,6 +5,7 @@ import androidx.activity.result.ActivityResultLauncher;
 import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Intent;
 import android.content.res.AssetManager;
@@ -44,6 +45,7 @@ public class SimulareActivity extends AppCompatActivity {
 
     String[] answered;
 
+    int[] answeredCodes;
     int maxWrong = 4;
     int noAnswered = 0;
     int correctAnswered = 0;
@@ -56,16 +58,26 @@ public class SimulareActivity extends AppCompatActivity {
 
     Category category = null;
 
-
-    //finish(null, noAnswered - correctAnswered, correctAnswered, "Failed");
-    private void finish(Object object, int wrong, int correct, String result){
+    int chestionar = 0;
+    private void finish(int wrong, int correct, String result){
         Intent intent = new Intent(SimulareActivity.this, ResultInfoActivity.class);
         intent.putExtra("wrong", wrong);
         intent.putExtra("correct", correct);
         intent.putExtra("result", result);
+        intent.putExtra("answered", answered);
+
+        int[] questionIds = new int[this.category.getNoQuestions()];
+        for(int i = 0; i < questionIds.length; i++){
+            questionIds[i] = this.questionList.get(i).getId();
+        }
+        intent.putExtra("questionIds", questionIds);
+        intent.putExtra("categoria", this.category.getCategoryName());
+        intent.putExtra("answeredCodes", this.answeredCodes);
+
         startActivityForResult(intent, 1);
     }
 
+    @SuppressLint("ClickableViewAccessibility")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -73,20 +85,25 @@ public class SimulareActivity extends AppCompatActivity {
 
         AssetManager assetManager = this.getAssets();
 
-        this.category = new Category(assetManager, "Categoria B");
+
+        this.category = new Category(assetManager, getIntent().getStringExtra("categoria"));
+        maxWrong = this.category.getMaxWrong();
         final int noOfQ = this.category.getNoQuestions();
-        int chestionar = getIntent().getIntExtra("chestionar", 0);
+        this.chestionar = getIntent().getIntExtra("chestionar", 0);
         if (chestionar == 0){
             this.questionList = Quiz.generateQuiz(this.category);
         } else {
             this.questionList = Quiz.generateQuiz(this.category, chestionar);
         }
         this.answered = new String[this.category.getNoQuestions()];
+        this.answeredCodes = new int[this.category.getNoQuestions()];
         for(int i = 0; i < this.answered.length; i++){
             this.answered[i] = "Not Answered";
         }
 
-        time = 30 * 60;
+        time = category.getTimeAllowed() * 60;
+
+        AppCompatActivity that = this;
 
         final TextView questionTextView = (TextView)findViewById(R.id.question);
         questionTextView.setText(this.questionList.get(0).getQuestion());
@@ -103,20 +120,20 @@ public class SimulareActivity extends AppCompatActivity {
         ImageButton nextQuestion = (ImageButton) findViewById(R.id.nextQuestion);
         final String[] ans = this.answered;
 
-        final TextView initialQuestions = (TextView)findViewById(R.id.initial_questions);
-        initialQuestions.setText(noOfQ + " Intrebari initiale");
+        final TextView initialQuestions = (TextView)findViewById(R.id.initial_questions_num);
+        initialQuestions.setText("" + noOfQ);
 
-        final TextView remainingQuestionsView = (TextView)findViewById(R.id.remaining_questions);
-        remainingQuestionsView.setText(noOfQ + " Intrebari ramase");
+        final TextView remainingQuestionsView = (TextView)findViewById(R.id.remaining_questions_num);
+        remainingQuestionsView.setText("" + noOfQ);
 
-        final TextView correctAnswersView = (TextView)findViewById(R.id.correct_answers);
+        final TextView correctAnswersView = (TextView)findViewById(R.id.correct_answers_num);
 
-        final TextView wrongAnswersView = (TextView)findViewById(R.id.wrong_answers);
+        final TextView wrongAnswersView = (TextView)findViewById(R.id.wrong_answers_num);
 
         final ImageView imageView = (ImageView) findViewById(R.id.imageView);
         if(questionList.get(0).hasImage()) {
             try {
-                imageView.setImageBitmap(BitmapFactory.decodeStream(assetManager.open("Categoria B/Data/" + questionList.get(0).getChapterName() + "/" + questionList.get(0).getNum() + ".jpg")));
+                imageView.setImageBitmap(BitmapFactory.decodeStream(assetManager.open(this.category.getCategoryName() +"/Data/" + questionList.get(0).getChapterName() + "/" + questionList.get(0).getNum() + ".jpg")));
 
             } catch (Exception e) {
                 e.printStackTrace();
@@ -124,6 +141,7 @@ public class SimulareActivity extends AppCompatActivity {
             imageView.setVisibility(View.VISIBLE);
             ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
             lp.height = 600;
+            imageView.setLayoutParams(lp);
         }else {
             ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
             lp.height = 0;
@@ -141,6 +159,25 @@ public class SimulareActivity extends AppCompatActivity {
                 } else {
                     buttonA.setBackgroundColor(getResources().getColor(R.color.light_blue));
                 }
+
+                if(answer1Set){
+                    answer1TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer1TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+                if(answer2Set){
+                    answer2TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer2TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+
+                if(answer3Set){
+                    answer3TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer3TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
             }
         });
 
@@ -154,6 +191,25 @@ public class SimulareActivity extends AppCompatActivity {
                 } else {
                     buttonB.setBackgroundColor(getResources().getColor(R.color.light_blue));
                 }
+
+                if(answer1Set){
+                    answer1TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer1TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+                if(answer2Set){
+                    answer2TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer2TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+
+                if(answer3Set){
+                    answer3TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer3TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
             }
         });
 
@@ -161,11 +217,30 @@ public class SimulareActivity extends AppCompatActivity {
         buttonC.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                answer1Set = !answer1Set;
-                if(answer1Set){
+                answer3Set = !answer3Set;
+                if(answer3Set){
                     buttonC.setBackgroundColor(getResources().getColor(R.color.yellow));
                 } else {
                     buttonC.setBackgroundColor(getResources().getColor(R.color.light_blue));
+                }
+
+                if(answer1Set){
+                    answer1TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer1TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+                if(answer2Set){
+                    answer2TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer2TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+
+                if(answer3Set){
+                    answer3TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer3TextView.setBackgroundColor(Color.TRANSPARENT);
                 }
             }
         });
@@ -200,9 +275,28 @@ public class SimulareActivity extends AppCompatActivity {
                         answer2Set = false;
                         answer3Set = false;
 
+                        if(answer1Set){
+                            answer1TextView.setBackgroundColor(Color.YELLOW);
+                        } else {
+                            answer1TextView.setBackgroundColor(Color.TRANSPARENT);
+                        }
+
+                        if(answer2Set){
+                            answer2TextView.setBackgroundColor(Color.YELLOW);
+                        } else {
+                            answer2TextView.setBackgroundColor(Color.TRANSPARENT);
+                        }
+
+
+                        if(answer3Set){
+                            answer3TextView.setBackgroundColor(Color.YELLOW);
+                        } else {
+                            answer3TextView.setBackgroundColor(Color.TRANSPARENT);
+                        }
+
                         if(questionList.get(index).hasImage()) {
                             try {
-                                imageView.setImageBitmap(BitmapFactory.decodeStream(assetManager.open("Categoria B/Data/" + questionList.get(index).getChapterName() + "/" + questionList.get(index).getNum() + ".jpg")));
+                                imageView.setImageBitmap(BitmapFactory.decodeStream(assetManager.open(that.getIntent().getStringExtra("categoria")+"/Data/" + questionList.get(index).getChapterName() + "/" + questionList.get(index).getNum() + ".jpg")));
 
                             } catch (Exception e) {
                                 e.printStackTrace();
@@ -210,6 +304,8 @@ public class SimulareActivity extends AppCompatActivity {
                             imageView.setVisibility(View.VISIBLE);
                             ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
                             lp.height = 600;
+                            imageView.setLayoutParams(lp);
+
                         } else {
                             ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
                             lp.height = 0;
@@ -243,6 +339,25 @@ public class SimulareActivity extends AppCompatActivity {
                         answer1Set = false;
                         answer2Set = false;
                         answer3Set = false;
+
+                        if(answer1Set){
+                            answer1TextView.setBackgroundColor(Color.YELLOW);
+                        } else {
+                            answer1TextView.setBackgroundColor(Color.TRANSPARENT);
+                        }
+
+                        if(answer2Set){
+                            answer2TextView.setBackgroundColor(Color.YELLOW);
+                        } else {
+                            answer2TextView.setBackgroundColor(Color.TRANSPARENT);
+                        }
+
+
+                        if(answer3Set){
+                            answer3TextView.setBackgroundColor(Color.YELLOW);
+                        } else {
+                            answer3TextView.setBackgroundColor(Color.TRANSPARENT);
+                        }
                         break;
                     }
                     case MotionEvent.ACTION_UP:
@@ -278,6 +393,8 @@ public class SimulareActivity extends AppCompatActivity {
                             sum += 1;
                         }
 
+                        answeredCodes[index] = sum;
+
                         if(expectedAnswer == sum){
                             answered[index] = "Correct";
                             correctAnswered += 1;
@@ -286,17 +403,17 @@ public class SimulareActivity extends AppCompatActivity {
                         }
                         noAnswered += 1;
 
-                        remainingQuestionsView.setText((noOfQ - noAnswered) + " Intrebari ramase");
+                        remainingQuestionsView.setText((noOfQ - noAnswered) + "");
 
-                        correctAnswersView.setText((correctAnswered) + " Raspunsuri corecte");
+                        correctAnswersView.setText((correctAnswered) + "");
 
-                        wrongAnswersView.setText((noAnswered-correctAnswered) + " Raspunsuri gresite");
+                        wrongAnswersView.setText((noAnswered-correctAnswered) + "");
 
                         if(noAnswered - correctAnswered > maxWrong){
-                            finish(null, noAnswered - correctAnswered, correctAnswered, "Failed");
+                            finish(noAnswered - correctAnswered, correctAnswered, "Failed");
                             return true;
                         } else if(noAnswered == noOfQ){
-                            finish(null, noAnswered - correctAnswered, correctAnswered, "Succeded");
+                            finish(noAnswered - correctAnswered, correctAnswered, "Succeded");
                         }
 
                         do{
@@ -321,9 +438,29 @@ public class SimulareActivity extends AppCompatActivity {
                         answer1Set = false;
                         answer2Set = false;
                         answer3Set = false;
+
+                        if(answer1Set){
+                            answer1TextView.setBackgroundColor(Color.YELLOW);
+                        } else {
+                            answer1TextView.setBackgroundColor(Color.TRANSPARENT);
+                        }
+
+                        if(answer2Set){
+                            answer2TextView.setBackgroundColor(Color.YELLOW);
+                        } else {
+                            answer2TextView.setBackgroundColor(Color.TRANSPARENT);
+                        }
+
+
+                        if(answer3Set){
+                            answer3TextView.setBackgroundColor(Color.YELLOW);
+                        } else {
+                            answer3TextView.setBackgroundColor(Color.TRANSPARENT);
+                        }
+
                         if(questionList.get(index).hasImage()) {
                             try {
-                                imageView.setImageBitmap(BitmapFactory.decodeStream(assetManager.open("Categoria B/Data/" + questionList.get(index).getChapterName() + "/" + questionList.get(index).getNum() + ".jpg")));
+                                imageView.setImageBitmap(BitmapFactory.decodeStream(assetManager.open(that.getIntent().getStringExtra("categoria") + "/Data/" + questionList.get(index).getChapterName() + "/" + questionList.get(index).getNum() + ".jpg")));
 
                             } catch (Exception e) {
 
@@ -331,6 +468,8 @@ public class SimulareActivity extends AppCompatActivity {
                             imageView.setVisibility(View.VISIBLE);
                             ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
                             lp.height = 600;
+                            imageView.setLayoutParams(lp);
+
                         }else {
                             ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
                             lp.height = 0;
@@ -350,6 +489,108 @@ public class SimulareActivity extends AppCompatActivity {
 
         });
 
+        answer1TextView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                answer1Set = !answer1Set;
+
+                if(answer1Set){
+                    buttonA.setBackgroundColor(getResources().getColor(R.color.yellow));
+                } else {
+                    buttonA.setBackgroundColor(getResources().getColor(R.color.light_blue));
+                }
+
+                if(answer1Set){
+                    answer1TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer1TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+                if(answer2Set){
+                    answer2TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer2TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+
+                if(answer3Set){
+                    answer3TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer3TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+
+            }
+        });
+
+        answer2TextView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                answer2Set = !answer2Set;
+
+                if(answer2Set){
+                    buttonB.setBackgroundColor(getResources().getColor(R.color.yellow));
+                } else {
+                    buttonB.setBackgroundColor(getResources().getColor(R.color.light_blue));
+                }
+
+                if(answer1Set){
+                    answer1TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer1TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+                if(answer2Set){
+                    answer2TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer2TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+
+                if(answer3Set){
+                    answer3TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer3TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+
+            }
+        });
+
+        answer3TextView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                answer3Set = !answer3Set;
+
+                if(answer3Set){
+                    buttonC.setBackgroundColor(getResources().getColor(R.color.yellow));
+                } else {
+                    buttonC.setBackgroundColor(getResources().getColor(R.color.light_blue));
+                }
+
+                if(answer1Set){
+                    answer1TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer1TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+                if(answer2Set){
+                    answer2TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer2TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+
+                if(answer3Set){
+                    answer3TextView.setBackgroundColor(Color.YELLOW);
+                } else {
+                    answer3TextView.setBackgroundColor(Color.TRANSPARENT);
+                }
+
+
+            }
+        });
+
         Handler handler = new Handler();
         final TextView timeRemainingVIew = (TextView)findViewById(R.id.remaining_time);
         final Runnable r = new Runnable() {
@@ -366,7 +607,126 @@ public class SimulareActivity extends AppCompatActivity {
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
-           super.onBackPressed();
+        if(resultCode != 2 && resultCode != 3) {
+            super.onBackPressed();
+        } else {
+
+
+            if(resultCode == 3){
+                if(this.chestionar != 0){
+                    super.onBackPressed();
+                    return;
+                }
+                this.questionList = Quiz.generateQuiz(this.category);
+            }
+            this.noAnswered=0;
+            this.answered = new String[this.category.getNoQuestions()];
+            this.answeredCodes = new int[this.category.getNoQuestions()];
+            this.correctAnswered = 0;
+            this.index = 0;
+            time = category.getTimeAllowed() * 60;
+            final TextView timeRemainingVIew = (TextView)findViewById(R.id.remaining_time);
+            timeRemainingVIew.setText(time/3600 + ":" + (time/60) + ":" + (time%60) + " Timp ramas");
+
+            for(int i = 0; i < this.answered.length; i++){
+                this.answered[i] = "Not Answered";
+            }
+
+            AssetManager assetManager = this.getAssets();
+
+            final TextView questionTextView = (TextView)findViewById(R.id.question);
+            questionTextView.setText(this.questionList.get(0).getQuestion());
+
+            final TextView answer1TextView = (TextView)findViewById(R.id.answer1);
+            answer1TextView.setText(this.questionList.get(0).getAnswers()[0]);
+
+            final TextView answer2TextView = (TextView)findViewById(R.id.answer2);
+            answer2TextView.setText(this.questionList.get(0).getAnswers()[1]);
+
+            final TextView answer3TextView = (TextView)findViewById(R.id.answer3);
+            answer3TextView.setText(this.questionList.get(0).getAnswers()[2]);
+
+            ImageButton nextQuestion = (ImageButton) findViewById(R.id.nextQuestion);
+
+            final TextView initialQuestions = (TextView)findViewById(R.id.initial_questions_num);
+            initialQuestions.setText("" + this.category.getNoQuestions());
+
+            final TextView remainingQuestionsView = (TextView)findViewById(R.id.remaining_questions_num);
+            remainingQuestionsView.setText("" + this.category.getNoQuestions());
+
+            final TextView correctAnswersView = (TextView)findViewById(R.id.correct_answers_num);
+            correctAnswersView.setText("0");
+
+
+            final TextView wrongAnswersView = (TextView)findViewById(R.id.wrong_answers_num);
+            wrongAnswersView.setText("0");
+
+            final ImageView imageView = (ImageView) findViewById(R.id.imageView);
+            if(questionList.get(0).hasImage()) {
+                try {
+                    imageView.setImageBitmap(BitmapFactory.decodeStream(assetManager.open( this.category.getCategoryName() +"/Data/" + questionList.get(0).getChapterName() + "/" + questionList.get(0).getNum() + ".jpg")));
+
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+                imageView.setVisibility(View.VISIBLE);
+                ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
+                lp.height = 600;
+                imageView.setLayoutParams(lp);
+
+            }else {
+                ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
+                lp.height = 0;
+                imageView.setLayoutParams(lp);
+                imageView.setVisibility(View.INVISIBLE);
+            }
+
+            answer1Set = false;
+            answer2Set = false;
+            answer3Set = false;
+
+            final Button buttonA = (Button) findViewById(R.id.buttonA);
+            final Button buttonB = (Button) findViewById(R.id.buttonB);
+            final Button buttonC = (Button) findViewById(R.id.buttonC);
+
+
+            if(answer3Set){
+                buttonC.setBackgroundColor(getResources().getColor(R.color.yellow));
+            } else {
+                buttonC.setBackgroundColor(getResources().getColor(R.color.light_blue));
+            }
+
+            if(answer2Set){
+                buttonB.setBackgroundColor(getResources().getColor(R.color.yellow));
+            } else {
+                buttonB.setBackgroundColor(getResources().getColor(R.color.light_blue));
+            }
+
+            if(answer1Set){
+                buttonA.setBackgroundColor(getResources().getColor(R.color.yellow));
+            } else {
+                buttonA.setBackgroundColor(getResources().getColor(R.color.light_blue));
+            }
+
+            if(answer1Set){
+                answer1TextView.setBackgroundColor(Color.YELLOW);
+            } else {
+                answer1TextView.setBackgroundColor(Color.TRANSPARENT);
+            }
+
+            if(answer2Set){
+                answer2TextView.setBackgroundColor(Color.YELLOW);
+            } else {
+                answer2TextView.setBackgroundColor(Color.TRANSPARENT);
+            }
+
+
+            if(answer3Set){
+                answer3TextView.setBackgroundColor(Color.YELLOW);
+            } else {
+                answer3TextView.setBackgroundColor(Color.TRANSPARENT);
+            }
+        }
     }
 
 }

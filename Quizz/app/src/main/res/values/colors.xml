@@ -10,6 +10,7 @@
     <color name="light_blue">#FFADD8E6</color>
     <color name="yellow">#FFFFFF00</color>
     <color name="blue">#FF1E90FF</color>
-    <color name="green">#FF00FF00</color>
+    <color name="green">#4B7A47</color>
     <color name="red">#FFFF0000</color>
+    <color name="gray">#808080</color>
 </resources>
