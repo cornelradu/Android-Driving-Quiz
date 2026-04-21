@@ -117,7 +117,6 @@ public class SimulareActivity extends AppCompatActivity {
         final TextView answer3TextView = (TextView)findViewById(R.id.answer3);
         answer3TextView.setText(this.questionList.get(0).getAnswers()[2]);
 
-        ImageButton nextQuestion = (ImageButton) findViewById(R.id.nextQuestion);
         final String[] ans = this.answered;
 
         final TextView initialQuestions = (TextView)findViewById(R.id.initial_questions_num);
@@ -130,14 +129,20 @@ public class SimulareActivity extends AppCompatActivity {
 
         final TextView wrongAnswersView = (TextView)findViewById(R.id.wrong_answers_num);
 
+        ImageButton nextQuestion = (ImageButton) findViewById(R.id.nextQuestion);
+        final ImageButton sendAnswer = (ImageButton) findViewById(R.id.sendAnswer);
         final ImageView imageView = (ImageView) findViewById(R.id.imageView);
-        if(questionList.get(0).hasImage()) {
-            try {
-                imageView.setImageBitmap(BitmapFactory.decodeStream(assetManager.open(this.category.getCategoryName() +"/Data/" + questionList.get(0).getChapterName() + "/" + questionList.get(0).getNum() + ".jpg")));
 
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
+        if(questionList.get(0).hasImage()) {
+            com.example.quizz.logic.ImageManager.getInstance().displayImage(
+                    this,
+                    this.category.getCategoryName(),
+                    questionList.get(0).getChapterName(),
+                    questionList.get(0).getNum(),
+                    imageView,
+                    nextQuestion,
+                    sendAnswer
+            );
             imageView.setVisibility(View.VISIBLE);
             ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
             lp.height = 600;
@@ -295,12 +300,15 @@ public class SimulareActivity extends AppCompatActivity {
                         }
 
                         if(questionList.get(index).hasImage()) {
-                            try {
-                                imageView.setImageBitmap(BitmapFactory.decodeStream(assetManager.open(that.getIntent().getStringExtra("categoria")+"/Data/" + questionList.get(index).getChapterName() + "/" + questionList.get(index).getNum() + ".jpg")));
-
-                            } catch (Exception e) {
-                                e.printStackTrace();
-                            }
+                            com.example.quizz.logic.ImageManager.getInstance().displayImage(
+                                    SimulareActivity.this,
+                                    that.getIntent().getStringExtra("categoria"),
+                                    questionList.get(index).getChapterName(),
+                                    questionList.get(index).getNum(),
+                                    imageView,
+                                    nextQuestion,
+                                    sendAnswer
+                            );
                             imageView.setVisibility(View.VISIBLE);
                             ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
                             lp.height = 600;
@@ -371,7 +379,6 @@ public class SimulareActivity extends AppCompatActivity {
 
         });
 
-        final ImageButton sendAnswer = (ImageButton) findViewById(R.id.sendAnswer);
         sendAnswer.setOnTouchListener(new View.OnTouchListener() {
             @Override
             public boolean onTouch(View v, MotionEvent event) {
@@ -459,12 +466,15 @@ public class SimulareActivity extends AppCompatActivity {
                         }
 
                         if(questionList.get(index).hasImage()) {
-                            try {
-                                imageView.setImageBitmap(BitmapFactory.decodeStream(assetManager.open(that.getIntent().getStringExtra("categoria") + "/Data/" + questionList.get(index).getChapterName() + "/" + questionList.get(index).getNum() + ".jpg")));
-
-                            } catch (Exception e) {
-
-                            }
+                            com.example.quizz.logic.ImageManager.getInstance().displayImage(
+                                    SimulareActivity.this,
+                                    that.getIntent().getStringExtra("categoria"),
+                                    questionList.get(index).getChapterName(),
+                                    questionList.get(index).getNum(),
+                                    imageView,
+                                    nextQuestion,
+                                    sendAnswer
+                            );
                             imageView.setVisibility(View.VISIBLE);
                             ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
                             lp.height = 600;
@@ -663,12 +673,15 @@ public class SimulareActivity extends AppCompatActivity {
 
             final ImageView imageView = (ImageView) findViewById(R.id.imageView);
             if(questionList.get(0).hasImage()) {
-                try {
-                    imageView.setImageBitmap(BitmapFactory.decodeStream(assetManager.open( this.category.getCategoryName() +"/Data/" + questionList.get(0).getChapterName() + "/" + questionList.get(0).getNum() + ".jpg")));
-
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
+                com.example.quizz.logic.ImageManager.getInstance().displayImage(
+                        this,
+                        this.category.getCategoryName(),
+                        questionList.get(0).getChapterName(),
+                        questionList.get(0).getNum(),
+                        imageView,
+                        (View) findViewById(R.id.nextQuestion),
+                        (View) findViewById(R.id.sendAnswer)
+                );
                 imageView.setVisibility(View.VISIBLE);
                 ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
                 lp.height = 600;

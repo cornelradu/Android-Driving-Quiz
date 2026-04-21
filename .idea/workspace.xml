@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="190ae62c-7e28-40de-8088-317bb2bb3050" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quizz/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Quizz/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quizz/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Quizz/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quizz/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Quizz/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +22,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2YgJcNq7NmzIT7nXLsTUXk0dTND" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,6 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "AnalyzeApkAction.lastApkPath": "C:/Users/corne/Documents/GitHub/Android-Driving-Quiz",
+    "Gradle.C:/Users/corne/Documents/GitHub/Android-Driving-Quiz/Quizz/app/build.gradle.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -55,10 +50,10 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "tasks"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Android App.Unnamed">
+  <component name="RunManager" selected="Gradle.C:/Users/corne/Documents/GitHub/Android-Driving-Quiz/Quizz/app/build.gradle">
     <configuration name="Unnamed (1)" type="AndroidRunConfigurationType" factoryName="Android App" nameIsGenerated="true">
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
       <option name="DEPLOY" value="true" />

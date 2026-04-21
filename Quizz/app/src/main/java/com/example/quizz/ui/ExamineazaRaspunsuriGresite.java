@@ -126,21 +126,17 @@ public class ExamineazaRaspunsuriGresite extends AppCompatActivity {
         final TextView answer3TextView = (TextView)findViewById(R.id.answer3);
         answer3TextView.setText(this.questionList.get(0).getAnswers()[2]);
 
-        Button nextQuestion = (Button ) findViewById(R.id.nextQuestion);
-
-        Button reiaChestionarul = (Button) findViewById(R.id.reiaChestionarul);
-
-
-        Button chestionarNou = (Button) findViewById(R.id.chestionarNou);
-
         final ImageView imageView = (ImageView) findViewById(R.id.imageView);
+        Button nextQuestion = (Button ) findViewById(R.id.nextQuestion);
         if(questionList.get(0).hasImage()) {
-            try {
-                imageView.setImageBitmap(BitmapFactory.decodeStream(assetManager.open( this.getIntent().getStringExtra("categoria")+ "/Data/" + questionList.get(0).getChapterName() + "/" + questionList.get(0).getNum() + ".jpg")));
-
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
+            com.example.quizz.logic.ImageManager.getInstance().displayImage(
+                    this,
+                    this.getIntent().getStringExtra("categoria"),
+                    questionList.get(0).getChapterName(),
+                    questionList.get(0).getNum(),
+                    imageView,
+                    nextQuestion
+            );
             imageView.setVisibility(View.VISIBLE);
             ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
             lp.height = 600;
@@ -153,6 +149,10 @@ public class ExamineazaRaspunsuriGresite extends AppCompatActivity {
 
         AppCompatActivity that = this;
         final List<Question> qList = this.questionList;
+        Button reiaChestionarul = (Button) findViewById(R.id.reiaChestionarul);
+
+
+        Button chestionarNou = (Button) findViewById(R.id.chestionarNou);
 
         reiaChestionarul.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -232,12 +232,14 @@ public class ExamineazaRaspunsuriGresite extends AppCompatActivity {
 
 
                         if(qList.get(index).hasImage()) {
-                            try {
-                                imageView.setImageBitmap(BitmapFactory.decodeStream(assetManager.open( that.getIntent().getStringExtra("categoria") + "/Data/" + qList.get(index).getChapterName() + "/" + qList.get(index).getNum() + ".jpg")));
-
-                            } catch (Exception e) {
-                                e.printStackTrace();
-                            }
+                            com.example.quizz.logic.ImageManager.getInstance().displayImage(
+                                    ExamineazaRaspunsuriGresite.this,
+                                    that.getIntent().getStringExtra("categoria"),
+                                    qList.get(index).getChapterName(),
+                                    qList.get(index).getNum(),
+                                    imageView,
+                                    nextQuestion
+                            );
                             imageView.setVisibility(View.VISIBLE);
                             ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
                             lp.height = 600;
