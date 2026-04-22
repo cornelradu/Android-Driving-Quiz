@@ -27,6 +27,8 @@ import com.example.quizz.R;
 import com.example.quizz.logic.Category;
 import com.example.quizz.logic.Question;
 import com.example.quizz.logic.Quiz;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.MobileAds;
 
 import java.util.List;
 
@@ -612,6 +614,10 @@ public class SimulareActivity extends AppCompatActivity {
         };
 
         handler.postDelayed(r, 1000);
+        MobileAds.initialize(this, initializationStatus -> {});
+        com.google.android.gms.ads.AdView mAdView = findViewById(R.id.adView);
+        AdRequest adRequest = new com.google.android.gms.ads.AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
     }
 
     @Override

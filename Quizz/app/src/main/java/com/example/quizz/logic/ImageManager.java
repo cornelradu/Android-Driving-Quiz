@@ -151,6 +151,7 @@ public class ImageManager {
                 String urlString = BASE_URL + encodedPath;
                 URL url = new URL(urlString);
                 connection = (HttpURLConnection) url.openConnection();
+                connection.setRequestProperty("x-api-key", BuildConfig.BACKEND_API_KEY);
                 connection.setConnectTimeout(5000);
                 connection.setReadTimeout(5000);
                 connection.setDoInput(true);

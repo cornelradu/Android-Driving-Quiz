@@ -156,6 +156,18 @@
                     android:textColor="@color/black"/>
             </LinearLayout>
 
+
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/info_bar_2"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp"
+                ads:adSize="BANNER"
+                ads:adUnitId="ca-app-pub-3940256099942544/6300978111" />
+
             <ImageView
                 android:id="@+id/imageView"
                 android:layout_width="fill_parent"
@@ -163,12 +175,14 @@
                 android:scaleType="fitXY"
                 android:layout_below="@+id/question" />
 
+
+
             <TextView
                 android:id="@+id/question"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginTop="10dp"
-                android:layout_below="@+id/info_bar_2"
+                android:layout_below="@+id/adView"
                 android:textStyle="bold"
                 android:paddingHorizontal="10dp"
                 android:text="Question 1?" />
