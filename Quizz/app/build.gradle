@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.quizz'
+    namespace 'com.dmradu.quiz'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.quizz"
+        applicationId "com.dmradu.quiz"
         minSdk 26
         targetSdk 33
         versionCode 1

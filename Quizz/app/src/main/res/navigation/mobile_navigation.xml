@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.example.quizz.ui.home.HomeFragment"
+        android:name="com.dmradu.quiz.ui.home.HomeFragment"
         android:label="Acasa"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_training"
-        android:name="com.example.quizz.ui.Training"
+        android:name="com.dmradu.quiz.ui.AntrenamentActivity"
         android:label="Antrenament"
         tools:layout="@layout/fragment_training" />
 
     <fragment
         android:id="@+id/navigation_simulation"
-        android:name="com.example.quizz.ui.SimulationActivity"
+        android:name="com.dmradu.quiz.ui.SimulareActivity"
         android:label="Simulare"
         tools:layout="@layout/fragment_simulation" />
 </navigation>
