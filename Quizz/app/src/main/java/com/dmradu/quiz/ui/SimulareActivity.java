@@ -17,6 +17,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.material.card.MaterialCardView;
 import com.dmradu.quiz.R;
 import com.dmradu.quiz.logic.Category;
 import com.dmradu.quiz.logic.Question;
@@ -129,6 +130,10 @@ public class SimulareActivity extends AppCompatActivity {
         final Button buttonB = findViewById(R.id.buttonB);
         final Button buttonC = findViewById(R.id.buttonC);
 
+        final MaterialCardView cardA = findViewById(R.id.cardA);
+        final MaterialCardView cardB = findViewById(R.id.cardB);
+        final MaterialCardView cardC = findViewById(R.id.cardC);
+
         int noOfQ = category.getNoQuestions();
         initialQuestions.setText(String.valueOf(noOfQ));
         remainingQuestionsView.setText(String.valueOf(noOfQ));
@@ -136,10 +141,10 @@ public class SimulareActivity extends AppCompatActivity {
 
         // Selection Logic
         View.OnClickListener answerClick = v -> {
-            if (v == buttonA || v == answer1TextView) answer1Set = !answer1Set;
-            else if (v == buttonB || v == answer2TextView) answer2Set = !answer2Set;
-            else if (v == buttonC || v == answer3TextView) answer3Set = !answer3Set;
-            updateSelectionColors(buttonA, buttonB, buttonC, answer1TextView, answer2TextView, answer3TextView);
+            if (v == buttonA || v == answer1TextView || v == cardA) answer1Set = !answer1Set;
+            else if (v == buttonB || v == answer2TextView || v == cardB) answer2Set = !answer2Set;
+            else if (v == buttonC || v == answer3TextView || v == cardC) answer3Set = !answer3Set;
+            updateSelectionColors(buttonA, buttonB, buttonC, cardA, cardB, cardC);
         };
 
         buttonA.setOnClickListener(answerClick);
@@ -148,16 +153,19 @@ public class SimulareActivity extends AppCompatActivity {
         answer1TextView.setOnClickListener(answerClick);
         answer2TextView.setOnClickListener(answerClick);
         answer3TextView.setOnClickListener(answerClick);
+        cardA.setOnClickListener(answerClick);
+        cardB.setOnClickListener(answerClick);
+        cardC.setOnClickListener(answerClick);
 
         // Navigation
         nextQuestion.setOnClickListener(v -> {
             moveToNextUnanswered();
-            resetSelection(buttonA, buttonB, buttonC, answer1TextView, answer2TextView, answer3TextView);
+            resetSelection(buttonA, buttonB, buttonC, cardA, cardB, cardC);
             updateQuestionUI(questionTextView, answer1TextView, answer2TextView, answer3TextView, imageView, nextQuestion, sendAnswer);
         });
 
         buttonDeleteAnswer.setOnClickListener(v -> {
-            resetSelection(buttonA, buttonB, buttonC, answer1TextView, answer2TextView, answer3TextView);
+            resetSelection(buttonA, buttonB, buttonC, cardA, cardB, cardC);
         });
 
         sendAnswer.setOnClickListener(v -> {
@@ -169,7 +177,7 @@ public class SimulareActivity extends AppCompatActivity {
                 finishQuiz(noAnswered - correctAnswered, correctAnswered, "Succeeded");
             } else {
                 moveToNextUnanswered();
-                resetSelection(buttonA, buttonB, buttonC, answer1TextView, answer2TextView, answer3TextView);
+                resetSelection(buttonA, buttonB, buttonC, cardA, cardB, cardC);
                 updateQuestionUI(questionTextView, answer1TextView, answer2TextView, answer3TextView, imageView, nextQuestion, sendAnswer);
             }
         });
@@ -216,22 +224,27 @@ public class SimulareActivity extends AppCompatActivity {
         }
     }
 
-    private void updateSelectionColors(Button bA, Button bB, Button bC, TextView t1, TextView t2, TextView t3) {
+    private void updateSelectionColors(Button bA, Button bB, Button bC, MaterialCardView cA, MaterialCardView cB, MaterialCardView cC) {
         int yellow = getResources().getColor(R.color.yellow);
         int lightBlue = getResources().getColor(R.color.light_blue);
+        int white = Color.WHITE;
 
         bA.setBackgroundTintList(android.content.res.ColorStateList.valueOf(answer1Set ? yellow : lightBlue));
         bB.setBackgroundTintList(android.content.res.ColorStateList.valueOf(answer2Set ? yellow : lightBlue));
         bC.setBackgroundTintList(android.content.res.ColorStateList.valueOf(answer3Set ? yellow : lightBlue));
 
-        t1.setBackgroundColor(answer1Set ? Color.YELLOW : Color.TRANSPARENT);
-        t2.setBackgroundColor(answer2Set ? Color.YELLOW : Color.TRANSPARENT);
-        t3.setBackgroundColor(answer3Set ? Color.YELLOW : Color.TRANSPARENT);
+        cA.setCardBackgroundColor(android.content.res.ColorStateList.valueOf(answer1Set ? yellow : white));
+        cB.setCardBackgroundColor(android.content.res.ColorStateList.valueOf(answer2Set ? yellow : white));
+        cC.setCardBackgroundColor(android.content.res.ColorStateList.valueOf(answer3Set ? yellow : white));
+        
+        cA.setStrokeColor(android.content.res.ColorStateList.valueOf(answer1Set ? yellow : Color.parseColor("#DDDDDD")));
+        cB.setStrokeColor(android.content.res.ColorStateList.valueOf(answer2Set ? yellow : Color.parseColor("#DDDDDD")));
+        cC.setStrokeColor(android.content.res.ColorStateList.valueOf(answer3Set ? yellow : Color.parseColor("#DDDDDD")));
     }
 
-    private void resetSelection(Button bA, Button bB, Button bC, TextView t1, TextView t2, TextView t3) {
+    private void resetSelection(Button bA, Button bB, Button bC, MaterialCardView cA, MaterialCardView cB, MaterialCardView cC) {
         answer1Set = answer2Set = answer3Set = false;
-        updateSelectionColors(bA, bB, bC, t1, t2, t3);
+        updateSelectionColors(bA, bB, bC, cA, cB, cC);
     }
 
     private void moveToNextUnanswered() {
