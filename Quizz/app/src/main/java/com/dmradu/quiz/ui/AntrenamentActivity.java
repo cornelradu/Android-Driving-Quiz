@@ -100,12 +100,13 @@ public class AntrenamentActivity extends AppCompatActivity {
         remainingQuestionsView.setText(String.valueOf(questionList.size()));
 
         updateQuestionUI(questionTextView, answer1TextView, answer2TextView, answer3TextView, imageView, nextQuestion, sendAnswer);
+        sendAnswer.setEnabled(false);
 
         View.OnClickListener answerClick = v -> {
             if (v == buttonA || v == answer1TextView || v == cardA) answer1Set = !answer1Set;
             else if (v == buttonB || v == answer2TextView || v == cardB) answer2Set = !answer2Set;
             else if (v == buttonC || v == answer3TextView || v == cardC) answer3Set = !answer3Set;
-            updateSelectionColors(buttonA, buttonB, buttonC, cardA, cardB, cardC);
+            updateSelectionColors(buttonA, buttonB, buttonC, cardA, cardB, cardC, sendAnswer);
         };
 
         buttonA.setOnClickListener(answerClick);
@@ -120,18 +121,18 @@ public class AntrenamentActivity extends AppCompatActivity {
 
         nextQuestion.setOnClickListener(v -> {
             moveToNextUnanswered();
-            resetSelection(buttonA, buttonB, buttonC, cardA, cardB, cardC);
+            resetSelection(buttonA, buttonB, buttonC, cardA, cardB, cardC, sendAnswer);
             updateQuestionUI(questionTextView, answer1TextView, answer2TextView, answer3TextView, imageView, nextQuestion, sendAnswer);
         });
 
         buttonDeleteAnswer.setOnClickListener(v -> {
-            resetSelection(buttonA, buttonB, buttonC, cardA, cardB, cardC);
+            resetSelection(buttonA, buttonB, buttonC, cardA, cardB, cardC, sendAnswer);
         });
 
         sendAnswer.setOnClickListener(v -> {
             processAnswer(remainingQuestionsView, correctAnswersView, wrongAnswersView);
             moveToNextUnanswered();
-            resetSelection(buttonA, buttonB, buttonC, cardA, cardB, cardC);
+            resetSelection(buttonA, buttonB, buttonC, cardA, cardB, cardC, sendAnswer);
             updateQuestionUI(questionTextView, answer1TextView, answer2TextView, answer3TextView, imageView, nextQuestion, sendAnswer);
         });
 
@@ -142,7 +143,7 @@ public class AntrenamentActivity extends AppCompatActivity {
                     int requestedIndex = Integer.parseInt(s.toString()) - 1;
                     if (requestedIndex >= 0 && requestedIndex < questionList.size()) {
                         index = requestedIndex;
-                        resetSelection(buttonA, buttonB, buttonC, cardA, cardB, cardC);
+                        resetSelection(buttonA, buttonB, buttonC, cardA, cardB, cardC, sendAnswer);
                         updateQuestionUI(questionTextView, answer1TextView, answer2TextView, answer3TextView, imageView, nextQuestion, sendAnswer);
                     }
                 } catch (Exception ignored) {}
@@ -174,7 +175,7 @@ public class AntrenamentActivity extends AppCompatActivity {
         }
     }
 
-    private void updateSelectionColors(Button bA, Button bB, Button bC, MaterialCardView cA, MaterialCardView cB, MaterialCardView cC) {
+    private void updateSelectionColors(Button bA, Button bB, Button bC, MaterialCardView cA, MaterialCardView cB, MaterialCardView cC, Button sendBtn) {
         int yellow = androidx.core.content.ContextCompat.getColor(this, R.color.yellow);
         int lightBlue = androidx.core.content.ContextCompat.getColor(this, R.color.light_blue);
         int white = Color.WHITE;
@@ -190,11 +191,15 @@ public class AntrenamentActivity extends AppCompatActivity {
         cA.setStrokeColor(android.content.res.ColorStateList.valueOf(answer1Set ? yellow : Color.parseColor("#DDDDDD")));
         cB.setStrokeColor(android.content.res.ColorStateList.valueOf(answer2Set ? yellow : Color.parseColor("#DDDDDD")));
         cC.setStrokeColor(android.content.res.ColorStateList.valueOf(answer3Set ? yellow : Color.parseColor("#DDDDDD")));
+
+        if (sendBtn != null) {
+            sendBtn.setEnabled(answer1Set || answer2Set || answer3Set);
+        }
     }
 
-    private void resetSelection(Button bA, Button bB, Button bC, MaterialCardView cA, MaterialCardView cB, MaterialCardView cC) {
+    private void resetSelection(Button bA, Button bB, Button bC, MaterialCardView cA, MaterialCardView cB, MaterialCardView cC, Button sendBtn) {
         answer1Set = answer2Set = answer3Set = false;
-        updateSelectionColors(bA, bB, bC, cA, cB, cC);
+        updateSelectionColors(bA, bB, bC, cA, cB, cC, sendBtn);
     }
 
     private void moveToNextUnanswered() {

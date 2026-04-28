@@ -11,6 +11,9 @@ import android.widget.Toast;
 
 import android.view.View;
 
+import com.dmradu.quiz.R;
+import com.google.android.material.card.MaterialCardView;
+
 import androidx.swiperefreshlayout.widget.CircularProgressDrawable;
 
 import com.dmradu.quiz.BuildConfig;
@@ -88,7 +91,7 @@ public class ImageManager {
             public void onImageLoaded(Bitmap bitmap) {
                 new Handler(Looper.getMainLooper()).post(() -> {
                     for (View v : viewsToDisable) {
-                        if (v != null) v.setEnabled(true);
+                        if (v != null && shouldEnableView(context, v)) v.setEnabled(true);
                     }
                     imageView.setImageBitmap(bitmap);
                 });
@@ -98,7 +101,7 @@ public class ImageManager {
             public void onTimeout() {
                 new Handler(Looper.getMainLooper()).post(() -> {
                     for (View v : viewsToDisable) {
-                        if (v != null) v.setEnabled(true);
+                        if (v != null && shouldEnableView(context, v)) v.setEnabled(true);
                     }
                     // Use a missing image placeholder
                     imageView.setImageResource(android.R.drawable.ic_menu_report_image);
@@ -110,12 +113,30 @@ public class ImageManager {
             public void onError(Exception e) {
                 new Handler(Looper.getMainLooper()).post(() -> {
                     for (View v : viewsToDisable) {
-                        if (v != null) v.setEnabled(true);
+                        if (v != null && shouldEnableView(context, v)) v.setEnabled(true);
                     }
                     e.printStackTrace();
                 });
             }
         });
+    }
+
+    private boolean shouldEnableView(Context context, View v) {
+        if (v.getId() == R.id.sendAnswer) {
+            View root = v.getRootView();
+            int yellow = context.getResources().getColor(R.color.yellow);
+            int[] cardIds = {R.id.cardA, R.id.cardB, R.id.cardC};
+            for (int id : cardIds) {
+                View card = root.findViewById(id);
+                if (card instanceof MaterialCardView) {
+                    if (((MaterialCardView) card).getCardBackgroundColor().getDefaultColor() == yellow) {
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
+        return true;
     }
 
     public void getImage(Context context, String relativePath, ImageView imageView, ImageLoaderCallback callback) {
