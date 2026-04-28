@@ -152,8 +152,8 @@ public class ImageManager {
                 URL url = new URL(urlString);
                 connection = (HttpURLConnection) url.openConnection();
                 connection.setRequestProperty("x-api-key", BuildConfig.BACKEND_API_KEY);
-                connection.setConnectTimeout(5000);
-                connection.setReadTimeout(5000);
+                connection.setConnectTimeout(25000);
+                connection.setReadTimeout(25000);
                 connection.setDoInput(true);
                 connection.connect();
                 
@@ -202,6 +202,6 @@ public class ImageManager {
                 runningTasks.remove(imageView);
                 callback.onTimeout();
             }
-        }, 5000);
+        }, 25000);
     }
 }
