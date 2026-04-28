@@ -32,10 +32,10 @@ public class ResultInfoActivity extends AppCompatActivity {
         questionTextView.setText(text);
 
         final TextView raspunsuriCorecte = (TextView)findViewById(R.id.raspunsuriCorecte);
-        raspunsuriCorecte.setText(correct + " raspunsuri corecte.");
+        raspunsuriCorecte.setText(correct + "");
 
         final TextView raspunsuriGresite = (TextView)findViewById(R.id.raspunsuriGresite);
-        raspunsuriGresite.setText(wrong + " raspunsuri gresite.");
+        raspunsuriGresite.setText(wrong + "");
 
         final Button buttonExamineaza = (Button)findViewById(R.id.buttonExamineaza);
         buttonExamineaza.setOnClickListener(new View.OnClickListener() {
