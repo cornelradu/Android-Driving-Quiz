@@ -5,47 +5,43 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.content.res.AssetManager;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.ViewGroup;
-import android.widget.Button;
-import android.widget.LinearLayout;
+import android.widget.GridLayout;
 
 import com.example.quizz.R;
 import com.example.quizz.logic.Category;
-import com.example.quizz.logic.Chapter;
-
-import java.util.Map;
+import com.google.android.material.button.MaterialButton;
 
 public class ChestionareSelectateActivity extends AppCompatActivity {
 
-    void createButton(int index, String category){
-        Button button = new Button(this);
+    void createButton(int index, String category) {
+        MaterialButton button = new MaterialButton(this, null, com.google.android.material.R.attr.materialButtonStyle);
         button.setText("Chestionar " + index);
+        button.setAllCaps(false);
+        button.setTextSize(14);
+        button.setPadding(16, 16, 16, 16);
+        button.setCornerRadius(24);
 
-        // Set any additional properties for the button if needed
+        // Grid layout parameters
+        GridLayout.LayoutParams params = new GridLayout.LayoutParams();
+        params.width = 0;
+        params.height = ViewGroup.LayoutParams.WRAP_CONTENT;
+        params.columnSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f);
+        params.rowSpec = GridLayout.spec(GridLayout.UNDEFINED);
+        params.setMargins(16, 16, 16, 16);
+        params.setGravity(Gravity.FILL);
 
-        // Create layout parameters to define how the button will be displayed
-        LinearLayout.LayoutParams layoutParams = new LinearLayout.LayoutParams(
-                400,
-                200
-        );
-
-        layoutParams.leftMargin = 50 + 500 * ((index - 1) % 2);
-        layoutParams.topMargin = 50 + 220 * ((index - 1) / 2);
-        // Add the button to the layout of the activity
+        // Add the button to the layout
         ViewGroup rootLayout = findViewById(R.id.form_layout);
-        rootLayout.addView(button, layoutParams);
+        rootLayout.addView(button, params);
 
-        button.setBackgroundColor(getResources().getColor(R.color.purple_500)); // Set background color
-        button.setTextColor(getResources().getColor(android.R.color.white)); // Set text color
-
-
-        // Set OnClickListener for the programmatically created button
+        // Set OnClickListener
         button.setOnClickListener(v -> {
             Intent intent = new Intent(ChestionareSelectateActivity.this, SimulareActivity.class);
             intent.putExtra("chestionar", index);
             intent.putExtra("categoria", category);
             startActivity(intent);
-
         });
     }
 
@@ -55,18 +51,18 @@ public class ChestionareSelectateActivity extends AppCompatActivity {
         setContentView(R.layout.activity_chestionare_selectate);
 
         AssetManager assetManager = this.getAssets();
-
         String categoryStr = this.getIntent().getStringExtra("categoria");
-        Category category = new Category(assetManager, categoryStr);
-
+        
         int num = 0;
-        if(categoryStr.equals("Categoria A")){
-            num = 21;
-        } else if (categoryStr.equals("Categoria B")){
-            num = 60;
+        if (categoryStr != null) {
+            if (categoryStr.equals("Categoria A")) {
+                num = 21;
+            } else if (categoryStr.equals("Categoria B")) {
+                num = 60;
+            }
         }
 
-        for(int index = 1; index <= num; index++){
+        for (int index = 1; index <= num; index++) {
             createButton(index, categoryStr);
         }
     }

@@ -11,6 +11,8 @@
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Background -->
+        <item name="android:windowBackground">@drawable/grey_gradient_background</item>
         <!-- Customize your theme here. -->
     </style>
 </resources>

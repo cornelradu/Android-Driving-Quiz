@@ -22,11 +22,15 @@ import com.example.quizz.R;
 import com.example.quizz.logic.Category;
 import com.example.quizz.logic.Chapter;
 import com.example.quizz.logic.Question;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
 
 import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.Executors;
 
 public class ExamineazaRaspunsuriGresite extends AppCompatActivity {
     private static final String ARG_PARAM1 = "param1";
@@ -263,6 +267,17 @@ public class ExamineazaRaspunsuriGresite extends AppCompatActivity {
 
         });
 
+        initAds();
+    }
 
+    private void initAds() {
+        Executors.newSingleThreadExecutor().execute(() -> {
+            MobileAds.initialize(this, initializationStatus -> {});
+            runOnUiThread(() -> {
+                AdView adView = findViewById(R.id.adView);
+                AdRequest adRequest = new AdRequest.Builder().build();
+                adView.loadAd(adRequest);
+            });
+        });
     }
 }

@@ -1,24 +1,18 @@
 package com.example.quizz.ui;
 
-import androidx.activity.result.ActivityResultCallback;
-import androidx.activity.result.ActivityResultLauncher;
-import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
-import android.app.Activity;
 import android.content.Intent;
 import android.content.res.AssetManager;
-import android.graphics.BitmapFactory;
 import android.graphics.Color;
-import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
+import android.os.Looper;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -31,37 +25,29 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.MobileAds;
 
 import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 public class SimulareActivity extends AppCompatActivity {
 
-    private static final String ARG_PARAM1 = "param1";
-    private static final String ARG_PARAM2 = "param2";
+    private int index = 0;
+    private List<Question> questionList;
+    private String[] answered;
+    private int[] answeredCodes;
+    private int maxWrong = 4;
+    private int noAnswered = 0;
+    private int correctAnswered = 0;
+    private int time = 0;
 
-    // TODO: Rename and change types of parameters
-    private String mParam1;
-    private String mParam2;
+    private boolean answer1Set = false;
+    private boolean answer2Set = false;
+    private boolean answer3Set = false;
 
-    int index = 0;
+    private Category category = null;
+    private int chestionar = 0;
+    private final ExecutorService executorService = Executors.newSingleThreadExecutor();
 
-    List<Question> questionList;
-
-    String[] answered;
-
-    int[] answeredCodes;
-    int maxWrong = 4;
-    int noAnswered = 0;
-    int correctAnswered = 0;
-
-    int time = 0;
-
-    boolean answer1Set = false;
-    boolean answer2Set = false;
-    boolean answer3Set = false;
-
-    Category category = null;
-
-    int chestionar = 0;
-    private void finish(int wrong, int correct, String result){
+    private void finishQuiz(int wrong, int correct, String result) {
         Intent intent = new Intent(SimulareActivity.this, ResultInfoActivity.class);
         intent.putExtra("wrong", wrong);
         intent.putExtra("correct", correct);
@@ -69,7 +55,7 @@ public class SimulareActivity extends AppCompatActivity {
         intent.putExtra("answered", answered);
 
         int[] questionIds = new int[this.category.getNoQuestions()];
-        for(int i = 0; i < questionIds.length; i++){
+        for (int i = 0; i < questionIds.length; i++) {
             questionIds[i] = this.questionList.get(i).getId();
         }
         intent.putExtra("questionIds", questionIds);
@@ -79,673 +65,205 @@ public class SimulareActivity extends AppCompatActivity {
         startActivityForResult(intent, 1);
     }
 
-    @SuppressLint("ClickableViewAccessibility")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_simulare);
 
-        AssetManager assetManager = this.getAssets();
+        // Defer heavy data loading to background thread
+        executorService.execute(() -> {
+            AssetManager assetManager = getAssets();
+            String categoriaName = getIntent().getStringExtra("categoria");
+            this.category = new Category(assetManager, categoriaName);
+            this.maxWrong = this.category.getMaxWrong();
+            this.chestionar = getIntent().getIntExtra("chestionar", 0);
 
-
-        this.category = new Category(assetManager, getIntent().getStringExtra("categoria"));
-        maxWrong = this.category.getMaxWrong();
-        final int noOfQ = this.category.getNoQuestions();
-        this.chestionar = getIntent().getIntExtra("chestionar", 0);
-        if (chestionar == 0){
-            this.questionList = Quiz.generateQuiz(this.category);
-        } else {
-            this.questionList = Quiz.generateQuiz(this.category, chestionar);
-        }
-        this.answered = new String[this.category.getNoQuestions()];
-        this.answeredCodes = new int[this.category.getNoQuestions()];
-        for(int i = 0; i < this.answered.length; i++){
-            this.answered[i] = "Not Answered";
-        }
-
-        time = category.getTimeAllowed() * 60;
-
-        AppCompatActivity that = this;
-
-        final TextView questionTextView = (TextView)findViewById(R.id.question);
-        questionTextView.setText(this.questionList.get(0).getQuestion());
-
-        final TextView answer1TextView = (TextView)findViewById(R.id.answer1);
-        answer1TextView.setText(this.questionList.get(0).getAnswers()[0]);
-
-        final TextView answer2TextView = (TextView)findViewById(R.id.answer2);
-        answer2TextView.setText(this.questionList.get(0).getAnswers()[1]);
-
-        final TextView answer3TextView = (TextView)findViewById(R.id.answer3);
-        answer3TextView.setText(this.questionList.get(0).getAnswers()[2]);
-
-        final String[] ans = this.answered;
-
-        final TextView initialQuestions = (TextView)findViewById(R.id.initial_questions_num);
-        initialQuestions.setText("" + noOfQ);
-
-        final TextView remainingQuestionsView = (TextView)findViewById(R.id.remaining_questions_num);
-        remainingQuestionsView.setText("" + noOfQ);
-
-        final TextView correctAnswersView = (TextView)findViewById(R.id.correct_answers_num);
-
-        final TextView wrongAnswersView = (TextView)findViewById(R.id.wrong_answers_num);
-
-        ImageButton nextQuestion = (ImageButton) findViewById(R.id.nextQuestion);
-        final ImageButton sendAnswer = (ImageButton) findViewById(R.id.sendAnswer);
-        final ImageView imageView = (ImageView) findViewById(R.id.imageView);
-
-        if(questionList.get(0).hasImage()) {
-            com.example.quizz.logic.ImageManager.getInstance().displayImage(
-                    this,
-                    this.category.getCategoryName(),
-                    questionList.get(0).getChapterName(),
-                    questionList.get(0).getNum(),
-                    imageView,
-                    nextQuestion,
-                    sendAnswer
-            );
-            imageView.setVisibility(View.VISIBLE);
-            ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
-            lp.height = 600;
-            imageView.setLayoutParams(lp);
-        }else {
-            ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
-            lp.height = 0;
-            imageView.setLayoutParams(lp);
-            imageView.setVisibility(View.INVISIBLE);
-        }
-
-        final Button buttonA = (Button) findViewById(R.id.buttonA);
-        buttonA.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                answer1Set = !answer1Set;
-                if(answer1Set){
-                    buttonA.setBackgroundColor(getResources().getColor(R.color.yellow));
-                } else {
-                    buttonA.setBackgroundColor(getResources().getColor(R.color.light_blue));
-                }
-
-                if(answer1Set){
-                    answer1TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer1TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-                if(answer2Set){
-                    answer2TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer2TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-
-                if(answer3Set){
-                    answer3TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer3TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
+            if (chestionar == 0) {
+                this.questionList = Quiz.generateQuiz(this.category);
+            } else {
+                this.questionList = Quiz.generateQuiz(this.category, chestionar);
             }
+
+            int noOfQ = this.category.getNoQuestions();
+            this.answered = new String[noOfQ];
+            this.answeredCodes = new int[noOfQ];
+            for (int i = 0; i < noOfQ; i++) {
+                this.answered[i] = "Not Answered";
+            }
+            this.time = category.getTimeAllowed() * 60;
+
+            // Update UI on main thread
+            new Handler(Looper.getMainLooper()).post(this::initializeUI);
         });
 
-        final Button buttonB = (Button) findViewById(R.id.buttonB);
-        buttonB.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                answer2Set = !answer2Set;
-                if(answer2Set){
-                    buttonB.setBackgroundColor(getResources().getColor(R.color.yellow));
-                } else {
-                    buttonB.setBackgroundColor(getResources().getColor(R.color.light_blue));
-                }
-
-                if(answer1Set){
-                    answer1TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer1TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-                if(answer2Set){
-                    answer2TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer2TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-
-                if(answer3Set){
-                    answer3TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer3TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
+        // Async AdMob initialization
+        MobileAds.initialize(this, status -> {
+            com.google.android.gms.ads.AdView mAdView = findViewById(R.id.adView);
+            if (mAdView != null) {
+                AdRequest adRequest = new AdRequest.Builder().build();
+                mAdView.loadAd(adRequest);
             }
         });
-
-        final Button buttonC = (Button) findViewById(R.id.buttonC);
-        buttonC.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                answer3Set = !answer3Set;
-                if(answer3Set){
-                    buttonC.setBackgroundColor(getResources().getColor(R.color.yellow));
-                } else {
-                    buttonC.setBackgroundColor(getResources().getColor(R.color.light_blue));
-                }
-
-                if(answer1Set){
-                    answer1TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer1TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-                if(answer2Set){
-                    answer2TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer2TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-
-                if(answer3Set){
-                    answer3TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer3TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-            }
-        });
-
-        final List<Question> qList = this.questionList;
-        nextQuestion.setOnTouchListener(new View.OnTouchListener() {
-            @Override
-            public boolean onTouch(View v, MotionEvent event) {
-                switch (event.getAction()) {
-                    case MotionEvent.ACTION_DOWN: {
-                        nextQuestion.setBackgroundColor(getResources().getColor(R.color.yellow));
-                        do{
-                            index += 1;
-                            if(index == noOfQ){
-                                index = 0;
-                            }
-                        } while (!ans[index].equals("Not Answered"));
-
-                        questionTextView.setText(qList.get(index).getQuestion());
-
-                        answer1TextView.setText(qList.get(index).getAnswers()[0]);
-
-                        answer2TextView.setText(qList.get(index).getAnswers()[1]);
-
-                        answer3TextView.setText(qList.get(index).getAnswers()[2]);
-
-                        buttonA.setBackgroundColor(getResources().getColor(R.color.light_blue));
-                        buttonB.setBackgroundColor(getResources().getColor(R.color.light_blue));
-                        buttonC.setBackgroundColor(getResources().getColor(R.color.light_blue));
-
-                        answer1Set = false;
-                        answer2Set = false;
-                        answer3Set = false;
-
-                        if(answer1Set){
-                            answer1TextView.setBackgroundColor(Color.YELLOW);
-                        } else {
-                            answer1TextView.setBackgroundColor(Color.TRANSPARENT);
-                        }
-
-                        if(answer2Set){
-                            answer2TextView.setBackgroundColor(Color.YELLOW);
-                        } else {
-                            answer2TextView.setBackgroundColor(Color.TRANSPARENT);
-                        }
-
-
-                        if(answer3Set){
-                            answer3TextView.setBackgroundColor(Color.YELLOW);
-                        } else {
-                            answer3TextView.setBackgroundColor(Color.TRANSPARENT);
-                        }
-
-                        if(questionList.get(index).hasImage()) {
-                            com.example.quizz.logic.ImageManager.getInstance().displayImage(
-                                    SimulareActivity.this,
-                                    that.getIntent().getStringExtra("categoria"),
-                                    questionList.get(index).getChapterName(),
-                                    questionList.get(index).getNum(),
-                                    imageView,
-                                    nextQuestion,
-                                    sendAnswer
-                            );
-                            imageView.setVisibility(View.VISIBLE);
-                            ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
-                            lp.height = 600;
-                            imageView.setLayoutParams(lp);
-
-                        } else {
-                            ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
-                            lp.height = 0;
-                            imageView.setLayoutParams(lp);
-                            imageView.setVisibility(View.INVISIBLE);
-                        }
-                        break;
-                    }
-                    case MotionEvent.ACTION_UP:
-
-                        nextQuestion.setBackgroundColor(Color.TRANSPARENT);
-
-
-                }
-                return true;
-            }
-
-        });
-
-        final ImageButton buttonDeleteAnswer = (ImageButton) findViewById(R.id.deleteAnswer);
-        buttonDeleteAnswer.setOnTouchListener(new View.OnTouchListener() {
-            @Override
-            public boolean onTouch(View v, MotionEvent event) {
-                switch (event.getAction()) {
-                    case MotionEvent.ACTION_DOWN: {
-                        buttonDeleteAnswer.setBackgroundColor(getResources().getColor(R.color.yellow));
-                        buttonA.setBackgroundColor(getResources().getColor(R.color.light_blue));
-                        buttonB.setBackgroundColor(getResources().getColor(R.color.light_blue));
-                        buttonC.setBackgroundColor(getResources().getColor(R.color.light_blue));
-
-                        answer1Set = false;
-                        answer2Set = false;
-                        answer3Set = false;
-
-                        if(answer1Set){
-                            answer1TextView.setBackgroundColor(Color.YELLOW);
-                        } else {
-                            answer1TextView.setBackgroundColor(Color.TRANSPARENT);
-                        }
-
-                        if(answer2Set){
-                            answer2TextView.setBackgroundColor(Color.YELLOW);
-                        } else {
-                            answer2TextView.setBackgroundColor(Color.TRANSPARENT);
-                        }
-
-
-                        if(answer3Set){
-                            answer3TextView.setBackgroundColor(Color.YELLOW);
-                        } else {
-                            answer3TextView.setBackgroundColor(Color.TRANSPARENT);
-                        }
-                        break;
-                    }
-                    case MotionEvent.ACTION_UP:
-
-                        buttonDeleteAnswer.setBackgroundColor(Color.TRANSPARENT);
-
-
-                }
-                return true;
-            }
-
-        });
-
-        sendAnswer.setOnTouchListener(new View.OnTouchListener() {
-            @Override
-            public boolean onTouch(View v, MotionEvent event) {
-                switch (event.getAction()) {
-                    case MotionEvent.ACTION_DOWN: {
-                        sendAnswer.setBackgroundColor(getResources().getColor(R.color.yellow));
-                        int expectedAnswer = qList.get(index).getCorrectAnswer();
-
-                        //sendAnswer.setBackgroundColor(getResources().getColor(R.color.yellow));
-
-                        int sum = 1000;
-                        if(answer1Set){
-                            sum += 100;
-                        }
-                        if(answer2Set){
-                            sum += 10;
-                        }
-                        if(answer3Set){
-                            sum += 1;
-                        }
-
-                        answeredCodes[index] = sum;
-
-                        if(expectedAnswer == sum){
-                            answered[index] = "Correct";
-                            correctAnswered += 1;
-                        } else {
-                            answered[index] = "Wrong";
-                        }
-                        noAnswered += 1;
-
-                        remainingQuestionsView.setText((noOfQ - noAnswered) + "");
-
-                        correctAnswersView.setText((correctAnswered) + "");
-
-                        wrongAnswersView.setText((noAnswered-correctAnswered) + "");
-
-                        if(noAnswered - correctAnswered > maxWrong){
-                            finish(noAnswered - correctAnswered, correctAnswered, "Failed");
-                            return true;
-                        } else if(noAnswered == noOfQ){
-                            finish(noAnswered - correctAnswered, correctAnswered, "Succeded");
-                        }
-
-                        do{
-                            index += 1;
-                            if(index == noOfQ){
-                                index = 0;
-                            }
-                        } while (!ans[index].equals("Not Answered"));
-
-                        questionTextView.setText(qList.get(index).getQuestion());
-
-                        answer1TextView.setText(qList.get(index).getAnswers()[0]);
-
-                        answer2TextView.setText(qList.get(index).getAnswers()[1]);
-
-                        answer3TextView.setText(qList.get(index).getAnswers()[2]);
-
-                        buttonA.setBackgroundColor(getResources().getColor(R.color.light_blue));
-                        buttonB.setBackgroundColor(getResources().getColor(R.color.light_blue));
-                        buttonC.setBackgroundColor(getResources().getColor(R.color.light_blue));
-
-                        answer1Set = false;
-                        answer2Set = false;
-                        answer3Set = false;
-
-                        if(answer1Set){
-                            answer1TextView.setBackgroundColor(Color.YELLOW);
-                        } else {
-                            answer1TextView.setBackgroundColor(Color.TRANSPARENT);
-                        }
-
-                        if(answer2Set){
-                            answer2TextView.setBackgroundColor(Color.YELLOW);
-                        } else {
-                            answer2TextView.setBackgroundColor(Color.TRANSPARENT);
-                        }
-
-
-                        if(answer3Set){
-                            answer3TextView.setBackgroundColor(Color.YELLOW);
-                        } else {
-                            answer3TextView.setBackgroundColor(Color.TRANSPARENT);
-                        }
-
-                        if(questionList.get(index).hasImage()) {
-                            com.example.quizz.logic.ImageManager.getInstance().displayImage(
-                                    SimulareActivity.this,
-                                    that.getIntent().getStringExtra("categoria"),
-                                    questionList.get(index).getChapterName(),
-                                    questionList.get(index).getNum(),
-                                    imageView,
-                                    nextQuestion,
-                                    sendAnswer
-                            );
-                            imageView.setVisibility(View.VISIBLE);
-                            ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
-                            lp.height = 600;
-                            imageView.setLayoutParams(lp);
-
-                        }else {
-                            ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
-                            lp.height = 0;
-                            imageView.setLayoutParams(lp);
-                            imageView.setVisibility(View.INVISIBLE);
-                        }
-                        break;
-                    }
-                    case MotionEvent.ACTION_UP:
-
-                        sendAnswer.setBackgroundColor(Color.TRANSPARENT);
-
-
-                }
-                return true;
-            }
-
-        });
-
-        answer1TextView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                answer1Set = !answer1Set;
-
-                if(answer1Set){
-                    buttonA.setBackgroundColor(getResources().getColor(R.color.yellow));
-                } else {
-                    buttonA.setBackgroundColor(getResources().getColor(R.color.light_blue));
-                }
-
-                if(answer1Set){
-                    answer1TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer1TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-                if(answer2Set){
-                    answer2TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer2TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-
-                if(answer3Set){
-                    answer3TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer3TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-
-            }
-        });
-
-        answer2TextView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                answer2Set = !answer2Set;
-
-                if(answer2Set){
-                    buttonB.setBackgroundColor(getResources().getColor(R.color.yellow));
-                } else {
-                    buttonB.setBackgroundColor(getResources().getColor(R.color.light_blue));
-                }
-
-                if(answer1Set){
-                    answer1TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer1TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-                if(answer2Set){
-                    answer2TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer2TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-
-                if(answer3Set){
-                    answer3TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer3TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-
-            }
-        });
-
-        answer3TextView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                answer3Set = !answer3Set;
-
-                if(answer3Set){
-                    buttonC.setBackgroundColor(getResources().getColor(R.color.yellow));
-                } else {
-                    buttonC.setBackgroundColor(getResources().getColor(R.color.light_blue));
-                }
-
-                if(answer1Set){
-                    answer1TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer1TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-                if(answer2Set){
-                    answer2TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer2TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-
-                if(answer3Set){
-                    answer3TextView.setBackgroundColor(Color.YELLOW);
-                } else {
-                    answer3TextView.setBackgroundColor(Color.TRANSPARENT);
-                }
-
-
-            }
-        });
-
-        Handler handler = new Handler();
-        final TextView timeRemainingVIew = (TextView)findViewById(R.id.remaining_time);
-        final Runnable r = new Runnable() {
-            public void run() {
-                time -= 1;
-                timeRemainingVIew.setText(time/3600 + ":" + (time/60) + ":" + (time%60) + " Timp ramas");
-                handler.postDelayed(this, 1000);
-            }
+    }
+
+    @SuppressLint("ClickableViewAccessibility")
+    private void initializeUI() {
+        if (questionList == null || questionList.isEmpty()) return;
+
+        final TextView questionTextView = findViewById(R.id.question);
+        final TextView answer1TextView = findViewById(R.id.answer1);
+        final TextView answer2TextView = findViewById(R.id.answer2);
+        final TextView answer3TextView = findViewById(R.id.answer3);
+        final TextView initialQuestions = findViewById(R.id.initial_questions_num);
+        final TextView remainingQuestionsView = findViewById(R.id.remaining_questions_num);
+        final TextView correctAnswersView = findViewById(R.id.correct_answers_num);
+        final TextView wrongAnswersView = findViewById(R.id.wrong_answers_num);
+        final TextView timeRemainingView = findViewById(R.id.remaining_time);
+        
+        final Button nextQuestion = findViewById(R.id.nextQuestion);
+        final Button sendAnswer = findViewById(R.id.sendAnswer);
+        final Button buttonDeleteAnswer = findViewById(R.id.deleteAnswer);
+        final ImageView imageView = findViewById(R.id.imageView);
+        
+        final Button buttonA = findViewById(R.id.buttonA);
+        final Button buttonB = findViewById(R.id.buttonB);
+        final Button buttonC = findViewById(R.id.buttonC);
+
+        int noOfQ = category.getNoQuestions();
+        initialQuestions.setText(String.valueOf(noOfQ));
+        remainingQuestionsView.setText(String.valueOf(noOfQ));
+        updateQuestionUI(questionTextView, answer1TextView, answer2TextView, answer3TextView, imageView, nextQuestion, sendAnswer);
+
+        // Selection Logic
+        View.OnClickListener answerClick = v -> {
+            if (v == buttonA || v == answer1TextView) answer1Set = !answer1Set;
+            else if (v == buttonB || v == answer2TextView) answer2Set = !answer2Set;
+            else if (v == buttonC || v == answer3TextView) answer3Set = !answer3Set;
+            updateSelectionColors(buttonA, buttonB, buttonC, answer1TextView, answer2TextView, answer3TextView);
         };
 
-        handler.postDelayed(r, 1000);
-        MobileAds.initialize(this, initializationStatus -> {});
-        com.google.android.gms.ads.AdView mAdView = findViewById(R.id.adView);
-        AdRequest adRequest = new com.google.android.gms.ads.AdRequest.Builder().build();
-        mAdView.loadAd(adRequest);
+        buttonA.setOnClickListener(answerClick);
+        buttonB.setOnClickListener(answerClick);
+        buttonC.setOnClickListener(answerClick);
+        answer1TextView.setOnClickListener(answerClick);
+        answer2TextView.setOnClickListener(answerClick);
+        answer3TextView.setOnClickListener(answerClick);
+
+        // Navigation
+        nextQuestion.setOnClickListener(v -> {
+            moveToNextUnanswered();
+            resetSelection(buttonA, buttonB, buttonC, answer1TextView, answer2TextView, answer3TextView);
+            updateQuestionUI(questionTextView, answer1TextView, answer2TextView, answer3TextView, imageView, nextQuestion, sendAnswer);
+        });
+
+        buttonDeleteAnswer.setOnClickListener(v -> {
+            resetSelection(buttonA, buttonB, buttonC, answer1TextView, answer2TextView, answer3TextView);
+        });
+
+        sendAnswer.setOnClickListener(v -> {
+            processAnswer(remainingQuestionsView, correctAnswersView, wrongAnswersView);
+
+            if (noAnswered - correctAnswered > maxWrong) {
+                finishQuiz(noAnswered - correctAnswered, correctAnswered, "Failed");
+            } else if (noAnswered == category.getNoQuestions()) {
+                finishQuiz(noAnswered - correctAnswered, correctAnswered, "Succeeded");
+            } else {
+                moveToNextUnanswered();
+                resetSelection(buttonA, buttonB, buttonC, answer1TextView, answer2TextView, answer3TextView);
+                updateQuestionUI(questionTextView, answer1TextView, answer2TextView, answer3TextView, imageView, nextQuestion, sendAnswer);
+            }
+        });
+
+        // Timer
+        Handler timerHandler = new Handler();
+        timerHandler.postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                if (time > 0) {
+                    time--;
+                    int h = time / 3600;
+                    int m = (time % 3600) / 60;
+                    int s = time % 60;
+                    timeRemainingView.setText(String.format("%02d:%02d:%02d", h, m, s));
+                    timerHandler.postDelayed(this, 1000);
+                } else {
+                    finishQuiz(noAnswered - correctAnswered, correctAnswered, "Failed - Time Expired");
+                }
+            }
+        }, 1000);
+    }
+
+    private void updateQuestionUI(TextView qTv, TextView a1, TextView a2, TextView a3, ImageView iv, View next, View send) {
+        Question q = questionList.get(index);
+        qTv.setText(q.getQuestion());
+        a1.setText(q.getAnswers()[0]);
+        a2.setText(q.getAnswers()[1]);
+        a3.setText(q.getAnswers()[2]);
+
+        if (q.hasImage()) {
+            iv.setVisibility(View.VISIBLE);
+            com.example.quizz.logic.ImageManager.getInstance().displayImage(
+                    this, category.getCategoryName(), q.getChapterName(), q.getNum(), iv, next, send
+            );
+            ViewGroup.LayoutParams lp = iv.getLayoutParams();
+            lp.height = 600;
+            iv.setLayoutParams(lp);
+        } else {
+            iv.setVisibility(View.GONE);
+            ViewGroup.LayoutParams lp = iv.getLayoutParams();
+            lp.height = 0;
+            iv.setLayoutParams(lp);
+        }
+    }
+
+    private void updateSelectionColors(Button bA, Button bB, Button bC, TextView t1, TextView t2, TextView t3) {
+        int yellow = getResources().getColor(R.color.yellow);
+        int lightBlue = getResources().getColor(R.color.light_blue);
+
+        bA.setBackgroundTintList(android.content.res.ColorStateList.valueOf(answer1Set ? yellow : lightBlue));
+        bB.setBackgroundTintList(android.content.res.ColorStateList.valueOf(answer2Set ? yellow : lightBlue));
+        bC.setBackgroundTintList(android.content.res.ColorStateList.valueOf(answer3Set ? yellow : lightBlue));
+
+        t1.setBackgroundColor(answer1Set ? Color.YELLOW : Color.TRANSPARENT);
+        t2.setBackgroundColor(answer2Set ? Color.YELLOW : Color.TRANSPARENT);
+        t3.setBackgroundColor(answer3Set ? Color.YELLOW : Color.TRANSPARENT);
+    }
+
+    private void resetSelection(Button bA, Button bB, Button bC, TextView t1, TextView t2, TextView t3) {
+        answer1Set = answer2Set = answer3Set = false;
+        updateSelectionColors(bA, bB, bC, t1, t2, t3);
+    }
+
+    private void moveToNextUnanswered() {
+        int start = index;
+        do {
+            index = (index + 1) % category.getNoQuestions();
+        } while (!answered[index].equals("Not Answered") && index != start);
+    }
+
+    private void processAnswer(TextView rem, TextView corr, TextView wrong) {
+        int expected = questionList.get(index).getCorrectAnswer();
+        int sum = 1000 + (answer1Set ? 100 : 0) + (answer2Set ? 10 : 0) + (answer3Set ? 1 : 0);
+        answeredCodes[index] = sum;
+        if (expected == sum) {
+            answered[index] = "Correct";
+            correctAnswered++;
+        } else {
+            answered[index] = "Wrong";
+        }
+        noAnswered++;
+        rem.setText(String.valueOf(category.getNoQuestions() - noAnswered));
+        corr.setText(String.valueOf(correctAnswered));
+        wrong.setText(String.valueOf(noAnswered - correctAnswered));
     }
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
-        if(resultCode != 2 && resultCode != 3) {
+        if (resultCode != 2 && resultCode != 3) {
             super.onBackPressed();
         } else {
-
-
-            if(resultCode == 3){
-                if(this.chestionar != 0){
-                    super.onBackPressed();
-                    return;
-                }
-                this.questionList = Quiz.generateQuiz(this.category);
-            }
-            this.noAnswered=0;
-            this.answered = new String[this.category.getNoQuestions()];
-            this.answeredCodes = new int[this.category.getNoQuestions()];
-            this.correctAnswered = 0;
-            this.index = 0;
-            time = category.getTimeAllowed() * 60;
-            final TextView timeRemainingVIew = (TextView)findViewById(R.id.remaining_time);
-            timeRemainingVIew.setText(time/3600 + ":" + (time/60) + ":" + (time%60) + " Timp ramas");
-
-            for(int i = 0; i < this.answered.length; i++){
-                this.answered[i] = "Not Answered";
-            }
-
-            AssetManager assetManager = this.getAssets();
-
-            final TextView questionTextView = (TextView)findViewById(R.id.question);
-            questionTextView.setText(this.questionList.get(0).getQuestion());
-
-            final TextView answer1TextView = (TextView)findViewById(R.id.answer1);
-            answer1TextView.setText(this.questionList.get(0).getAnswers()[0]);
-
-            final TextView answer2TextView = (TextView)findViewById(R.id.answer2);
-            answer2TextView.setText(this.questionList.get(0).getAnswers()[1]);
-
-            final TextView answer3TextView = (TextView)findViewById(R.id.answer3);
-            answer3TextView.setText(this.questionList.get(0).getAnswers()[2]);
-
-            ImageButton nextQuestion = (ImageButton) findViewById(R.id.nextQuestion);
-
-            final TextView initialQuestions = (TextView)findViewById(R.id.initial_questions_num);
-            initialQuestions.setText("" + this.category.getNoQuestions());
-
-            final TextView remainingQuestionsView = (TextView)findViewById(R.id.remaining_questions_num);
-            remainingQuestionsView.setText("" + this.category.getNoQuestions());
-
-            final TextView correctAnswersView = (TextView)findViewById(R.id.correct_answers_num);
-            correctAnswersView.setText("0");
-
-
-            final TextView wrongAnswersView = (TextView)findViewById(R.id.wrong_answers_num);
-            wrongAnswersView.setText("0");
-
-            final ImageView imageView = (ImageView) findViewById(R.id.imageView);
-            if(questionList.get(0).hasImage()) {
-                com.example.quizz.logic.ImageManager.getInstance().displayImage(
-                        this,
-                        this.category.getCategoryName(),
-                        questionList.get(0).getChapterName(),
-                        questionList.get(0).getNum(),
-                        imageView,
-                        (View) findViewById(R.id.nextQuestion),
-                        (View) findViewById(R.id.sendAnswer)
-                );
-                imageView.setVisibility(View.VISIBLE);
-                ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
-                lp.height = 600;
-                imageView.setLayoutParams(lp);
-
-            }else {
-                ViewGroup.LayoutParams lp = (ViewGroup.LayoutParams) imageView.getLayoutParams();
-                lp.height = 0;
-                imageView.setLayoutParams(lp);
-                imageView.setVisibility(View.INVISIBLE);
-            }
-
-            answer1Set = false;
-            answer2Set = false;
-            answer3Set = false;
-
-            final Button buttonA = (Button) findViewById(R.id.buttonA);
-            final Button buttonB = (Button) findViewById(R.id.buttonB);
-            final Button buttonC = (Button) findViewById(R.id.buttonC);
-
-
-            if(answer3Set){
-                buttonC.setBackgroundColor(getResources().getColor(R.color.yellow));
-            } else {
-                buttonC.setBackgroundColor(getResources().getColor(R.color.light_blue));
-            }
-
-            if(answer2Set){
-                buttonB.setBackgroundColor(getResources().getColor(R.color.yellow));
-            } else {
-                buttonB.setBackgroundColor(getResources().getColor(R.color.light_blue));
-            }
-
-            if(answer1Set){
-                buttonA.setBackgroundColor(getResources().getColor(R.color.yellow));
-            } else {
-                buttonA.setBackgroundColor(getResources().getColor(R.color.light_blue));
-            }
-
-            if(answer1Set){
-                answer1TextView.setBackgroundColor(Color.YELLOW);
-            } else {
-                answer1TextView.setBackgroundColor(Color.TRANSPARENT);
-            }
-
-            if(answer2Set){
-                answer2TextView.setBackgroundColor(Color.YELLOW);
-            } else {
-                answer2TextView.setBackgroundColor(Color.TRANSPARENT);
-            }
-
-
-            if(answer3Set){
-                answer3TextView.setBackgroundColor(Color.YELLOW);
-            } else {
-                answer3TextView.setBackgroundColor(Color.TRANSPARENT);
-            }
+            recreate(); // Simple way to restart the quiz session
         }
     }
-
 }

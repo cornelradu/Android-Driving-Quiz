@@ -1,179 +1,192 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
-
-    <!-- TODO: Update blank fragment layout -->
+    android:layout_height="match_parent"
+    tools:context=".ui.ExamineazaRaspunsuriGresite">
 
     <ScrollView
-        android:layout_width="fill_parent"
-        android:layout_height="600dp"
-        >
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/navigationCard"
+        app:layout_constraintTop_toTopOf="parent">
 
-        <RelativeLayout
-            android:id="@+id/form_layout"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="800dp"
-            android:layout_marginTop="0dp">
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
 
-
-            <ImageView
-                android:id="@+id/imageView"
-                android:layout_width="fill_parent"
-                android:layout_height="200dp"
-                android:scaleType="fitXY"
-                android:layout_below="@+id/question" />
-
-            <TextView
-                android:id="@+id/question"
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
                 android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:layout_marginTop="10dp"
-                android:textStyle="bold"
-                android:paddingHorizontal="10dp"
-                android:text="Question 1?" />
-
-            <TextView
-                android:id="@+id/answer1"
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:layout_marginTop="30dp"
-                android:layout_below="@+id/imageView"
-                android:paddingHorizontal="10dp"
-                android:textStyle="bold"
-                android:text="TextView" />
-
-            <TextView
-                android:id="@+id/answer2"
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:layout_marginTop="5dp"
-                android:layout_below="@+id/answer1"
-                android:paddingHorizontal="10dp"
-                android:textStyle="bold"
-                android:text="TextView" />
-
-            <TextView
-                android:id="@+id/answer3"
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:layout_marginTop="5dp"
-                android:layout_below="@+id/answer2"
-                android:paddingHorizontal="10dp"
-                android:textStyle="bold"
-                android:text="TextView" />
-
-            <Button
-                android:id="@+id/nextQuestion"
-                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@+id/info_bar"
-                android:layout_marginTop="30dp"
-                android:text="Intrebarea urmatoare"
-                android:layout_centerInParent="true"
-                android:textColor="@color/white"
-                android:backgroundTint="@color/purple_500" />
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="16dp"
+                app:adSize="BANNER"
+                app:adUnitId="ca-app-pub-3940256099942544/6300978111" />
 
-            <Button
-                android:id="@+id/reiaChestionarul"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/nextQuestion"
-                android:layout_marginTop="30dp"
-                android:text="Reiau chestionarul"
-                android:layout_centerInParent="true"
-                android:textColor="@color/white"
-                android:backgroundTint="@color/purple_500" />
-
-            <Button
-                android:id="@+id/chestionarNou"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/reiaChestionarul"
-                android:layout_marginTop="30dp"
-                android:text="Chestionar nou"
-                android:layout_centerInParent="true"
-                android:textColor="@color/white"
-                android:backgroundTint="@color/purple_500" />
-
-            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-                android:id="@+id/info_bar"
+            <com.google.android.material.card.MaterialCardView
                 android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:layout_below="@+id/info_bar_2"
-                android:paddingLeft="16dp"
-                android:paddingRight="16dp"
-                android:layout_marginTop="30dp"
-                android:orientation="horizontal">
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="4dp">
 
                 <LinearLayout
-                    android:id="@+id/correct_answer_info_bar"
                     android:layout_width="match_parent"
-                    android:layout_weight="1"
-                    android:layout_height="40dp"
-                    android:orientation="horizontal">
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="16dp">
 
                     <TextView
-                        android:id="@+id/correct_answer_text"
+                        android:id="@+id/question"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Raspuns corect:"
-                        android:layout_weight="0.50"
-                        android:textColor="@color/green"/>
-                    <TextView
-                        android:id="@+id/correct_answer_num"
-                        android:layout_width="70dp"
-                        android:layout_height="wrap_content"
-                        android:text="a)"
-                        android:background="@drawable/border_shape"
-                        android:layout_weight="0.50"
-                        android:textColor="@color/green"/>
+                        android:text="Question text goes here..."
+                        android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
+                        android:textStyle="bold" />
 
-
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:layout_marginTop="16dp"
+                        android:scaleType="fitCenter"
+                        android:visibility="gone" />
                 </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
 
-            </LinearLayout>
-
-            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-                android:id="@+id/info_bar_2"
+            <com.google.android.material.card.MaterialCardView
                 android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:layout_below="@+id/answer3"
-                android:paddingLeft="16dp"
-                android:paddingRight="16dp"
-                android:layout_marginTop="30dp"
-                android:orientation="horizontal">
-
-                <LinearLayout
-                    android:id="@+id/wrong_answer_info_bar"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="2dp">
+                <TextView
+                    android:id="@+id/answer1"
                     android:layout_width="match_parent"
-                    android:layout_weight="1"
-                    android:layout_height="40dp"
-                    android:orientation="horizontal">
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:text="Answer A" />
+            </com.google.android.material.card.MaterialCardView>
 
-                    <TextView
-                        android:id="@+id/wrong_answer_text"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Raspuns selectat:"
-                        android:layout_weight="0.50"
-                        android:textColor="@color/red"/>
-                    <TextView
-                        android:id="@+id/wrong_answer_num"
-                        android:layout_width="70dp"
-                        android:layout_height="wrap_content"
-                        android:text="a)"
-                        android:background="@drawable/border_shape"
-                        android:layout_weight="0.50"
-                        android:textColor="@color/red"/>
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="2dp">
+                <TextView
+                    android:id="@+id/answer2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:text="Answer B" />
+            </com.google.android.material.card.MaterialCardView>
 
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="2dp">
+                <TextView
+                    android:id="@+id/answer3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:text="Answer C" />
+            </com.google.android.material.card.MaterialCardView>
 
-                </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Răspuns corect: "
+                    android:textStyle="bold"/>
+                <TextView
+                    android:id="@+id/correct_answer_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="A"
+                    android:textColor="@color/green"
+                    android:textStyle="bold"/>
             </LinearLayout>
 
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Răspunsul tău: "
+                    android:textStyle="bold"/>
+                <TextView
+                    android:id="@+id/wrong_answer_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="B"
+                    android:textColor="@color/red"
+                    android:textStyle="bold"/>
+            </LinearLayout>
 
-        </RelativeLayout>
+        </LinearLayout>
     </ScrollView>
-</RelativeLayout>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/navigationCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="16dp"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/nextQuestion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Intrebarea următoare"
+                app:cornerRadius="8dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal">
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/reiaChestionarul"
+                    style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="4dp"
+                    android:layout_weight="1"
+                    android:text="Reia"
+                    app:cornerRadius="8dp" />
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/chestionarNou"
+                    style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="4dp"
+                    android:layout_weight="1"
+                    android:text="Nou"
+                    app:cornerRadius="8dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
